@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n# Literature reader \n# Shiny app development \n# Gabriel Muñoz \n# University of Amsterdam\n# You can find out more about building applications with Shiny here:\n#\n# http://shiny.rstudio.com\n#\n\nlibrary(shiny)\n\npath <- \"/Users/Gabriel/Desktop/ShinyAPPS/LiteratureReader/test\"\nfilenames<-list.files(path)\npath1 <- paste(\"/Users/Gabriel/Desktop/ShinyAPPS/LiteratureReader/test\",\"/\", filenames, sep = \"\")\n\ndictionary.path <- \"/Users/Gabriel/Desktop/ShinyAPPS/LiteratureReader/dic\"\nfilenames.dic<-list.files(dictionary.path)\npath2 <- paste(\"/Users/Gabriel/Desktop/ShinyAPPS/LiteratureReader/dic\",\"/\", filenames.dic, sep = \"\")\n\nshinyUI(pageWithSidebar(\n  headerPanel(\n    \"Literature reader\"\n  ),\n  sidebarPanel(\n    selectInput(inputId = \"dataset\",\n                label = \"Select article to read\",\n                path1\n    ),\n    selectInput(inputId = \"dictionary\",\n                label = \"Provide a thesaurus\",\n                path2\n    )   \n  ),\n  mainPanel(\n    tabsetPanel(\n      tabPanel(\"Species names\",tableOutput(\"data_table\"),id=\"myTab\"),\n      tabPanel(\"Dictionary\",tableOutput(\"dictionary\"),id=\"myTab1\"),\n      tabPanel(\"Indexed version\",tableOutput(\"Indexed.version\"),id=\"Index\"),\n      tabPanel(\"plot\",plotOutput(\"plot\"),id=\"myplot\"),\n      id=\"Plot_Data\"\n    )\n  )\n))\n\n    \n",
+    "created" : 1489782116743.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2690541679",
+    "id" : "CD313A8",
+    "lastKnownWriteTime" : 1490202142,
+    "last_content_update" : 1490202142377,
+    "path" : "~/Desktop/ShinyAPPS/LiteratureReader/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "source_window_id" : ""
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

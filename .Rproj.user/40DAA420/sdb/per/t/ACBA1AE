@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\n# This is the server logic for a Shiny web application.\n# You can find out more about building applications with Shiny here:\n#\n# http://shiny.rstudio.com\n#\n\nlibrary(shiny)\n\nshinyServer(function(input, output) {\n  \n  \nread <- eventReactive(input$dataset,{\n  \n# Read the pdf\n fulltext::ft_extract(input$dataset)\n \n  \n})\n\n# Custom fucntion to index\n\nIndex <- function(read,verbatim, dictionary) {\n  \n  IndexText <- list()\n  for(i in 1:length(verbatim$offsetend)){\n    IndexText[[i]] <- stringr::str_sub(iconv(enc2utf8(read),sub=\"byte\"),verbatim$offsetstart[i]-50,verbatim$offsetend[i]+250)\n    \n  }\n  matches <- c()\n  ToMatch <- c()\n  for ( i in 1:length(IndexText)){\n    matches[[i]] <- grepl(paste(dictionary$term, collapse = \"|\"),IndexText[i])\n  }\n  df <- c()\n  df$text <- IndexText[matches==TRUE]\n  df$which <- which(matches == TRUE)\n  return(df)\n}\n\n\n#return( print(IndexText[which(matches[[i]] == TRUE)]))\n\n\n\n  \n\n# Tab with Scientific Names found and count\n\n  output$data_table <- renderTable({\n    #     Find scientific names\n    scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)\n    \n    sciname <- scinames.d$data$scientificname # output \n    table(sciname,dnn = \"Count\")[order(table(sciname), decreasing = T)]\n    \n  })\n  \n# Tab to show the dictionary\n    output$dictionary <- renderTable({\n      # Read the dictionary\n      dictio <- read.csv(input$dictionary, header = TRUE)\n      \n\n    })\n    \n# Tab to show the indexed results\n\n     \n    output$Indexed.version <- renderTable({\n      dictio <- read.csv(input$dictionary, header = TRUE)\n      scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)\n      verbatim <-scinames.d$data[c(\"verbatim\",\"offsetend\", \"offsetstart\")]\n    table(unlist( Index(read()$data, verbatim,dictio)$text),deparse.level = 0)\n    \n    })\n    \n    output$plot <- renderPlot({\n      dictio <- read.csv(input$dictionary, header = TRUE)\n      scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)\n      verbatim <-scinames.d$data[c(\"verbatim\",\"offsetend\", \"offsetstart\")]\n      matches <- Index(read()$data, verbatim,dictio)$which\n      \n      \n      plot(verbatim$offsetstart[matches], \n           xlab = \"String match rank\", ylab = \"Position in the text article (in characters)\", \n           ylim = c(0,nchar(iconv(enc2utf8(read()$data),sub=\"byte\"))),\n           col = \"#5ba966\",pch = 16,\n           main = \"position on the text\")\n      legend(\"bottomright\", \"Position of record \\n along the text\",pch = 16, col = \"#5ba966\", bty = \"y\" )\n    })\n})\n",
+    "created" : 1489782117094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1137491356",
+    "id" : "ACBA1AE",
+    "lastKnownWriteTime" : 1490202033,
+    "last_content_update" : 1490202033671,
+    "path" : "~/Desktop/ShinyAPPS/LiteratureReader/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
