@@ -1,0 +1,980 @@
+Systematic Botany (2011), 36(4): pp. 883-895 © Copyright 2011 by the American Society of Plant Taxonomists D O I 1Ó.16OO/O36364411X6O4'JO3
+Lanonia (Arecaceae: Palmae), a New Genus from Asia, with a Revision of the Species
+Andrew J. Henderson/-' and Christine D. Bacon^
+'Institute of Systematic Botany, New York Botanical Garden, Bronx, New York 10458, U. S. A. ^Department of Biology, Colorado State University, Fort Collins, Colorado 80523-1878, U. S. A.
+'Author for Correspondence (ahenderson@nybg.org)
+Commtmicating Editor: Chrissen Gemmill
+Abstract--A recent phylogenetic study based on molecular data indicates that Licúala (Arecaceae: Palmae) is not monophyletic. A highly supported group of species is resolved separately from Licúala and the rest of the Livistoninae, and is closely related to Joliannesteijsniannia, requiring that the segregate group be placed in a new genus. In this study, a phylogeny based on seven gene regions resolves highly supported generic relationships of the Livistoninae. A survey of Licúala specimens from several herbaria indicates that, based on morphology, eight species should be recognized within this genus. A complete description of the new genus, Lanonia, is given. A review of morphology distinguishes synapomorphies in leaf morphology and dioecy of Lanonia species. All eight species are described with complete synonymy, their distributions are mapped, and lists of specimens examined are given. One species occurs in Hainan, one in Java, and six are endemic or nearly endemic to Vietnam. The following new combinations are made: L. acaulis, L. calciphila, L. centralis, L. dasyantha, L. gracilis, L. hainanensis, L. hexasepala, and L. magalonii.
+Keywords--Dioecy, incongruence. Licúala, phylogenetics, Vietnam.
+
+Despite recent phylogenetic efforts to address relationships synonymy, descriptions, lists of specimens examined, and
+
+across the palm family (Arecaceae: Palmae; e.g. Asmussen distribution maps for all currently recognized species are
+
+et al. 2006, Baker et al. 2009), the Trachycarpeae remains given.
+
+one of the most significant areas of phylogenetic ambiguity
+
+within the family due to poor resolution among genera and low support for relationships. According to the most recent
+
+MATERIALS AND METHODS
+
+family classiflcation, subtribe Livistoninae (Coryphoideae;
+
+Taxon Sampling and DNA Sequencing--To avoid sampling bias
+
+Trachycarpeae) comprises five genera: Johantiesteijstnannia H. E. Moore, Licúala Wurmb, Livistona R. Br., Pholidocarpus
+
+and increase phylogenetic accuracy two species were sampled for each Livistoninae genus, not including Lanonia, that represented the phylogenetic diversity of the genera based on a broader study (Hillis 1998; Bacon
+
+Blume, and Pritchardiopsis Becc. (Dransfield et al. 2005). unpubl. data). More than one accession was sampled for some Lanonia
+
+A recent phylogenetic study of the Trachycarpeae (Bacon et al. in press) shows strong support for necessary taxonomic changes to Livistoninae genera. Livistona was resolved as two well-supported monophyletic groups that were not each
+
+species and a total of 30 terminals were included in the simultaneous analysis (Kluge 1989; Nixon and Carpenter 1996; TreeBASE study number 11233). Total genomic DNA was extracted from silica-gel dried leaves following the protocol described by Alexander et al. (2007). Sequences for three plastid loci (matK, ndliF, and triiDT) and four nuclear loci (CISPs 4 and
+
+others' sister groups and have been recognized as two distinct genera, Livistona and Saribus (Bacon and Baker 2011). Licúala, the largest genus of the Livistoninae, is clearly not monophyletic.
+
+5, MS, and RPB2) were generated. Single amplifications of the matK locus used primers matK-19F and matK-1862R, with internal sequencing for matK-300F, matK-809F, and matK-971R to construct contiguous sequences (Steele and Vilgalys 1994; Asmussen et al. 2006). Amplifications of CISPs 4 and 5 followed Bacon et al. (2008), MS followed Crisp et al. (2010), ndliF
+
+Licítala has been included in recent phylogenetic studies, but represented by only a single species (Asmussen et al. 2006; Baker et al. 2009; Crisp et al. 2010). Exemplar sampling within Licúala is inadequate since it is the largest genus
+
+followed Cuenca and Asmussen-Lange (2007), RPB2 followed Roncal et al. (2005), and trnDT followed Hahn (2002). Amplified products were sequenced by the Cancer Research Center DNA Sequencing Facility at the University of Chicago. All new sequences generated in this study have been deposited in CenBank under accession numbers JF292931 to
+
+of the Livistoninae and contains approximately 137 species JF292988 (Appendix 1).
+
+(Govaerts and Dransfield 2005). Licúala are distributed from
+
+Phylogenetic Analysis--Multilocus phylogenies enabled examination
+
+Bhutan and northeastern India throughout southeastern Asia and into the western Pacific. The two main centers of diversity are the Sunda Shelf in Malaysian Peninsula and Borneo with about 80 species, and the Sahul Shelf on the island of
+
+of the monophyly of Lanonia, its relationship to other Livistoninae genera, and the relationships among Lanonia species. Preliminary nucleotide alignments were obtained independently for each of the seven loci using the default MUSCLE v3.6 (Edgar 2004) settings in SeaView (Gouy et al. 2010) and manual adjustments were performed in MacClade v4.03 (Maddison
+
+New Guinea with about 40 species (Saw et al. 2003). More recently, Vietnam has been found to be a third center of diversity, and 11 new species have been added to the 10 species that are currently recognized (Henderson et al. 2008).
+
+and Maddison 2001) following Simmons (2004). Searches for the most parsimonious trees were conducted using 1,000 random addition tree-bisectionreconnection (TBR) searches in PAUP* v.4.0bl0 (Swofford 2001) with a maximum of ten trees held per replicate. Parsimony jackknife analyses (JK; Farris et al. 1996) were conducted using PAUP* and 1,000 replicates
+
+In this study we present results from both molecular and morphological studies to show that a segregate group of Licúala species should be recognized at the generic level. We describe a new genus to accommodate this segregate
+
+were performed with 100 random addition TBR searches per replicate. jModeltest vO.1.1 (Posada 2008) was used to select the best-fit likelihood model for each data matrix using the Akaike information criterion (Akaike 1974) without considering invariant-site models following Yang (2006). Searches for optimal maximum likelihood trees (Felsenstein 1973) and
+
+group, and call this Lanonia based on the local name, la non ("hat palm"), of these plants in Vietnam, the center of diversity in the genus. We provide a multilocus phylogeny of the Livistoninae based on data from both the nuclear and plas-
+
+1000 bootstrap replicates (BS; Felsenstein 1985) were conducted using the CIPRÉS Portal v2.2 with the RAxML-IlI algorithm (Stamatakis et al. 2005; Stamatakis et al. 2008). Simultaneous analysis was performed using the GTR + r model. We mapped support values onto the parsimony strict consensus tree using TreeGraph 2 (Stover and Müller 2010) to help minimize
+
+tid genomes and a taxonomic account of the new genus based on morphological data. A key as well as complete
+
+frequency-within-replicates (Davis et al. 1998) and undersampling-withinreplicates JK and BS artifacts (Simmons and Freudenstein 2011).
+
+883
+
+884
+
+SYSTEMATIC BOTANY
+
+[Volume 36
+
+For Bayesian MCMC analysis (Yang and Rannala 1997), data was partitioned by locus to allow for variation in substitution models in the BEAST package (Drummond et al. 2006; Drummond and Rambaut 2007). The analysis was run using a strict molecular clock model, a Yule pure birth speciation model, the GTR + T model of nucleotide substitution, and the default operator. The Markov chains were run for 10 million generations and repeated 10 times to test for MCMC chain convergence and to check effective sample sizes, which all exceeded 1,000. After removing an a priori determined 10% burn-in, BEAST log files were combined in LogCombiner v.l.5.4 to determine whether chains had reached stationarity in Tracer vl.5. Tree files were combined to estimate mean node height and the 95"/n highest posterior density in TreeAnnotator v.1.5.4.
+Morphological Analysis--A survey of the morphology of specimens of both Lanonia and Licúala was carried out. Specimens were examined from the following herbaria: A, AAU, BH, F, Fl, FIPI, HN, HNU, IBSC, K, M, MO, NY, P, SYS, US, and VNM. Relevant literature was also surveyed (e.g. Saw 1997; Barfod and Saw 2002; Saw et al. 2003).
+RESULTS
+Incongruence Among Gene Trees--Among the seven gene regions, each Livistoninae genus was highly-supported as monophyletic with 100% IK and BS support (Fig. 1) and 1.0
+Lanonia sp. AH3726
+Lanonia sp.AH3727
+Lanonia sp.AH3590
+Lanonia sp.AH3688
+Lanonia sp.AH3703
+Lanonia hexasepala AH3683
+Lanonia acaulis AH3309
+Lanonia calciphila AH3328
+
+posterior probability (PP; Fig. 2). The inter-generic relationships were congruent among the gene trees except for the position of Pholidocarpus, but the incongruences were all poorly supported (< 75% branch support). Within Lanonia, L. calciphila is resolved as sister to the rest of the genus in the ttdliF and RPB2 gene trees (62% and 97% IK respectively), but not in the CISP4 gene tree (85%). The position of Lanonia sp. AH3590 as sister to Lanonia sp. AH3726 and AH3727 is supported by both the matK (54% JK) and RPB2 gene trees (64% IK), but not by the CISPs 4 and 5 gene trees (85% and 63'X, respectively). The individuals Lanonia sp. AH3676 and AH3695 are sister in both the ndhP and matK gene trees (66% and 59% JK), but are separated by two weakly supported branches in the MS gene tree (60% and 50% JK). Lastly, in the CISP5 gene tree, L. acaulis is resolved as sister to L. hainanensis (58% JK), but not in the CISP4 or MS gene trees (85% and 60% JK respectively). These incongruences were maintained after resequencing of the individuals in question for the respective genes.
+Systematics Within Livistoninae and Lanonia Based on Molecular Phylogenetics--The multilocus phylogeny resolved Livistona as sister to all remaining species in the subtribe (95% JK and 84% BS), a clade of Licúala + Pltolidocarptts + Saribus (86% JK and 81% BS), and the sister relationship of Johannesteijsmamtia and Lanonia (99% JK and BS). Within Lanonia weakly supported relationships were resolved between L. hexasepala and L. sp. (AH3688 and AH3703; 57% JK and 62% BS) as well as between the Latiotiia sp. individuals AH3590, AH3726, and AH3727 (68% JK and 60% BS).
+Bayesian methods can be sensitive to missing data (e.g. Goloboff and Pol 2005) and to inflated branch-support values (e.g. Suzuki et al. 2002; Simmons et al. 2004). In the Bayesian
+
+Lanonia centralis AH3222
+100 Lanonia dasyantha AH3363 100
+Lanonia gracilis WBl 353
+
+Lanonia hainanensis MJ383
+
+Lanonia magalonii AH3268
+
+Lanonia sp.AH3643 99 99 Lanonia sp.AH3672
+Lanonia sp.AH3676
+
+Lanonia sp.AH3695
+
+Lanonia sp.AH3707
+
+84
+
+100 Johannesteijsmannia lanceolata 100 Johannesteijsmannia perakensis
+
+100 -- Licúala distans 100 -- Licúala grandis
+
+L100
+100
+
+86 1001-- Pholidocarpus macrocarpus 81 ^00'-- Pholidocarpus majadum
+
+1QQI-- Saribus jeanneneyi
+
+100'-- Saribus rotundifolius
+
+C100 Livistona australis Livistona nasmophila
+
+ESerenoa repens Serenoa repens
+
+FiG. 1. The parsimony strict consensus tree with parsimony jackknife values above each branch and likelihood bootstrap values for all nucleotide characters below each branch.
+
+Lanonia sp.AH3643 Lanonia sp.AH3676 Lanonia sp.AH3672 Lanonia sp.AH3695 Lanonina hainanensis MJ383 i_r Lanonia sp.AiH3727 0.38j0.99r~l lanonia sp. AH3726
+'--Lanonia sp.AH3590 0.38 -Lanonia centralis AH3222
+l j -- Lanonia sp. AH3688 0.69 iP--Lanonia sp.AH3703
+. - = n Lanonia sp. AH3683 0.561 Lanonia sp.AH3707 0.71 Lanonia calciphila AH3328
+0.58r Lanonia dasyantha AH3363 0.9 Lanonia magalonii AH3268
+Lanonia gracilis WBl 353 Lanonia acaulis
+Johannesteijsmannia perkensis Johannesteijsmannia lanceolata Saribus jeanneneyi 0.61 Saribus rotundifolius j-Pholidocarpus macrocarpus '- Pholidocarpus majadum -- Licúala distans -- Licúala grandis -- Livistona australis -- Livistona nasmophila -Serenoa repens -Serenoa repens
+FiG. 2. The maximum clade credibility tree from BEAST analysis with posterior probabilities at each branch.
+
+2011]
+
+HENDERSON AND BACON: NEW GENUS OF PALM
+
+885
+
+topology, many well-supported relationships not seen in
+
+Morphological Assessment of Lanonia Based on Herbarium
+
+the parsimony or likelihood trees were resolved (Fig. 2). Material--The leaf is one of the most distinctive morphologi-
+
+Additionally, there is indication that some of the southern cal features of Lanonia. In all species of Licúala s. s., the leaf has
+
+Vietnamese Lanonia lineages could be recognized as species a costa (here defined as an extension of the petiole into the
+
+based on the Bayesian results {Latwnia sp. AH3643, AH3676, blade, analogous, if not homologous, with the rachis of a pin-
+
+AH3672, and AH3695; Lanonia sp. AH3727, AH3726, AH3590; nate leaf) extending from the base to the apex of the leaf blade.
+
+Lanonia sp. AH3688, AH3702, AH3683, AH3707). Due to a lim- Although it tapers as it extends to the apex, the costa can be
+
+ited number of herbarium specimens for these lineages and a clearly followed, especially on the abaxial surface, through
+
+limited understanding of their distributions or morphology, the central leaf segment to the apex. Some variation is evident
+
+we await planned field and herbarium visits and subsequent in the arrangement of the segments along the costa, and the
+
+sequencing efforts to further define these groups.
+
+splitting of the central segment. In some species the costa has
+
+Morphological Support for Lanonia--Based on review of pertinent herbarium material and literature, we found Lanonia to be distinguished by leaf synapomorphies in the central segment and a pulvinus-like structure on the abaxial surface of the costa. Floral synapomorphies of Lanotna include calyx and corolla that are reflexed in relation to the fruit. Staminate
+
+a 'naked' basal section without segments, a condition known as petiolulate. In a few species the central segment is split, but in these the costa follows the internal margin of one of the resulting segments. Whatever the form of the leaf blade in Licúala, a morphological synapomorphy for the genus is that the costa is continuous from the base to the apex of the blade.
+
+flowers are paired or clustered and have anthers that are dor-
+
+In Lattonia, the leaf has a different form. The costa is reduced
+
+sifixed and non-versatile. In contrast, pistillate flowers that and extends only a few centimeters from the base of the blade
+
+are always solitary and the three calyx lobes split at or after into the central leaf segment (Fig. 3C). Two synapomorphies
+
+anthesis to give what appears to be a 6-lobed calyx
+
+for Lanonia are that the central segment is split as far as the
+
+apex of the costa and that on the abaxial surface of the costa,
+
+DISCUSSION
+
+just below the apex, is a pulvinus-like structure (Fig. 3F). Although we have no evidence that this structure is a pulvi-
+
+Molecular Assessment of Lanonia and its Sister Genus-- nus, we prefer the term to gland until we can further explore
+
+Incongruence between linkage groups could be due to hybrid- its' anatomy. There is one, doubtful exception to this leaf mor-
+
+ization, paralogy, selection, recombination, or incomplete lineage sorting (e.g. Doyle 1992). We suggest that hybridiza-
+
+phology, discussed under L. niagalonii. The leaves of johannesteijsmannia are different from both
+
+tion is probably not responsible for these patterns because it Lanonia and Licúala. A synapomorphy for johannesteijsniannin
+
+is extremely unlikely that it would be detected among genera and across highly divergent taxa. We do not believe differen-
+
+is that the leaf blade is undivided and diamond-shaped. The costa, as in Licúala, is continuous from base to apex of
+
+tial selection can account for incongruences because a major- the blade. The blade is described as subpinnately ribbed
+
+ity of the phylogenetic signal is derived from non-coding genes. Evidence of paralogy was not evident by double
+
+(Dransfield et al. 2008). AU species of Latwnia are dioecious, although they may
+
+bands in gel electrophoresis or heterozygotic chromatograms. not be strictly so. One specimen {Pételot 5395) of L. calciphila
+
+Recombination was not detected in any of the loci using the default settings in the recombination detection program
+
+has two inflorescences on the same plant; one is spicate and pistillate, the other is branched and staminate. A plant of
+
+(Martin and Rybicki 2000). Incomplete lineage sorting is the L. dasyantha in cultivation appeared to have both staminate
+
+likely candidate to explain the patterns of incongruence in the dataset, but despite this, each gene tree resolved all the
+
+and pistillate flowers on the same inflorescence. All species of Lictiala and jolianttesteijsmaunia have hermaphrodite flowers,
+
+Livistoninae genera, including Lanonia, as monophyletic with as far as is known (Saw et al. 2003). However, there have been
+
+100°/) branch-support. For future studies on the species-level some suggestions in the literature of dioecy in Licúala (e.g. relationships in Lanonia, coalescent methods of phylogeny Uhl and Dransfleld 1987). Saw et al. (2003, p. 203) considered
+
+reconstruction that explicitly account for lineage sorting will that a specimen from Sarawak {Ghitjg S. 42003) represented a
+
+be used (e.g. BEST; Liu 2008). Because gene and species trees are not necessarily synon-
+
+dioecious species of Lictiala. Examination of this specimen at K shows that the leaves do not have a central bifid segment
+
+ymous, we sampled seven gene regions and as many indi- with a short costa, nor is there is a pulvinus-like structure
+
+viduals as we could to estimate species-level relationships abaxially at the costa apex. The costa continues through the within Latwnia. Our data show monophyly for Livistoninae central segment of the leaf as far as the apex of the segment,
+
+and its genera, including Lanonia, Livistona as sister to all as in all other species of Licúala. The flowers of this specimen
+
+other Livistoninae, as well as a sister relationship between (Saw et al. 2003, Fig. 3) have a well-developed gynoecium johanttestcijstnannia and Lanonia (Figs. 1,2). The recognition of and six stamens, but the anthers appear to be empty. Based
+
+Lanonia is a surprising discovery but perhaps not entirely so on the empty anthers. Saw et al. (2003) believed this species to
+
+considering Licúala had not been sampled with more than one be dioecious. We do not consider this specimen to represent species in recent phylogenetic studies (Asmussen et al. 2006; Lanonia, although it may be dioecious.
+
+Baker et al. 2009; Crisp et al. 2010). Furthermore, a majority
+
+Another a morphological synapomorphy of Latwnia is the
+
+of the species that comprise Lanonia are recentiy described presence of dimorphic inflorescences, which is more obvious based on field work in under-collected regions of Vietnam in some species than in others. For example, L. calciphila has
+
+and other areas of eastern Asia (Henderson et al. 2007, 2008). staminate inflorescences with two to flve branched partial
+
+Individuals from the south of Vietnam of yet undescribed or fully sampled populations may lead to the recognition of at
+
+inflorescences, each with two to four, 6-11 cm long rachillae. Pistillate inflorescences have one spicate partial inflores-
+
+least two other Lanonia species, but we do not include them cence with a 13-21 cm long rachilla (Henderson 2009). On
+
+here and await future field, herbarium, and laboratory work. the other hand, L. hainanensis has several, brandied staiTiinate
+
+886
+
+SYSTEMATIC BOTANY
+
+[Volume 36
+
+FIG. 3. A. Pistillate flowers of Lanonia acaulis (Henderson et al. 3309) with wide rachilla, large solitary flowers, and reflexed perianth. B. Habit of L. calciphila (Henderson et al. 3326) with leaf with wider, split central segment. C. Detail of abaxial surface of leaf of L centralis (Henderson & N. K. Ban 3428) with short costa and split central segment. D. Pistillate flowers of L centralis (Henderson et al. 35654) with thin rachilla, small solitary flowers, and reflexed perianth. E. Fruits of Í.. centralis, globose, whitish at maturity, with smooth epicarp. F. Pulvinus-like structure at apex of costa, abaxial surface (L dasyantha, Henderson s.n.; scale bar = 200 um). G. Fruits of i. dasyantha (B. V. Thanh 229), irregularly globose, red at maturity, with warty epicarp. H. Habit of L. Iminanensis (Guo Lixiu et al. 135), leaves with approximately equal-sized segments. 1. Immature fruits of L. hexasepala (Henderson et al. 3684) with solitary fruits, reflexed perianth, and split calyx lobes.
+
+2011] HENDERSON AND BACON: NEW GENUS OE PALM
+
+887
+
+and pistillate partial inflorescences but staminate inflores- masculis aggregatis antheris dorsifixis non versatilibus, flo-
+
+cences have longer and narrower rachillae while pistillate ribus pistillatis solitariis, lobis calycis ad anthese vel deinde
+
+ones have shorter and wider rachillae (Henderson et al. 2007). scissi, calycem sex-partitum fingens, atque periantho fructif-
+
+Inflorescences of both Licúala and Johannesteijsmattnia are not ero reflexo.
+
+dimorphic, and their flowers are hermaphrodite (with the
+
+Plants dioecious. Stems clustered or solitary, erect or some-
+
+possible exceptions noted above).
+
+times creeping, or short and subterranean. Leaves costapal-
+
+Floral synapomorphies of Lanonia include staminate flow- mate; sheaths fibrous, extended above the petioles into long
+
+ers that are paired or clustered (sometimes solitary) and auricles; petioles elongate, with widely spaced, recurved,
+
+pistillate flowers that are always solitary (Fig. 3A, D, I), as black or brown spines along the margins, often spines absent
+
+opposed to Licúala in which hermaphrodite flowers are soli- distally; hastulas well-developed adaxially, absent abaxially;
+
+tary or clustered. Staminate flowers have anthers that are dor- blades split to the base along abaxial ribs giving few, to many,
+
+sifixed and non-versatile, a condition unknown in Licúala and multiple-fold segments, these with straight or slightly curved
+
+¡ohannesteijsmannia. Pistillate flowers have vestigial filaments sides, with or without minute, reddish-brown scales abaxi-
+
+but no anthers. One of the most distinctive features of Lanonia ally; costas terminating at base of a split of the middle seg-
+
+is that each of the three pistillate calyx lobes splits at or after ment, with a distinct pulvinus-like structure abaxially at or
+
+anthesis to give what appears to be a 6-lobed calyx (Fig. 31). near costa apices; middle segment split for half or more its
+
+Both the calyx and corolla are reflexed in relation to the fruit length (to apex of costa) into 2 lobes, these as wide or wider
+
+(Fig. 3A, D, I), rather than clasping the fruit as in Licúala and than other segments, rarely the middle segment not split and
+
+johannesteijsmannia.
+
+then the costa continuous throughout the segment; inden-
+
+We have excluded two doubtful species from Lanonia. tations leading to adaxial folds deeper than those leading
+
+Licúala manglaensis A. J. Hend., N. K. Ban & N. Q. Dung to abaxial folds, indentations deeper on lateral segments.
+
+appears to be dioecious, but the central segment is not split Inflorescences unisexual and dimorphic, interfoliar, erect or
+
+and the costa extends to the apex of the blade. However, there curved among the leaves or sometimes becoming recurved
+
+are only two specimens of this species and more material is below the leaves at or after anthesis; peduncle short, bearing a
+
+needed to understand leaf morphology. The second excluded basal prophyll; rachis with 1-5 partial inflorescences (more on
+
+species is Licúala furcata Becc. We have examined images of staminate plants, fewer on pistillate plants), these branched
+
+the type at Fl ("Sarawak, Mte. Mattang", Apr 1866, O. Beccari to 1-2 orders, subtended by broad, flattened, densely brown
+
+1379). The leaves appear to have the split central segment and tomentose rachis bracts, these splitting laterally, or sub-
+
+pulvinus-like structure on the abaxial surface of the short tended by narrow, tubular, scarcely brown tomentose rachis
+
+costa, as in other species of Lanonia. However, the inflores- bracts, these splitting apically; staminate rachillae several
+
+cence, with its distantly spaced partial inflorescences on an on each partial inflorescence, usually covered with brown
+
+extended rachis, is unlike that of Lanonia and more like that of hairs; floral stalks scarcely developed, solitary or borne in
+
+Licúala. Furthermore, Beccari (1889,1933) described the flow- pairs or groups of 3, each subtended by small bracteoles; sta-
+
+ers of Licúala furcata as hermaphrodite and Beccari (1933, plate minate flower buds globose or bullet-shaped; calyces cupu-
+
+9.1) illustrated a singleflower.We have not examined the flow- lar or tubular, usually gibbous, 3-lobed at the apices, often
+
+ers of the type, but have examined those of one other topo- hairy; corollas split for half or more their length into 3, val-
+
+typic specimen, Ridley s. n. at K, the leaves and inflorescences vate petals, glabrous; stamens 6; filaments fused proximally
+
+of which exactly resemble those of the type. The flowers, still into a staminal ring, this well or scarcely developed, the fila-
+
+in bud, resemble the flower illustrated by Beccari. They are ments free distally, more or less equal in length or alternately
+
+soUtary, have a well-developed style and six stamens borne long and short; anthers rounded or oblong, dorsifixed, non-
+
+on a very short staminal ring. The anthers do not appear to versatile; pistil vestigial; pistillate rachillae 1-several on each
+
+be dorsiflxed and non-versatile, and it is not clear if pollen partial inflorescence, hairy as the staminate rachillae; floral
+
+is present in the anthers. The fruiting calyx clearly splits into stalks scarcely developed, solitary, each subtended by bracte-
+
+six lobes. It is possible that this species is dioecious and has oles, these sometimes ciliate; pistillate flower buds ellipsoid;
+
+vestigial anthers. Nevertheless, inclusion of this species, and calyces cupular, usually gibbous, 3-lobed at the apices with
+
+Licúala manglaensis in Lanonia would introduce an element of each lobe splitting again as the fruits develop and the calyx
+
+doubt, and we prefer to await better material for morphologi- becoming 6-lobed, often hairy; corollas split for almost their
+
+cal examination, DNA sampling, and further phylogenetic entire length into 3, valvate petals, glabrous; staminal rings
+
+analysis before making a decision on these species. There are scarcely developed, with vestigial filaments, anthers absent;
+
+also several potential undescribed species of Lanonia known pistils tricarpellate, carpels distinct proximally, connate dis-
+
+from southern Vietnam, as discussed above, but there are too tally throughout stylar regions, the style rather short; locules
+
+few specimens of each that they are also excluded pending basal in each carpel. Fruits globose or irregularly globose,
+
+more material.
+
+with reflexed perianth, bright red or white at maturity, or
+
+ripening from pink to red to black, sometimes 2 fruits devel-
+
+oping from one flower; epicarp warty or smooth; endocarp
+
+TAXONOMIC TREATMENT
+
+thin, crustaceous; endosperm homogeneous, with a prominent, regular, subbasal intrusion; embryo lateral; eophylls
+
+Lanonia A. J. Hend. & C. D. Bacon, gen. nov.--TYPE: Lanonia strap-shaped.
+
+acaulis (A. J. Hend., N. K. Ban & N. Q. Dung) A. J. Hend. A genus of eight species, including Lanonia graciiis from
+
+& C. D. Bacon. Basionym: Licúala acaidis A. J. Hend., N. Java, L. hainartensis from Hainan, and six species endemic to
+
+K. Ban & N. Q. Dung
+
+Vietnam, L. acaulis, L. calciphila, L. centralis (also just reach-
+
+A Licúala differt costis brevibus corpore glanduliformi ing adjacent Laos), L. dasyantha (also just reaching adjacent
+
+adaxiali, habitu dioecio, inflorescentiis dimorphicis, floribus China), L. hexasepala, and L. magaloini.
+
+888 SYSTEMATIC BOTANY
+K E Y T O T H E S P E C I E S O F LANONÍA
+Inflorescences becoming recurved below the leaves at or after anthesis; pistillate rachillae 2 . 5 ^ mm diameter; pistillate flower buds 6-10 mm long; rachis bracts plicate
+2. Segments 5-13, mottled light and dark green; rachillae 1-7; China and northern and central Vietnam 2. Segments 22-32, green, not mottled; rachillae 9-21; central Vietnam Inflorescences erect or curving among the leaves; pistillate rachillae 0.5-2 mm diameter; pistillate flower buds 1.7-4 mm long;
+rachis bracts not plicate 3. Fruits with smooth epicarp; partial inflorescences subtended by broad, flattened, densely brown fomentóse rachis bracts,
+these splitting laterally; segments 8-26 4. Inflorescences to 30 cm long; Java 4. Inflorescences 35-100 cm long; Vietnam and Hainan
+5. Fruits whitish at maturity; segments 13-26; Vietnam 5. Fruits orange or red at maturity; segments 12-17; Hainan 3. Fruits with warty epicarp; partial inflorescences subtended by narrow, tubular, scarcely brown tomentose rachis bracts, these splitting apically; segments 3-16 6. Stems, sheaths, and petioles with dense, flat, black scales; staminate flower buds 1-1.5 mm long, globose;
+costas 0.5-1.5 cm long 6. Stems, sheaths, and petioles without dense, flat, black scales; staminate flower buds 2.8-4.5 mm long, bullet-shaped;
+costas 6.0-16.0(-24.7) cm long long 7. Segments 3-4, with minute, reddish-brown scales abaxially; central Vietnam (near Da Nang City and
+in Thua Thien-Hue 7. Segments 5-7, without minute, reddish-brown scales abaxially; northem Vietnam (Ninh Binh, Hoa Binh, and Son La)
+
+[Volume 36
+2 L. dasyantha
+L. acaulis
+3
+4 L. gracilis
+5 l, centralis L. liainanensis
+6
+L. hexasepala
+7
+L. magalonii L. calciphita
+
+1. Lanonia acaulis (A. J. Hend., N. K. Ban & N. Q. Dung) A. J. Hend. & C. D. Bacon, comb. nov.--Licúala acaulis A. J. Hend., N. K. Ban & N. Q. Dung, Palms 52:142. 2008. TYPE: VIETNAM. Da Nang City: Hoa Vang District, Ba Na-Nui Chua Nature Reserve, road to summit, 16°00'N, 108°01'E, ca. 500 m, 19 Apr 2007, A. Henderson, N. Q. Dung, N. Canh & L. V. Bo 3302 (holotype: HN! isotype: NY!).
+Stems solitary, to 0.4 m tall, diameter not known, short and mostly subterranean. Leaf number not known; leaf sheaths not known; petiole length not known, the entire length with widely spaced, recurved, brown spines to 0.5 cm long, sometimes spines absent distally; blades to 108 cm wide, split into 22-32 segments, without minute, reddish-brown scales abaxially, with straight sides; costas 3.5-7.5 cm long; middle segment split almost to the base of the blade (to costa apex) into 2 lobes, these only slightly wider than the other segments, 50-59 cm long, 4-5 cm wide at the apices; segments scarcely indented at the apices; indentations leading to adaxial folds 0.3-0.7 cm deep, those leading to abaxial folds 0.1-0.2 cm deep, indentations deeper on lateral segments. Inflorescences to 50 cm long, becoming recurved below the leaves at or after anthesis; prophylls to 25 cm long; peduncles to 30 cm long; rachis 6-25 cm long with 1-2 partial inflorescences, these branched to 2 orders, subtended by broad, flattened, densely brown tomentose, plicate rachis bracts, these splitting laterally; staminate rachillae 10-21 on each partial inflorescence, 20-30 cm long, 1.5-2.5 mm diameter, densely covered with brown, felty hairs; floral stalks scarcely developed, borne in groups of 2-3, each subtended by small bracteoles; staminate flower buds 5-6 mm long, bullet-shaped; calyces ca. 2.5 mm long, tubular, gibbous, 3-lobed at the apices, glabrous or with a few, scattered, brown hairs; corollas ca. 4.5 mm long, split for two thirds their length into 3 petals, glabrous; staminal rings scarcely developed; fllaments free for ca. 1.6 mm, alternately long and short; anthers ca. 0.5 mm long; pistillate rachillae 9-16 on each partial inflorescence, 8-13 cm long, 2.5-3 mm diameter, hairy as the staminate rachillae;floralstalks scarcely developed, solitary, each subtended by small bracteoles; pistillate flower buds 8-10 mm long, ellipsoid; calyces 4-4.5 mm long, cupular, briefly 6-lobed distally at anthesis (by early splitting of 3-lobed calyx), glabrous or scarcely hairy; corollas
+
+6-8 mm long, split for about two thirds their length into 3 petals, glabrous; staminal rings scarcely developed, with vestigial filaments; pistils 3-3.5 mm long including a 1 mm long style, glabrous. Fruits not known at maturity, immature fruits globose, epicarp warty. Figure 3A.
+Distribution and Habitat--The species is endemic to central Vietnam (Ba Na-Nui Chua Nature Reserve near Da Nang City; Fig. 4) in primary, evergreen, broad-leaved, wet forest on steep slopes at 500 m elevation.
+Local Names and Uses--A local name is la non. No uses recorded.
+Additional Specimens Examined--VIETNAM. Da Nang City: Hoa Vang District, Ba Na-Nui Chua Nature Reserve, road to summit, 16''00'N, 108°01'E, ca. 500 m, 20 Apr 2007, Henderson et al. 3309 (HN, NY); 4 Jun 2009, Henderson et al. 3597 (HN, NY).
+2. Lanonia calciphila (Becc.) A. J. Hend. & C. D. Bacon, comb, nov.. Licúala calciphila Becc, Webbia 3: 216.1910.--TYPE: VIETNAM. "Tonkin, rive gauche de la rivière Noire a 3 km au-dessus de Phuong-Lam" [Hoa Binh: left bank of Song Da, 3 km below Phuong-Lam], 2 May 1888, B. Balansa 4361 (holotype: P!).
+Licúala fatua Becc, Webbia 3: 218. 1910.--TYPE: VIETNAM. "Tonkin occidentale," no date. Père Bon 3130 (holotype: P; isotype: FI!).
+Licúala tonkinensis Becc, Webbia 3:214.1910.--TYPE: VIETNAM. "Tonkin occidentale, Vo-xa, Mt. Chua Hac" [Hoa Binh: Vo-xa, Chua Hac], 5 May 1885, Père Bon 2901 (holotype: P).
+Licúala tomentosa Burret, Notizbl. Bot. Gart. Berlin-Dahlem 15: 98. 1940.--TYPE: VIETNAM. "Muong Thon, route du Hanoi a Hoa Binh" [Hoa Binh: Muong Thon, road from Hanoi to Hoa Binh], 19 Nov 1935, A. Pételot 5395 (holotype: P; isotypes: A! HNU! NY!).
+Stems clustered, to 2 m tall, 1.5-2 cm diameter, erect or sometimes creeping. Leaves 10-17; leaf sheaths 10-15 cm long, extended above the petioles into ca. 15 cm long auricles; petioles 60-84 cm long, the proximal ca. half or less with widely spaced, recurved, brown spines to 0.6 cm long; blades to 58 cm wide, split into 5-7 segments, without minute reddish-brown scales abaxially, with straight sides; costas 6.0-10.0 cm long; middle segment split for half or
+
+2011]
+
+HENDERSON AND BACON; NEW GENUS OF PALM
+
+Lanonia calciphila
+
+Lanonia centralis
+FIG. 4. Distribution maps of Lanonia species. Scale 1:33,000,000.
+
+l^anonia dasyantha
+
+more its length (to apex of costa) into 2 lobes, these wider than the other segments, 17-28 cm long, 7-11 cm wide at the apices; indentations leading to adaxial folds 0.4 cm deep, those leading to abaxial folds 0.3 cm deep, indentations deeper on lateral segments. Inflorescences to 90 cm long, erect among the leaves; prophylls to 11 cm long; peduncles to 52 cm long; rachis to 45 cm long with 1-5 partial inflorescences (2-5 on staminate plants, 1 on pistillate plants), these branched to 1 order, subtended by narrow, tubular, scarcely brown tomentose rachis bracts, these splitting apically; staminate rachillae 2-4 on each partial inflorescence, 6-11 cm long, 1-1.5 mm diameter, moderately covered with wooly, brown hairs; floral stalks scarcely developed, solitary or borne in pairs, each subtended by small, ciliate bracteoles; staminate flower buds 2.8-4.5 mm long, bullet-shaped; calyces 2.5-3.5 mm long, cupular, gibbous, 3-lobed at the apices, ciliate, scurfy brown hairy at the bases; corollas 2.8-3.5 mm long, split for about half their length into 3 petals, glabrous; staminal rings ca. 0.5 mm long; filaments free for ca. 0.5 mm long, more or less equal in length; anthers 0.3 mm long; pistillate rachilla 1 on the single partial inflorescence, 13-21 cm long, ca. 2 mm diameter, hairy as the staminate rachillae; floral stalks scarcely developed, solitary, each subtended by ciliate bracteoles; pistillate flower buds
+
+ellipsoid, ca. 2.5 mm long; calyces ca. 2.5 mm long, cupular, gibbous, 3-lobed at the apices with each lobe splitting again as the fruits develop and becoming 6-lobed, ciliate, brown scurfy hairy at the bases; corollas ca. 2 mm long, split for almost their entire length into 3 petals, glabrous; staminal rings scarcely developed, with vestigial filaments; pistils ca. 2 mm long including a 0.5 mm long style, glabrous. Fruits ca. 1 cm diameter, globose, bright red at maturity, sometimes 2 fruits developing from one flower, epicarp warty. Figure 3B.
+Distribution and Habitat--The species is endemic to northern Vietnam (Ninh Binh, Hoa Binh, and Son La; Fig. 4) in primary, broad-leaved, evergreen forest on steep slopes, often in karst limestone areas, at 200-1,015 m elevation.
+Local Names and Uses--A local name is la non. No uses recorded.
+Additional Specimens Examined--VIETNAM. Ninh Binh: Nho Quan District, Cue Phuong National Park, 20°15'N, 105°42'E, ca. 200 m, 3 May 2007, Henderson et al. 3326 (HN, NY), Henderson et al. 3328 (HN, NY), 20 May 2002, Averyanov et al. 1657 (HN), 8 Mar 1997, Boyce 1166 (HN, K), Boyce 1167 (HN, K), 10 Jul 1999, N. M. Cuong 248 (HÚ, MO), 20 ]un 1999, 'Alejandra 516 (HN), 2 May 1985, LX-VN 1769 (LE), 17 Oct 1996, PA 15 (HN), 11 Mar 2007, Nguyen 1372 (NY), 15 Mar 2000, P. K. Loc 10024 (HN, MO), 30 Nov 1998, Soejarto et al. 10519 (HN), 29 Jan 197.=;, Takhtadjan et al. 2597 (K). Hoa Binh: Da Bac Distr., SW of Doan Ket Village, 20°54'N, 105°04'E, 900-1,000 m, 29 Mar 2001, HAL 358 (HN, MO); road from Hanoi
+
++· · I. , "· r -
+
+890
+
+SYSTEMATIC BOTANY
+
+[Volume 36
+
+to Hoa Binh, Muong Thon, 1 Mar 1935, Pctelot 2514 (P); Luong Son, Truong Son, 10 Jun 1983, N. L Tiep 134 (HN); Mai Chau, Pa Co, 17 Dec 1999, L. X. Phuong 2377 (HN). Son La: Yen Chau Distr., Muong Lum Commune, Lum Village, 21°00'N, 104°29'E, 900-1,134 m, 2 Mar 2001, Harder et al. 7123 (HN, MO, NY).
+
+again as the fruits develop and becoming 6-lobed, glabrous or with scurfy brown hairs at the base; corollas 1.5-2.7 mm long, split almost to the base into 3 petals, these reflexed at and after anthesis, glabrous; staminal rings ca. 0.2 mm long at base of
+
+Notes--The type locality of Licúala fatua was not given, pistil, with vestigial filaments; pistils ca. 1 mm long including and the type consists of a partial inflorescence with flowers. a 0.3 mm long style, glabrous. Fruits 0.6-0.8 cm diameter, gloThe partial inflorescence resembles exactly those of staminate bose, whitish at maturity, epicarp smooth. Figure 3C-E.
+
+plants of L. calciphila, and the drawings of the flowers given Distribution and Habitat--The species is known from
+
+by Beccari (1933) appear to represent staminate flowers of Central Vietnam (Ha Tinh, Quang Binh, Ouang Nam, Quang
+
+L. calciphila.
+
+Tri, Thua Thien-Hue, and near Da Nang City) and adjacent
+
+The type of Licúala tonkinensis at P has not been seen. Laos (Bolikhamsay; Fig. 4) in broad-leaved, evergreen, closed
+
+Beccari (1933) gave a photograph of the type, and a drawing forest on steep slopes on shale, sandstone, or limestone rocks,
+
+of a pistillate flower. These appear to represent L. calciphila. In and persisting in secondary forest, often occurring in great
+
+particular, the drawing of the pistillate flower exactly resem- abundance, at 20-1,150 m elevation.
+
+bles those of L. calciphila, and the type locality of L. tonkinensis Local Names and Uses--This species is also known as la
+
+is within the range of L. calciphila. Therefore L. tonkinensis is treated as a synonym of L. calciphila.
+
+non (Vietnam). The young, unexpanded leaves are collected locally and sold in markets, and are widely used in the manufacture of the typical, conical hats worn throughout Vietnam.
+
+The type specimens of Lictiala tomentosa exactly match other Additional Specimens Examined--VIETNAM. Da Nang City: Hoa
+
+specimens of L. calciphila. One isotype from A has two inflorescences on the same plant; one is spicate and pistillate, the other is branched and staminate.
+
+Vang District, Ba Na-Nui Chua Nature Reserve ("Mount Bana"), 15 Jun 1927, Clemens et al. 3356 (A, NY, P). Ha Tinh: Vu Quang District, Vu Quang National Park, road from Park Headquarters to Border Army Post, 18°20'N, 105°26'E, ca. 100 m, 17 Jul 2007, Henderson & N. K. Ban 3428
+
+3. Lanonia centralis (A. J. Hend., N. K. Ban & N. Q. Dung) A. (HN, NY), 18°19'N, 105°22'E, 18 Jul 2007, Henderson & N. K. Ban 3434
+
+J. Hend. & C. D. Bacon, comb, nov.. Licúala cetitralis A. J. (HN, NY); Huong Son Distr., Son Kim Commune, Rao Bun, 18°23'N,
+
+Hend., N. K. Ban & N. Q. Dung, Palms 52: 148. 2008.--
+
+105°15'E, 300^00 m, 4 May 2004, HAL 5112 (HN); Huong Son Distr., Rao An-Ngam, 18°21'N, 105n3'E, 900-1,150 m, 15 May 1998, VA 540 (HN, MO);
+
+TYPE: VIETNAM. Da Nang City, Hoa Vang District, Ba Huong Son Disti-., Nga Doi, 18°29'N, 105°13'E,19 May 1998, VA 753 (HN,
+
+Na-Nui Chua Nature Reserve, road to summit, 16°00'N, MO); Huong Son Distr., Area no. 72, 29 Apr 1998, N. T. Hiep & L Xiem 382
+
+108°02'E, ca. 350 m, 19 Apr 2007, A. Hctiderson, N. Q. Dung, N. Ganh & L. V. Bo 3299 (holotype: HN! isotype: NY!).
+
+(K); 2.6 km from Caf Bin fo Khe Gat, 21 Jan 1990, Newman 226 (AAU, K); Can Xuyen District, Ke Go Nature Reserve, 18.156N, 105.915E, ca. 100 m, 25 Feb 2009, Henderson et al. 3480 (HN, NY). Quang Binh: Minh Hoa District, 72 km NNW of Dong Hoi, Yen Son village, 17''40'N, 105°57'E,
+
+Stems clustered, sometimes solitary, to 5 m tall, 2 ^ cm diameter, erect. Leaves 8-13; leaf sheaths 12-19 cm long, extended above the petioles into 7-14 cm long auricles; petioles 81-127 cm long, the proximal ca. quarter with widely
+
+450-500 m, 17 Apr 1997, VH 4766 (HN, K, MO); Rung Dong San, Dong Hoi, 10 Feb 1979, L L. Due 15A (HN); Phong Nha Ke-Bang National Park, road near park entrance, 17°34'N, 106°18'E, ca. 20 m, 5 Apr 2007, Henderson et al. 3222 (HN, NY): Henderson et al. 3227 (HN, NY); Phong Nha-Ke Bang National Park, west branch of Ho Chi Minh trail, 17''28'N,
+
+spaced, recurved, black or brown spines to 0.5 cm long; blades 63-99 cm wide, split into 13-26 segments, with scattered minute reddish-brown scales abaxially, with straight sides; costas 2.0-5.7 cm long; middle segment split almost to the base of the blade (to apex of costa) into 2 lobes, these only slightly
+
+106°19'E, ca. 600 m, 6 Apr 2007, Henderson et al. 3229 (HN, NY); Henderson et al. 3230 (HN, NY), 7 Aug 2001, L. X. Phuong 4265 (HN). Quang Nam: Nam Giang District, Thanh My, no date, Cuong 10 (HN); Nam Giang District, Tah Bing commune. Song Tanh Nature Reserve, road 14 D to Laos, 15.660N, 107.665E, 200 m, 11 Mar 2009, Henderson et al. 3564 (HN, NY): Que Son District, Que Phong, 17 Jul 1976, LXVN 3099 (HN). Quang
+
+wider than the other segments, 40^5 cm long, 4.5-8 cm wide at the apices; indentations leading to adaxial folds to 0.5 cm deep, those leading to abaxial folds to 0.2 cm deep, indentations deeper on lateral segments. Inflorescences to 65 cm long,
+
+Tri: Da Krong District, Da Krong Nature Reserve, near Ba Long commune, 16.651N, 107.037E, ca. 500 m, 28 Feb 2009, Henderson et al. 3491 (HN, NY); Huong Hua District, Bac Huong Hua Nati.ire Reserve, 16.938N, 106.585E, ca. 1,000 m, 3 Mar 2009, Henderson et al. 3512 (HN, NY); Massif de Dong Che, 22 May 1924, Poilane 11323 (P). Thua Thien-Hue: Bach Ma National
+
+erect among the leaves; prophylls 15-22 cm long; peduncles 28-41 cm long; rachis 13-23 cm long, with 1-2 partial inflorescences (2 on staminate plants, 1-2 on pistillate plants), these branched to 2 orders, subtended by broad, flattened, densely brown tomentose rachis bracts, these splitting later-
+
+Park, ca. 8 km from the summit, 16°13'N, 107''5rE, ca. 530 m, 13 Apr 2007, Henderson et a!. 3274 (HN, NY), 11 Mar 1997, Boyce 1176 (K), 28 Apr 2003, HLF 1399 (HN), 22 Apr 2003, HLF 1286 (HN); same locality, Suoi Trai hang, 5 Feb 1990, Newman 187 (K); 8 Feb 1990, Newman 196 (K); A Luoi, 7 Sep 1980, N. K. Khoi 243 (HN): Phong Dien District, Phong Dien Nature Reserve, 16.557N, 107.232E, ca. 300 m, 5 Mar 2009, Henderson et al. 3524
+
+ally; staminate rachillae 5-18 on each partial inflorescence, 6-17 cm long, ca. 1 mm diameter, moderately covered with brown, felty hairs; floral stalks scarcely developed, solitary or
+
+(HN, NY); A Luoi District, Sao La Nature Reserve, 16.077N, 107.488E, 7 Mar 2009, tienderson et al. 3532 (HN, NY); "Col. de Nuages, près Tourane", 17 Sep 1923, Poilarte 8022 (VNM, P).
+
+borne in groups of 2-3, each subtended by small bracteoles; staminate flower buds 2.7-3 mm long, bullet-shaped; calyces 1.5-2.5 mm long, shallowly lobed at the apices, glabrous or with scurfy brown hairs at their bases; corollas 2.5-3 mm long, glabrous, split to their bases into 3 petals; staminal rings 0.2 mm long; filaments free for ca. 0.5 mm, approximately equal in length; anthers ca. 0.5 mm long; pistillate rachillae
+
+LAOS. Bolikhamsay: Pakkading Disti-ict, Phou That Thon, Ban Naphong, 18°23'N, 1O4''22'E, 600 m, 7 Jan 1999, Evans 10 (K).
+4. Lanonia dasyantha (Burret) A. J. Hend. & C. D. Bacon, comb, nov.. Licúala dasyantha Burret, Notizbl. Bot. Gart. Berlin-Dahlem 15: 334. 1941.--TYPE: CHINA. Guangxi: Lungtschou, 10 Jul 1939, S. Ko 55448 (holotype: B, destroyed; isotype: SYS!).
+
+5-19 on each partial inflorescence, 10.5-19.5 cm long, to 2 mm
+
+Stems solitary or clustered, to 1.5 m tall, to 6 cm diameter,
+
+diameter, hairy as the staminate rachillae;floralstalks scarcely sometimes short and subterranean. Leaves 15; leaf sheaths
+
+developed, solitary, each subtended by small bracteoles; pis- 12-20 cm long, extended above the petioles into 6-15 cm long
+
+tillate flower buds 2-3.5 mm long, oblong; calyces 1.5-2 mm auricles; petioles 15-200 cm long, without spines or the proxi-
+
+long, cupular, 3-lobed at the apices with each lobe splitting mal ca. half with widely spaced, recurved, brown spines to
+
+2011]
+
+HENDERSON AND BACON: NEW GENUS OF PALM
+
+891
+
+1 cm long; blades 26-107 cm wide, split into 5-13 segments, mottled light and dark green, with minute reddish-brown scales abaxially, with straight or slightly curved sides; costas 5.5-17.0 cm long; middle segment deeply split (to apex of costa) into 2 lobes, these wider than the other segments, 16-58 cm long, 10-30 cm wide at the apices, rarely middle segment not split; indentations leading to adaxial folds 0.5-1 cm deep, those leading to adaxial folds 0.2-0.3 cm deep, indentations deeper on lateral segments. Inflorescences 60-70 cm long, becoming recurved below the leaves at or after anthesis; prophylls 6.5-8 cm long; peduncles 18-35 cm long; rachis 0-12 cm long, with 1, rarely 2 partial inflorescences, these branched to 1 order, subtended by broad, flattened, densely brown tomentose, plicate rachis bracts, these splitting laterally and irregularly and deeply tattering; staminate rachillae 2-7 on each partial inflorescence, 9-14 cm long, to 2 mm diameter, densely covered with brown or whitish, branched hairs; floral stalks scarcely developed, solitary or borne in pairs, each subtended by ciliate bracteoles; staminate flower buds 2-2.7 mm long, bullet-shaped; calyces 1.5-2 mm long, 3-lobed at the apices, moderately covered with brown, felty hairs; corollas 2-2.3 mm long, split for ca. half their length into 3 valvate petals, glabrous; staminal rings scarcely developed; filaments free for ca. 2 mm long, alternately long and short; anthers ca. 0.3 mm long; pistillate rachillae 1 ^ on each partial inflorescence, 8-24 cm long, to 4 mm diameter, hairy as the staminate rachillae; floral stalks scarcely developed, solitary, each subtended by small, ciliate bracteoles; pistillate flower buds 6-6.2 mm long, ellipsoid; calyces 3.5-4 mm long, briefly 6-lobed at the apices at anthesis, densely covered with felty, brown hairs; corollas 4-5.5 mm long, striate, split for ca. two thirds their length into 3 petals; staminal rings ca. 1.5 mm high, with vestigial filaments; pistils ca. 4 mm long including a 1 mm long style, glabrous. Eruits 0.7-0.8 cm diameter, irregularly globose, red at maturity, epicarp warty. Figures 3F, G.
+Distribution and Habitat--This species is known from China (Guangxi) and northern and central Vietnam (Bac Kan, Ha Giang, Lang Son, Lao Cai, Nghe An, Phu Tho, Quang Ninh, Thua Thien-Hue, Tuyen Quang, and Vinh Phuc; Fig. 4) in primary, closed, broad-leaved, evergreen forest on steep mountain slopes on granite or quartzite rocks, less often on limestone, at 100-1,000 m elevation.
+Local Names and Uses--Local names are cay lua khua, la non, lua khua (Vietnam). No uses recorded.
+Additional Specimens Examined--CHINA. Guangxi: Longzhou county, Longding, Li Huangi 40234 (IBK); Fangchen County, Shi-WanDa-Shan, 11 Sep 1987, Shi Guo-Liang 15411 (K). Cultivated in South China Botanical Garden (introduced from Fangchen, Guangxi Province), 25 Apr 1992, Wei Chao Fen 123256 (K); Wei Chao Fen 123257 (K); Longzhou, Da Qing Shan, 28 May 1991, Y. Z. Wei 201491 (KUN).
+VIETNAM. Bac Kan: Bang Lung, Cho Don, 30 Apr 2000, Hach 5 (HN). Ha Giang: Quang Binh district, Ngoi Sao State Forestry Company, 17 Oct 2009, N. Q. Dung 2025 (FIPI). Lang Son: Huu Lung Distr., Huu Lien Distr., Huu Lien, 21°40'N, 106°20'E, 110 m, 2 Apr 1998, Harder et al. 4141 (HN, K, MO, NY). Lao Cai: Van Ban Distr., Khanh Yen Ha Commune, S of Na Nheo Village, 2r.59'N, 104°15'E, 1,000-1,100 m, 24 Mar 2002, HAL 2706 (HN); 900-1,000 m, 25 Mar 2002, HAL 2736 (HN); Van Ban Distr., Nam Xe Commune, Khau Co Pass, 22°02'N, 1O3''57'E, 1,150 m, 27 Feb 2001, Harder et al. 7005 (HN). Nghe An: Pu Huong Nature Reserve, 19°18'N, 105°07'E, ca. 250 m, 7 May 2007, Henderson et al. 3342 (HN, NY); 10 May 2007, Henderson et al. 3359 (HN, NY); Pu Mat National Park, road from Con Cuong to Thac Kem, 18°57'N, 104°48'E, ca. 100 m, 12 May 2007, Henderson et al. 3363 (HN, NY); Pu Mat, Phu Nhung, Khe Choang, 20 Jul 1998, N. N. Thin 299 (HN). Phu Tho: Xuan Son, Dong Son, 1 Jul 2003, L. X. Plnwng 6303 (HN); 26 May 2005, L. X. Pbuong 9933 (HN); Xuan Son, Thanh Son, 13 May 2004, Phuong 7895 (HN). Quang Ninh: "Tonkin, Taai Wong Mo Shan and vicinity, Shui Mei village, NE of Chuk-phai, Ha-coi", 23 Jun-31 Aug 1939,
+
+Tsang 29436 (C, E, K); "Tonkin, Taai Wong Mo Shan and viciruty, Shui Mei village, NE of Chuk-phai, Ha-coi", Tsang 27250 (A, K); "Tonkin, Sai Wong Mo Shan (Sai Vong Mo Leng), Lung Wan Village, Dam-ha", 18 May-5 Jul 1940, Tsang 29985 (K). Thua Thien-Hue: A Luoi District, Sao La Nature Reserve, 16.115N, 107.427E, 666 m, 9 Mar 2009, Henderson et al. 3551 (HN, NY). Tuyen Quang: Na Hang Distr, Thanh Tuong Commune, near Ban Bung Village, 22°16'N, 105°25'E, 700-750 m, 20 Mar 2001, HAL 127 (HN, MO, NY). Vinh Phuc: Me Linh, 24 Oct 2001, L X. Phuong 4615 (HN).
+5. Lanonia gracilis (Blume) A. J. Hend. & C. D. Bacon, comb. nov. Licúala gracilis Blume in J. J. Roemer & J. A. Schultes, Syst. Veg. 7:1303.1830.--LECTOTYPE (here designated): Rumphia 2, t. 92.1836.
+LicúalaflabellumMart., Hist. Nat. Palm. 3: 237. 1838.--TYPE: "Celebes," no date, C. Reinwardt s. n. (holotype: M!).
+Stems clustered, to 1 m tall, to 2 cm diameter, erect. Leaves ca. 40; leaf sheaths to 30 cm long, extended above the petioles into 2.5-4.5 cm long auricles; petioles to 100 cm long, the proximal half or less with widely spaced, brown spines 0.3-0.5 cm long; blades to 75 cm wide, split into 8-14 segments, with scattered, minute, reddish-brown scales abaxially, with straight sides; costas 6.5-7.5 cm long; middle segment split almost to the base of the blade (to apex of costa) into 2 lobes, these only slightly wider than the other segments, 30-41 cm long, 8.5-10 cm wide at the apices; indentations leading to adaxial folds to 0.6 cm deep, those leading to abaxial folds to 0.2 cm deep, indentations deeper on lateral segments. Inflorescences to 30 cm long, erect among the leaves; prophylls 9-10 cm long; peduncles 9-15 cm long; rachis short or absent, with 1-2 partial inflorescence, these branched to 2 orders, subtended by broad, flattened, brown tomentose rachis bracts, these splitting laterally; staminate rachillae 4--11 on each partial inflorescence, 6.5-10.5 cm long, 1.2-1.9 mm diameter, moderately covered with brown hairs; floral stalks scarcely developed, solitary or borne in groups of 2-3, each subtended by small bracteoles; staminate flower buds 3.5^ mm long, bullet-shaped; calyces 2 mm long, 3-lobed at the apices, glabrous; corollas 3.5 mm long, split for almost all their length into 3 valvate petals, glabrous; staminal rings 0.5 mm long; filaments free for ca. 1 mm, alternately long and short; anthers 0.5 mm long; pistillate rachillae 8-9 on each partial inflorescence, 7-13.5 cm long, 1.5-2 mm diameter, hairy as the staminate rachillae; floral stalks scarcely developed, solitary, each subtended by bracteoles; pistillate flower buds 4 mm long, bullet-shaped; calyces 2.5 mm long, briefly 3-lobed at the apices, glabrous; corollas 3 mm long, split for almost all their length into 3 petals; staminal rings ca. 0.7 mm high, with vestigial filaments; pistus cal 2.5 mm long, including a 0.5 mm long style, glabrous. Eruits 0.7-0.9 cm diameter, globose, ripening from pink to red to black at maturity, epicarp smooth.
+Distribution and Habitat--This species is known from Indonesia, only from the summit of Mount Payung in western Java (Fig. 5) at 150 m elevation.
+Local Names and Uses--None recorded. Additional Specimens Examined--INDONESIA. Java: southwest
+Java, Ujungkulon Reserve, W slope of Mount Payung, 150 m, 10 Jan 1964, Kostermans 21846 (K); G. Kendeng, slopes of G. Payung, Ujung Kulon, 150 m, 15 Apr 1971, Dransfield 1433 (K). Cultivated in Kebun Raya, Bogor, Baker 1353 (K).
+Notes--Licúala gracilis was included as a synonym of L. pumila by Beccari (1933) and this was followed by Backer and Bakhuizen van den Brink (1968). It was not until Dransfield recollected it in Ujung Kulon in 1971 that the distinctness of Blume's L. gracilis was recognized, and it is currently accepted as a species distinct from L. pumila (Govaerts and Dransfield
+
+892
+
+SYSTEMATIC BOTANY
+
+[Volume 36
+
+Lanonia graciiis
+
+.Lanonia hainanensis
+
+FIG. 5. Distribution maps of Lanonia species. Scale 1:33,000,000.
+
+2005). Because its leaf morphology, with split central, briefly oles into short auricles; petioles 50-160 cm long, the proxi-
+
+costate segment with an abaxial pulvinus-like structure, and mal ca. half with regularly spaced, recurved, brown spines to
+
+dioecy, we here transfer it to Lanonia.
+
+0.5 cm long; blades to 120 cm wide, split into 12-17 segments,
+
+Licítalaflabellumis here included tentatively as a synonym without or with a few, minute, reddish-brown scales abaxi-
+
+of Lanonia graciiis. The type at M was collected by Reinwardt ally, with straight sides; costas 3.0-5.7 cm long; middle seg-
+
+and is said to come from "Celebes." John Dransfield (pers. ment split almost to the base of the blade (to costa apex) into
+
+comm.) considers that this unlikely, based on the following 2 lobes, these only slighfly wider than the others, 36-41 cm
+
+argument. Although Reinwardt did visit Celebes, there have long, 7-8 cm wide at the apices; indentations leading to
+
+been no further collections, despite rather intensive palm col- adaxial fold 0.7-1.3 cm deep, those leading to adaxial fold
+
+lecting there. In fact. Licúala is a rare genus in Celebes. The 0.2-0.3 cm deep, indentations deeper on lateral segments.
+
+localities on Reinwardt s collections are notoriously vague Inflorescences to 100 cm long, erect among the leaves; pro-
+
+and sometimes mistaken. The type of L. flabellum matches phylls ca. 26 cm long; peduncles ca. 50 cm long; peduncular
+
+exactly that of L. graciiis, and it seems likely that the label bracts not seen; rachis ca. 50 cm long, with 2 partial inflores-
+
+locality is a mistake and in fact it was collected in Java.
+
+cences, these branched to 2 orders, subtended by broad, flat-
+
+tened, densely brown tomentose rachis bracts, these splitting
+
+6. Lanonia hainanensis (A. J. Hend., Guo & Barfod) A. j . laterally; staminate rachillae 9-16 on each partial inflores-
+
+Hend. & C. D. Bacon, comb, nov. Licúala hainanensis A. J. cence, 8-17 cm long, ca. 1 mm diameter, moderately covered
+
+Hend., Guo & Barfod, Syst. Bot. 32: 718.--TYPE: CHINA. with short, brown hairs; floral stalks scarcely developed, soli-
+
+Hainan: Diaoluoshan, 18°45'N, 109°52'E, 270 m, 21 Mar tary or borne in groups of 2-A, each subtended by small brac-
+
+2006, Guo Lixiu, Zhou Lianxuan & A. Henderson 135 (holo-teoles; staminate flower buds 3-3.5 mm long, bullet-shaped;
+
+type: IBSC!; isotype: NY!).
+
+calyces ca. 2 mm long, shallowly lobed at the apices, glabrous;
+
+Stems clustered, to 4 m tall, 2-3 cm diameter, erect. Leaves corollas ca. 4 mm long, glabrous, split to the base into 3 petals; 12-15; leaf sheaths ca. 40 cm long, extended above the peti- staminal rings 0.8-1 mm long; fllaments free for 0.6-0.8 mm.
+
+2011]
+
+HENDERSON AND BACON: NEW GENUS OF PALM
+
+893
+
+approximately equal in length; anthers 0.5-0.6 mm long; pistillate rachillae 9-14 on each partial inflorescence, 8.5-12 cm long, ca. 2 mm diameter, hairy as the staminate rachillae; floral stalks scarcely developed, solitary, each subtended by small bracteoles; pistillate flower buds 3-3.5 mm long, oblong; calyces ca. 2 mm long, shallowly lobed at the apices, glabrous; corollas ca. 4 mm long, split to the base into 3, valvate petals, these reflexed at and after anthesis, glabrous; staminal rings with vestigial filaments; pistils 1.3-1.5 mm long including a 0.3 mm long style, glabrous. Fruits 0.7-0.9 cm diameter, globose, orange or red at maturity, epicarp smooth. Figure 3H.
+Distribution and Habitat--^This species is known from
+
+flower buds 1-1.5 mm long, globose; calyces 0.8-1.2 mm long, cupular, gibbous, 3-lobed at the apices, sparsely hairy; corollas 0.6-1 mm long, split completely to the base into 3, valvate petals, glabrous; staminal rings short; filaments free for 0.1-0.2 mm; anthers 0.2 mm long; pistillate rachillae 10-12 on each partial inflorescence, 4-10 cm long, 0.5-0.7 mm diameter, minutely hairy; floral stalks scarcely developed, solitary, each subtended by small bracteoles; pistillate flower buds 1.5 mm long, oblong; calyces 1.5 mm long, gibbous, 3-lobed at the apices with each lobe splitting again as the fruits develop and becoming 6-lobed, minutely and sparsely hairy; corollas ca. 1 mm long, split to the base into 3 petals, these spreading
+
+China (Hainan; Fig. 5) in lowland moist forest at 270-1,100 m horizontally as the fruits develop, glabrous; staminal rings
+
+elevation.
+
+absent, with vestigial filaments; pistils ca. 0.3 mm long includ-
+
+Locat Names and Uses--Local names are ci zhou lu, chun ing a 0.1 mm long style, glabrous. Fruits 0.6-0.7 cm diameter,
+
+shue, dong fang zhou lu. The leaves are used for making pro- globose, color not known, epicarp warty. Figure 31.
+
+visional rain coats in the forest.
+
+Distribution and Habitat--This species is endemic to
+
+Additional Specimens Examined--CHINA. Hainan: Qiongzhong southern Vietnam (Dak Lak, Khanh Hoa, Lam Dong; Fig. 5)
+
+County, 12 Oct 1956, Chen Stiao Qing 10573 (IBSC); Mt. Jiangfenglin, Tian Chi, 12 May 1979, Chen 18881 (HITBC); Wanning County, Xinglong, 19 May 1979, Chen 18888 (HITBC); Ledong County, Mt. Jianfenling, 30 May 1959, Chen Zhe Lian 30277 (IBSC); 2-31 Jan 1935, Lau 5236 (A,
+
+in primary, wet, mixed forest or cloud forest on steep, rocky slopes at 1,250-1,700 m elevation.
+Local Names and Uses--A local name is sai. No uses
+
+IBSC); 14 May 1962, Zeng 13105 (HITBC); same locality, 18''44'N, 108°52E, recorded.
+
+850 m, 4 Dec 2000, Cilbeti et al. 368 (MO); Wuzhishan City, 1,700 ft., 14 Aug 1932, Chun & Tso 43425 (IBSC, NY, US); 8 Nov 1959, Sino-Cerman Team 1898 (IBSC); Baoting County, Dengliang 463 (IBK); Lingshui County, 16 Oct 1956, Dengtiang 2608 (IBSC); Tai Pin, foot of Loi Mother mountain, Jun-Jul 1935, Cressitt 1127 (E, MO); Sanya City, 1,800 ft., Mar-Jul 1933, How 70315 (A, IBSC, NY); 15 Aug 1933, Liang 62646 (NY); Sanya City, Yeung Lam Shan, near Yeung Lam village, Yai-hsien District, 4-24 May 1935, Lau 6261 (A, IBSC); Baisha County, 23 Mar 1936, Lau 25832 (A, IBSC); Ledong County, 1 Jun 1936, Lau 26987 (A, IBSC); Danzhou, Nada, 3 Nov 1922, McClure 21539 (A, E); Hung Mo Tung, SW of Fan Ta, 25 Aug 1929, McCltire & Fung 771 (NY, US); Nodoa, Lin Fa Leng, 3 Nov 1921, McClure 8060 (A, US); without locality, 4 Aug 1933, Wang 33534 (A, NY), 10 Jan 1934, Wang 36337 (NY). Cultivated plant. South China Botanical Garden, 9 Feb 2010, leanson S3 (NY).
+
+Additional Specimens Examined--VIETNAM. Dak Lac: Krong Bong Distr., Cu Pui Commune, from Dak Tour village to main peak of Chu Yang Sinh, 12°30'N, 108°30'E, 1,600-1,700 m, 9 May 2000, VH 6180 (HN, MO). Khanh Hoa: Khanh Vinh District, road from Nha Trang to Da Lat, 12.183N, 108.716E, 1601 m. 8 July 2010, Henderson &B.V. Thanh 3683 (HN, NY); Henderson & B. V. Thanh 3684 (HN, NY); "Province de Nha Trang, Massif du Hon Ba", no date. Chevalier 38738 (P); "Annam, nord de Ninh Hoa près de Nha Trang, versant sud-est du massif de la Mere et L'Enfant", 18 May 1923, Poilane 6533 (P); "Annam, nord de Ninh Hoa, près de Nha Trang", 18 May 1923, Poilane 6542 (F, P). Lam Dong: Lac Duong Distr., Da Chay Commune, 40 km from Da Lat city. Hon Giao ridge, 12°irN, 108°43'E, 1,600-2,000 m, 21 Apr 1997, VH 4120 (AAU, HN, K, MO); Lac Duong Distr., Bi Dup-Nui Ba National Park, new road DT 723 from Da Lat to Nha Trang, 12°10'N, 108°4rE, 1,500 m, 24 May 2007, Henderson et al.
+
+3416 (HN); Henderson et al. 3417 (HN).
+
+7. Lanonia hexasepala (Gagnep.) A. J. Hend. & C. D. Bacon, comb, nov.. Licúala hexasepala Gagnep., Notul. Syst. (Paris) 6:155.1937.--LECTOTYPE (here designated): VIETNAM. "Annam, Mère et l'Enfant près de Nhatrang" [Khanh Hoa: Ninh Hoa Distr., Chu Mu], 1200 m, 4 Nov 1929, E. Poilane 5059 (holotype: P! isotype: F!).
+
+Notes--In the original description of this species (Gagnepain 1937), all the specimens cited were from Khanh Hoa. Gagnepain and Conrard (1937), however, included a specimen {Magalon 6) from near Da Nang, and used it to describe the flowers of L. hexasepala. This specimen was also cited by Magalon (1930) and called by him "Licítala terriata ou
+
+Stems solitary or clustered, 1.5-2 m tall, 2 cm diameter, L. tripliylla Griff.". This Da Nang specimen is here included
+
+erect, densely covered with flat, black scales. Leaves 6; leaf in L. magalonii. One specimen, (Chevalier 38738) appears to
+
+sheaths 7-15 cm long, densely covered with flat, black scales, be a mixed collection, with only the sheet with leaves and
+
+extended above the petioles into 9-17 cm long auricles; pet- infructescences belonging here.
+
+ioles 16-47 cm long, scaly as the sheaths, the proximal ca.
+
+half with closely to widely spaced, recurved, black spines 8. Lanonia magalonii (A. J. Hend., N. K. Ban & N. Q. Dung)
+
+0.2-0.6 cm long, these sometimes bifid; blades 20 cm wide,
+
+A. J. Hend. & C. D. Bacon, comb, nov.. Licúala magalonii
+
+split into 10-14 segments, with numerous, minute reddish-
+
+A. J. Hend., N. K. Ban & N. Q. Dung, Palms 52: 152.
+
+brown scales abaxially, with straight sides; costas 0.5-1.5 cm
+
+2008.--TYPE: VIETNAM. Da Nang City: Hoa Vang
+
+long; middle segment split almost to the base of the blade
+
+District, Ba Na-Nui Chua Nature Reserve, 20 Apr 2007,
+
+(to apex of costa) into 2 lobes, these not wider than the other
+
+A. Henderson, N. Q. Dutig, N. Catth & L. V. Bo 3304 (holo-
+
+segments, 13-23 cm long, 2.5-3 cm wide at the apices; inden-
+
+type: HN! isotype: NY!).
+
+tations leading to adaxial folds 1-1.5 cm deep, those lead-
+
+Stems solitary or clustered, to 1.5 m tall, 2-2.5 cm diameter,
+
+ing to abaxial folds 0.4-0.6 cm deep, indentations deeper sometimes short and subterranean. Leaves 6-12; leaf sheaths
+
+on lateral segments. Inflorescences 60 cm long, erect among 14-15 cm long, extended above the petioles into ca. 10 cm
+
+the leaves; prophylls 16 cm long; peduncles not seen; rachis long auricles; petioles 16-56 cm long, the proximal ca. half
+
+absent, with 1 partial inflorescence, this branched to 1 order with widely spaced, recurved, brown spines to 0.2 cm long;
+
+in pistillate plants, 2 orders in staminate plants, subtended blades 44--48 cm wide, split into 3-4 segments, with minute,
+
+by narrow, tubular, scarcely brown tomentose rachis bracts, reddish-brown scales abaxiaUy, with straight sides; costas
+
+these splitting apically; staminate rachillae 21 on each partial 6.3-16.0(-24.7) cm long; middle segment deeply split almost
+
+inflorescence, 12-18.5 cm long, ca. 0.5 mm diameter, minutely to the base of the blade (to apex of costa) into 2 lobes, these
+
+hairy; floral stalks scarcely developed, borne in groups of much wider than the other segments, 33-41 cm long, 13-20 cm
+
+2-3, each subtended by small, ciliate bracteoles; staminate wide at the apices (rarely the central segment not split and
+
+894
+
+SYSTEMATIC BOTANY
+
+[Volume 36
+
+then costa continuous to apex of segment); indentations leading to adaxial folds ca. 1 cm deep, those leading to abaxial folds ca. 0.2 cm deep, indentations deeper on lateral segments. Inflorescences to 54 cm long, erect or curving among the leaves; prophylls 11.5-18 cm long; peduncles 26^5 cm long; rachis 0(-14) cm long, with l(-2) partial inflorescences, these branched to 2 orders, subtended by narrow, tubular, scarcely brown tomentose rachis bracts; these splitting apically; staminate rachillae 4--13,10-14 cm long, 1-1.5 mm diameter, moderately covered with brown, felty hairs; floral stalks scarcely developed, borne in groups of 2 ^ , each subtended by ciliate bracteoles; staminate flower buds 3-3.5 mm long, bullet-shaped; calyces 1.5-2.7 mm long, gibbous, 3-lobed at the
+
+Science and Technology (VAST) and the Institute of Ecology and Biological Resources (IEBR) in Hanoi. We thank Dr. Nirüi Khac Ban, Director of the International Cooperation Department of VAST and Assistant Professor Le Xuan Canh, Director of IEBR, for their continuing support. Assistant Professor Vu Xuan Phuong, Dr. Phan Ke Loc, Dr. Nguyen Tien Hiep, Dr. Jack Regalado, and Dr. Tran Phuong Anh also helped with the research. The curators of A, AAU, BH, F, Fl, FIPI, HN, HNU, IBSC, K, M, MO, NY, P, SYS, US, and VNM made specimens available for study. Dr. Rodrigo Bemal provided the Latin. Bacon was supported by the McBryde Graduate Student Fellowship of the National Tropical Botanical Garden and an American Society of Plant Taxonomy Graduate Research Grant. The authors thank Drs. William Baker, Anders Barfod, John Dransfield, and Mark Simmons for useful discussions, Arwen Milroy and Miles McKenna for laboratory assistance, and William Baker and Scott Zona for suggestions that greatly improved the manuscript.
+
+apices, glabrous; corollas 2.5-3 mm long, split for ca. two thirds
+
+their length into 3 petals, glabrous; staminal rings 0.5 mm long; filaments free for ca. 0.5 mm, approximately equal in length; anthers 0.5 mm long; pistillate rachillae 2-7 on each partial inflorescence, 4.5-15 cm long, ca. 1.5 mm diameter; floral stalks scarcely developed, solitary, each subtended
+
+LrrERATURE C I T E D
+Akaike, H. 1974. A new look at the statistical model identification. IEEE Transactions on Automatic Control 19: 716-723.
+Alexander, P., R. Govindarajalu, C. Bacon, and C. Bailey. 2007. Recovery of plant DNA using a reciprocating saw and silica-based columns.
+
+by ciliate bracteoles; pistillate flower buds 2.5-3.5 mm long, oblong; calyces 1.5-2 mm long, 3-lobed at the apices with each lobe splitting again as the fruits develop and becoming 6-lobed, glabrous; corollas 2-2.5 mm long, split for 1.5 mm into 3 petals, glabrous; staminal rings vestigial; pistils ca. 1.5 mm long including a 0.2 mm long style, glabrous. Fruits 0.7-0.9 cm diameter, irregularly globose, color at maturity not known, epicarp warty.
+
+Molecular Ecology Notes 7: 5-9. Asmussen, C , J. Dransfield, V. Deickmann, A. Barford, J.-C. Pintaud,
+and W. Baker. 2006. A new subfamily classification of the palm family (Arecaceae): evidence from plastid DNA. Botanical journal of the Linnean Society 151: 15-38. Backer, C. and R. Bakhuizen van den Brink. 1968. Flora of java. Vol. III. Groningen, The Netherlands: Wolters-Noordhoff N. L. Bacon, C. and W. Baker. 2011. Saribus resurrected. Palms 55:109-116. Bacon, C , F. Feltus, A. Paterson, and C. Bailey. 2008. Novel nuclear intronspanning primers for Arecaceae evolutionary biology. Molecular
+
+Distribution and Habitat--This species is endemic to central Vietnam (near Da Nang City and in Thua Thien-Hue; Fig. 5) in primary, broad-leaved, evergreen, closed, montane forest on steep slopes on granite rocks at 1,000-1,500 m elevation.
+Local Names and Uses--Local names are cay la ma ca, la non, la non nham. No uses recorded.
+
+Ecology Resources 8: 211-214.
+Bacon, C , W. Baker, and M. Simmons. In press. Miocene dispersal drives
+island radiations in the palm tribe Trachycarpeae (Arecaceae). Systematic Biotogy. Baker, W. J., V. Savolainen, C. B. Asmussen-Lange, M. W. Chase, J. J>ansfield, F. Forest, M. M. Harley, N. W. Uhl, and M. Wilkinson. 2009. Complete generic-level phylogenetic analyses of palms (Arecaceae) with comparisons of supertree and supermatrix approaches. Systematic Biology 58: 240-256.
+
+Additional Specimens Examined--VIETNAM. Da Nang City: Hoa Barfod, A. and L. Saw. 2002. The genus Licúala (Arecaceae, Coryphoideae)
+
+Vang District, Ba Na-Nui Chua Nature Reserve, 20 Apr 2007, Henderson
+
+in Thailand. Kew Bulletin 57: 827-852.
+
+et al. 3305 (HN, NY), May-Jul 1927, Clemens & Clemens 4444 (NY, P), Jan- Beccari, 0.1889. Nuovi studi suUe palmae Asiatiche. Malesia 3: 58-149.
+
+May 1927, Squires 203 (NY, US); "Mt. Bana, environs Tourane" [Da Nang Beccari, 0.1933. Asiatic Palms - Corypheae (ed. U. Martelli). Annals of the
+
+City, Hoa Vang District, Ba Na-Nui Chua Nature Reserve], 24 Jan 1940,
+
+Royal Botanic Garden Calcutta 13:1-356, plates i-xxxii 1-70.
+
+Magalon 6 (NY, P, VNM). Thua Thien-Hue: Bach Ma National Park, no Crisp, M., Y. Isagi, Y. Kato, L. Cook, and D. Bowman. 2010. Livistona palms
+
+date, T. P. Anh 107 (HN); 27 Oct 2004, Anon 4 (HN), 13 Apr 2007, Henderson
+
+in Australia: ancient relics or opportunistic immigrants? Molecular
+
+et ai 3268 (HN, NY), 26 Apr 2003, HLF 1336 (HN), 4 May 2003, HLF 1623
+
+Phylogenetics and Evolution 54: 512-523.
+
+(HN), 30 Jan 1990, Newman 177 (AAU, K), Neivman 179 (AAU, K), 18 Apr 2003, HLF 951 (HN).
+
+Cuenca, A. and C. Asmussen-Lange. 2007. Phylogeny of the palm tribe Chamaedoreeae (Arecaceae) based on plastid DNA sequences.
+
+Notes--The first known specimen {Magalon 6) of this spe-
+
+Molecular Phylogenetics and Evolution 32: 250-263.
+
+cies was misidentified by Magalon (1930) as "Licúala ternata Davis, J. I., M. P. Simmons, D. W. Stevenson, and J. R Wendel. 1998. Data
+
+ou L. triphylla Griff." Licúala tertmta is now considered a synonym of L. triphylla, a monoecious species from Peninsular
+
+decisiveness, data quality, and incongruence in phylogenetic analysis: an example from the monocotyledons using mitochondrial atpA sequences. Systematic Biology 47: 282-310.
+
+Thailand, Peninsular Malaysia, and Borneo. Gagnepain and Doyle, J. 1992. Gene trees and species trees: molecular systematics as one-
+
+Conrard (1937) mistakenly identified Magalon 6 as Licúala
+
+character taxonomy. Systematic Botany 17:144-163.
+
+hexasepala, a species otherwise known only from the southern part of Vietnam. This specimen is also the only one examined in which the central segment is not split, and the costa is similar to other Licúala species and continues to the apex of the central segment. We have observed other individu-
+
+Dransfield, J., N. Uhl, C. Asmussen, W. Baker, M. Harley, and C. Lewis. 2005. A new phylogenetic classification of the palm family, Arecaceae. Kew Bulletin 60: 559-569.
+Dransfleld, J., N. Uhl, C. Asmussen, W. Baker, M. Harley, and C. Lewis.
+2008. Genera palmarum. The evolution and classification of palms. Kew: Royal Botanic Gardens.
+
+als in the field with similar central segments, but possibly these are younger plants in which the leaves are not fully developed.
+ACKNOWLEDGMENTS. Field work in Vietnam by Henderson was supported by a Fulbright Program Research Award and grants from the National Science Foundation (OISE-0512110), the National Geographic
+Society, the John D. and Catherine T. MacArthur Foundation, and the International Palm Society. Herbarium work at AAU by Henderson was funded by the University of Aarhus Research Foundation. Research in Vietnam was carried out in collaboration with the Vietnam Academy of
+
+Drummond, A., S. Ho, M. Phillips, and A. Rambaut. 2006. Relaxed phylogenetic and dating with confidence. PLoS Biology 4: 699-710.
+Drummond, A. and A. Rambaut. 2007. BEAST: Bayesian evolutionary analysis by sampling trees. BMC Evolutionary Biology 7: e214.
+Edgar, R. 2004. MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research 32:1792-1797.
+Farris, J., V. Albert, M. Källersjö, D. Lipscomb, and A. Kluge. 1996. Parsimony jackknifing outperforms neighbor-joining. Cladistics 12: 99-124.
+Felsenstein, J. 1973. Maximum likelihood and minimum-steps methods for estimating evolutionary trees from data on continuous characters. Systematic Zoology 27: 27-33.
+
+2011]
+
+HENDERSON AND BACON: NEW GENUS OF PALM
+
+895
+
+Felsenstein, J. 1985. Confldence limits on phylogenies: an approach using Stamatakis, A., T. Ludwig, and H. Meier 2005. RAxML-lII: a fast program
+
+the bootstrap. Evolution 39: 783-791.
+
+for maximum likelihood-based inference of large phylogenetic trees.
+
+Gagnepain, F. 1937. Palmiers d'Indochine nouveaux ou litigieux. Notulae
+
+Bioinformatics 21: 456-463.
+
+Systematicae 6:149-160.
+
+Stamatakis, A., P. Hoover, and J. Rougemont. 2008. A rapid boot-
+
+Gagnepain, F. and L. Conrard. 1937. Palmiers. Pp. 946-1056 in Flore générale
+
+strap algorithm for the RAxML web-servers. Systematic Biology 75:
+
+de l'indo-Cliina. Volume 6. ed. H. Lecomte. Paris: Masson.
+
+758-771.
+
+Goloboff, P. and D. Pol. 2005. Parsimony and Bayesian phylogenetics. Steele, K. and R. Vilgalys. 1994. Phylogenetic analyses of Polemonianceae
+
+Pp. 148-159 in Parsimony, phylogeny, and genomics. ed. V. Albert.
+
+using nucleotide sequences of the plastid gene matK. Systetnatic
+
+Oxford: Oxford University Press.
+
+Botany 19: 126-142.
+
+Gouy, M., S. Guindon, and O. Gascuel. 2010. SeaView version 4: a multi- Stover, B. and K. Müller. 2010. TreeGraph 2: combining and visualizing
+
+platform graphical user interface for sequence alignment and phylo-
+
+evidence from different phylogenetic analyses. BMC Bioinformatics
+
+genetic tree building. Molecular Biology and Evolution 27: 221-224.
+
+11: e7.
+
+Govaerts, R. and J. Dransfield. 2005. World checklist of palms. Kew: Royal Suzuki, Y, G. Glazko, and M. Nei. 2002. OvercredibUity of molecular
+
+Botanic Gardens.
+
+phylogenies obtained by Bayesian phylogenetics. Proceedings of the
+
+Hahn, W. J. 2002. A phylogenetic analysis of the Arecoid line of palms
+
+National Academy of Sciences USA 99:16138-16143.
+
+based on plastid DNA sequence data. Molecular Phylogenetics and Swofford, D. 2001. PAUP* 4.0: Phylogenetic analysis using parsimony
+
+Evolution 23:189-204.
+
+(*and other methods). Sunderland: Sinauer Associates.
+
+Henderson, A. 2009. Field guide to the palms of southern Asia. Princeton, NJ: Uhl, N. and J. Dransfield. 1987. Cenera palmarum. Lawrence, Kansas: Allen
+
+Princeton University Press.
+
+Press.s
+
+Henderson, A., G. Lixiu, and A. Barfod. 2007. A new, dioecious, dimorphic Yang, Z. 2006. Computational molecular evolution. Oxford: Oxford University
+
+species of Licúala (Palmae) from Hainan, China. Systematic Botany
+
+Press.
+
+32: 718-721.
+
+Yang, Z. and B. Rannala. 1997. Bayesian phylogenetic inference using
+
+Henderson, A., N. K. Ban, and N. Q. Dung. 2008. New species of Licúala
+
+DNA sequences: a Markov Chain Monte Carlos method. Molecutar
+
+(Palmae) from Vietiiam. Palms 52:141-154.
+
+Biology and Evolution 14: 717-724.
+
+Hillis, D. M. 1998. Taxonomic sampling, phylogenetic accuracy, and inves-
+
+tigator bias. Systematic Biology 47: 3-8. Kluge, A. 1989. A concern for evidence and a phylogenetic hypothesis
+for relationships among Epicrates (Boideae, Serpentes). Systematic
+Zoology 38:7-25.
+
+APPENDIX 1. List of taxa sampled with taxonomic authorities, voucher information, and GenBank accession numbers for new sequences generated for this study.
+
+Liu, L. 2008. BEST: Bayeisan estimation of species trees under the coalescent model. Bioinformatics 24: 2542-2543.
+
+Lanorúa hainanensis (A. ). Hend., Guo & Barford) A. J. Hend. & C. D.
+
+Maddison, D. and W. Maddison. 2001. MacClade: Analysis of phylogeny and Bacon-- M. ¡emson 383 (NY); CISP4 JF292931, CISP5 JF292941, tnatK
+
+character evolution version 4.03. Sunderland, MA: Sinauer Associates. JF292980, MS JF292951, ndliF JF292961. Lanonia hexasepata (Gagnep.) A. J.
+
+Magalon, M. 1930. Contribution a l'étude des palmiers de l'Indochine Française. Hend. & C. D. Bacon-- A. /. Henderson et al. 3683, Vietnam (NY); C1SP4
+
+Paris: Les Presses Modernes.
+
+JF292932, CISP5 JF292942, matK JF292981, MS JF292952, RPB2 JF292968.
+
+Martin, D. and E. Rybicki. 2000. RDP: detection of recombination amongst iMnonia sp.l (A. J. Hend. & C. D. Bacon ined.)-- A. J. Henderson et al.
+
+aligned sequences. Bioinformatics 16: 562-563.
+
+3672, Vietiiam (NY); CISP4 JF292932, CISP5 JF292943, matK JF292982, MS
+
+Nixon, K. and J. Carpenter. 1996. On simultaneous analysis. Cladistics 12: JF292953, ndliF JF292962, trnDT JF292973. Lanonia sp.2 (A.J. Hend. & C. D.
+
+221-242.
+
+Bacon ined.)-- A. /. Henderson et al. 3676, Vietnam (NY); CISP4 JF292934,
+
+Posada, D. 2008. jModelTest: Phylogenetic model averaging. Molecular Biology and Evolution 25: 1253-1256.
+
+CISP5 JF292944, matK JF292983, MS JF292954, ndliF JF292963, RPB2 JF292969, fmDT JF292974. Umonia sp.3 (A. J. Hend. & C. D. Bacon ined.)--
+
+Roncal, J., J. Francisco-Ortega, C. Asmussen, and C. Lewis. 2005. Molecular A. /. Henderson et al 3688, Vietiiam (NY); CISP4 JF292935, C1SP5 JF292945,
+
+phylogenetics of tribe Geonomeae (Arecaceae) using nuclear DNA matK JF292984, MS JF292955, ndbF JF292964. umonia sp.4 (A. J. Hend. &
+
+sequences of phosphoribulokinase and RNA polymerase. Systematic C. D. Bacon ined.)-- A. /. Henderson et al. 3695, Vietiiam (NY); C1SP4
+
+Botany 30: 275-283.
+Saw, L. G. 1997. A revision of Licúala (Palmae) in the Malay Peninsula. Sandakania 10:1-95.
+Saw, L. G., J. Dransfield, and D. Keith-Lucas. 2003. Morphological diversity of the genus Licúala (Palmae). Telopca 10:187-206.
+Simmons, M. 2004. Independence of alignment and tree search. Molecular Phylogenetics and Evolution 31: 874-879.
+Simmons, M. and Freudenstein, J. 2011. Spurious 99% bootstrap and jackknife support for unsupported clades. Molecutar Phylogenetics and Evolution 6: 177-191
+Simmons, M., K. Pickett, and M. Miya. 2004. How meaningful are Bayesian support values? Molecular Biology and Evolution 21:188-199.
+
+JF292936, CISP5 JF292946, matK JF292985, MS JF292956, ndliF JF292965, RPB2 JF292970, trnDT JF292975. Lanonia sp.5 (A. J. Hend. & C. D. Bacon ined.)-- A. ]. Henderson et al. 3703, Vietiiam (NY); CISP4 JF292937, CISP5 JF292947, MS JF292957, ndhF JF292966, RPB2 JF292971, fruDT JF292976. Lanonia sp.6 (A. J. Hend. & C. D. Bacon ined.)-- A. ]. Henderson et al. 3707, Vietiiam (NY); C1SP4 JF292938, CISP5 JF292948, matK JF292986, MS JF292958, )jrf/iF JF292967, fn!DTJF292977. Lanonia sp.7 (A. J. Hend. & C. D. Bacon ined.)-- A. /. Henderson et al. 3726, Vietiiam (NY); CISP4 JF292939, CISP5 JF292949, matK JF292987, MS JF292959, RPB2 JF292972, trnDT JF292978. Lnnonia sp.8 (A. J. Hend. & C. D. Bacon ined.)-- A. /. Henderson et al. 3727, Vietnam (NY); CISP4 JF292940, CISP5 JF292950 matK JF292988, MS JF292960, frnDT JF292979.
+
+Copyright of Systematic Botany is the property of American Society of Plant Taxonomists and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+
+
