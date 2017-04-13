@@ -22,7 +22,6 @@ filenames.dic<-list.files(dictionary.path)
 path2 <- paste("/Users/Gabriel/Desktop/ShinyAPPS/LiteratureReader/dic","/", filenames.dic, sep = "")
 names(path2) <- filenames.dic
 
-key <- "cf0b9da7695ba68256cd61ee7fe04cbf84ae4ede" # To change this for "accept other keys"
 
 shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                   
