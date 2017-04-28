@@ -1,8 +1,4 @@
 
----
-output: html_document
----
-
 # Welcome to Ecological Events Miner! 
 This is a work in progress to mine ecological events from published literature
 
@@ -22,6 +18,35 @@ Currently,  the PDF versions of published articles is the most common way to sto
 
 ----------
 
+# How does it work? 
+
+Ecological Events Miner makes use of R packages designed for text mining and base R functions. 
+Functions from `fulltext` are used to perform the OCR. The `taxize` package is used to establish the API connection to the [Global Names Recognition and Discovery (GNRF)](rdrr.io) tool. The `stringr`is used for string manipulation and `wordcloud` to create the wordcloud of terms. 
+
+----------
+
+# Room for improvement? lets get in touch. 
+
+There is always room for improvement, for now I have built this app using mostly spare time of my own. I'll be happy to discuss ideas and tools for improvement. I have some ideas in mind but their are not completely cooked yet... 
+
+Still interested to get in touch? then send me an [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
+
+----------
+
+# References and Further reading
+
+
+
+Bisby, F. A. (2000). The quiet revolution: biodiversity informatics and the internet. Science, 289(5488), 2309-2312.
+
+Haddaway, N. R., Collins, A. M., Coughlin, D., & Kirk, S. (2017). A rapid method to increase transparency and efficiency in web-based searches. Environmental Evidence, 6(1), 1.
+
+Kissling, W. D., & Schleuning, M. (2015). Multispecies interactions across trophic levels at macroscales: retrospective and future directions. Ecography, 38(4), 346-357.
+
+
+Poisot, T., Stouffer, D. B., & Gravel, D. (2015). Beyond species: why ecological interaction networks vary through space and time. Oikos, 124(3), 243-251.
+
+Thuiller, W., Münkemüller, T., Lavergne, S., Mouillot, D., Mouquet, N., Schiffers, K., & Gravel, D. (2013). A road map for integrating eco‐evolutionary processes into biodiversity models. Ecology letters, 16(s1), 94-105.
 
 
 
