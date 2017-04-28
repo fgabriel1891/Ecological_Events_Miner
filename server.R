@@ -15,9 +15,18 @@ read <- eventReactive(input$dataset,{
 
 # Read the pdf
  fulltext::ft_extract(input$dataset)
-
-
 })
+
+scinames <- eventReactive(input$dataset,{
+  taxize::scrapenames(text = read()$data, all_data_sources = TRUE)})
+
+
+dictio <- eventReactive(input$dictionary,{
+  
+  # Read the pdf
+  read.csv(input$dictionary, header = TRUE, stringsAsFactors = F)
+})
+
 
 # Custom fucntion to index
 #
@@ -28,7 +37,7 @@ Index <- function(read,verbatim, dictionary) {
 
   IndexText <- list()
   for(i in 1:length(verbatim$offsetend)){
-    IndexText[i] <- stringr::str_sub(iconv(enc2utf8(read()$data),sub="byte"),
+    IndexText[i] <- stringr::str_sub(iconv(enc2utf8(read),sub="byte"),
                                      verbatim$offsetstart[i]-150,
                                      verbatim$offsetend[i]+300)
 
@@ -66,15 +75,40 @@ termcount <- function(dictionary, text){
 
 # Tab with Scientific Names found and count
 
-  output$data_table <- renderTable({
+  output$data_table <- DT::renderDataTable({
+    
     #     Find scientific names
-    scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)
+    #list <<- taxize::classification(scinames()$scientificname,db = "itis", verbose = F)
+    sciname <- scinames()$data$scientificname 
+    splist <- table(sciname,dnn = "Species")[order(table(sciname), decreasing = T)]
+    splist <- data.frame(splist)
+    #splist$fam <- taxize::tax_name(splist$Species, get = "family", db ="ncbi", ask = F, verbose = F)$family
+    #splist$order <- taxize::tax_name(splist$Species, get = "order", db ="ncbi", ask = F, verbose = F)$order
+   # taxoi <- data.frame(table(verb$scientificname,dnn = "Species")[order(table(verb$scientificname), decreasing = T)])
+   # list <- taxize::classification(taxoi$Species, db = "itis", verbose = T, rows= 1)
+   #  
+    
+    
 
-    sciname <- scinames.d$data$scientificname # output
-    table(sciname,dnn = "Count")[order(table(sciname), decreasing = T)]
+# 
+#     dat <- data.frame(taxoi)
+#     dat$fam <-taxize::tax_name(taxoi$Species, get = "family", db ="ncbi", ask = F, verbose = F)
+#     dat$order <- taxize::tax_name(taxoi$Species, get = "order", db ="ncbi", ask = F, verbose = F)
+#     DT::datatable(dat)
+    DT::datatable(splist,rownames = F)
 
   })
+  
+  # output$tax_tree <- renderPlot({
+  #   
+  #   plot(taxize::class2tree(list))
+  # })
 
+#  
+# names(list)
+  
+
+ 
 # Tab to show the dictionary
     output$dictionary <- renderPlot({
       # Read the dictionary
@@ -89,18 +123,15 @@ termcount <- function(dictionary, text){
 
 
     output$Indexed.version <- renderTable({
-      dictio <- read.csv(input$dictionary, header = TRUE, stringsAsFactors = F)
-      scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)
-      verbatim <- scinames.d$data[c("verbatim","offsetend", "offsetstart")]
-    table("Species" = unlist( Index(read()$data, verbatim,dictio)$text))
+      verbatim <- scinames()$data[c("verbatim","offsetend", "offsetstart")]
+    table("Species" = unlist( Index(read()$data, verbatim,dictio())$text))
 
     })
 
     output$plot <- renderPlot({
-      dictio <- read.csv(input$dictionary, header = TRUE)
-      scinames.d <- taxize::scrapenames(text = read()$data, all_data_sources = TRUE)
-      verbatim <-scinames.d$data[c("verbatim","offsetend", "offsetstart")]
-      matches <- Index(read()$data, verbatim,dictio)$where
+
+      verbatim <-scinames()$data[c("verbatim","offsetend", "offsetstart")]
+      matches <- Index(read()$data, verbatim,dictio())$where
 
 
       plot(matches,
@@ -108,7 +139,7 @@ termcount <- function(dictionary, text){
            ylim = c(0,nchar(iconv(enc2utf8(read()$data),sub="byte"))),
            col = "#5ba966",pch = 16,
            main = "position on the text")
-      legend("bottomright", "Position of record \n along the text",pch = 16, 
+      legend("topright", "Position of record \n along the text",pch = 16, 
              col = "#5ba966", bty = "y" )
     })
 
