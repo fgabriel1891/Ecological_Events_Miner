@@ -33,9 +33,6 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                             fluidPage( theme = shinytheme("yeti"), 
                               sidebarLayout(
                                 sidebarPanel(
-                                selectInput(inputId = "dataset",
-                                                       label = "Select article to read",
-                                                       path1),
                                 selectInput(inputId = "dictionary",
                                           label = "Provide a thesaurus",
                                           path2),
@@ -50,7 +47,10 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                           )
                         )
                       ),
-                   tabPanel("Species names",
+                   tabPanel("Taxonomic summary",
+                            selectInput(inputId = "selector",
+                                        label = "Select an article to read",
+                                        path1),
                             
                               p("Taxonomic summary"),
                               DT::dataTableOutput("data_table"),
@@ -60,6 +60,9 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                             ),
                    
                    tabPanel("Indexed version",
+                            selectInput(inputId = "selector2",
+                                        label = "select an article to read",
+                                        path1),
                             fluidPage(
                               sidebarLayout(
                                 sidebarPanel(

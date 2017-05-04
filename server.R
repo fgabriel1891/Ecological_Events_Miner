@@ -9,21 +9,27 @@
 # library(monkeylearn)
 
 shinyServer(function(input, output, session) {
+  
 
+read <- eventReactive(input$selector,{
+  fulltext::ft_extract(input$selector)
 
-read <- eventReactive(input$dataset,{
-
-# Read the pdf
- fulltext::ft_extract(input$dataset)
 })
 
-scinames <- eventReactive(input$dataset,{
-  taxize::scrapenames(text = read()$data, all_data_sources = TRUE)})
+read2 <- eventReactive(input$selector2,{
+  fulltext::ft_extract(input$selector2)
+  
+})
 
+
+scinames <- eventReactive(input$selector,{
+  taxize::scrapenames(text = read()$data, all_data_sources = TRUE)})
+scinames2 <- eventReactive(input$selector2,{
+  taxize::scrapenames(text = read2()$data, all_data_sources = TRUE)})
 
 dictio <- eventReactive(input$dictionary,{
   
-  # Read the pdf
+  # Read the dictionary
   read.csv(input$dictionary, header = TRUE, stringsAsFactors = F)
 })
 
@@ -82,7 +88,7 @@ termcount <- function(dictionary, text){
     sciname <- scinames()$data$scientificname 
     splist <- table(sciname,dnn = "Species")[order(table(sciname), decreasing = T)]
     splist <- data.frame(splist)
-    #splist$fam <- taxize::tax_name(splist$Species, get = "family", db ="ncbi", ask = F, verbose = F)$family
+    splist$fam <- taxize::tax_name(splist$Species, get = "family", db ="ncbi", ask = F, verbose = F)$family
     #splist$order <- taxize::tax_name(splist$Species, get = "order", db ="ncbi", ask = F, verbose = F)$order
    # taxoi <- data.frame(table(verb$scientificname,dnn = "Species")[order(table(verb$scientificname), decreasing = T)])
    # list <- taxize::classification(taxoi$Species, db = "itis", verbose = T, rows= 1)
@@ -123,15 +129,15 @@ termcount <- function(dictionary, text){
 
 
     output$Indexed.version <- renderTable({
-      verbatim <- scinames()$data[c("verbatim","offsetend", "offsetstart")]
-    table("Species" = unlist( Index(read()$data, verbatim,dictio())$text))
+      verbatim <- scinames2()$data[c("verbatim","offsetend", "offsetstart")]
+    table("Species" = unlist( Index(read2()$data, verbatim,dictio())$text))
 
     })
 
     output$plot <- renderPlot({
 
-      verbatim <-scinames()$data[c("verbatim","offsetend", "offsetstart")]
-      matches <- Index(read()$data, verbatim,dictio())$where
+      verbatim <-scinames2()$data[c("verbatim","offsetend", "offsetstart")]
+      matches <- Index(read2()$data, verbatim,dictio())$where
 
 
       plot(matches,
