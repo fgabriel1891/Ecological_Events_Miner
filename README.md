@@ -28,7 +28,7 @@ Functions from `fulltext` are used to perform the OCR. The `taxize` package is u
 
 # Room for improvement? lets get in touch. 
 
-There is always room for improvement, for now I have built this app using mostly spare time of my own. I'll be happy to discuss ideas and tools for improvement. I have some ideas in mind but their are not completely cooked yet... 
+There is always room for improvement. I'll be happy to discuss ideas and tools for improvement. I have some ideas in mind but their are not completely cooked yet... 
 
 Still interested to get in touch? then send me an [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
 
