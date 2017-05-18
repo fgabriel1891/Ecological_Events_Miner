@@ -1,0 +1,1089 @@
+Blackwell Publishing LtdOxford, UKBOJBotanical Journal of the Linnean Society0024-4074The Linnean Society of London, 2006? 2006 151? 3967 Original Article FOSSIL RECORDS FOR ARECACEAE M. M. HARLEY
+Botanical Journal of the Linnean Society, 2006, 151, 39­67.
+The Palms Guest edited by William J. Baker and Scott Zona
+A summary of fossil records for Arecaceae
+MADELINE M. HARLEY FLS*
+Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, UK
+Received June 2005; accepted for publication November 2005
+Of all monocotyledons the Arecaceae displays by far the richest fossil record, and there is an extensive literature. The earliest unequivocal fossil palm material probably dates from the early to mid Late Cretaceous (Turonian > Coniacian > Santonian). The records are geographically widespread and comprise a wide range of organs: leaves, cuticles, stems, rhizomes, roots, fruits, seeds, endocarps, rachillae, peduncles, inflorescences, individual flowers and pollen. For some of these organs records are rare while for others, such as leaves, stems and pollen, records are abundant. However, fossil material often lacks sufficient diagnostic detail to allow reasonable association with living palm taxa beyond, or even to, subfamilial level. Nevertheless, many fossil genera and numerous species have been described. A brief survey of palm fossil records is presented, and their taxonomy and morphological limitations are considered. © 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67. ADDITIONAL KEYWORDS: Coniacian ­ global cooling events ­ palaeogeographical distribution ­ Santonian ­ Turonian.
+
+INTRODUCTION
+The fossil record of Arecaceae is both rich and widespread. Chronologically, the expanding and retracting distribution of fossil palm records in higher latitudes has been an important indicator of global change, particularly cooling events during the early Miocene. Fossil records also show that the continent of Africa and the subcontinent of India once possessed much richer palm floras than at present. Leaves, stems and pollen are particularly abundant in the fossil record, but there are also numerous records of fruits and seeds, rhizomes and roots. Rarely, rachillae, inflorescences or individual flowers are recovered.
+The earliest unequivocal fossils are from the late mid-Cretaceous to early Upper Cretaceous. These consist of costapalmate leaves: Sabalites carolinensis Berry (Berry, 1914a) from the late Coniacian­early Santonian of South Carolina to the Santonian of New Jersey (USA); S. magothiensis (Berry) Berry (Berry,
+*E-mail: m.harley@kew.org
+
+1905, 1911) and Sabalites longirhachis (Unger) J. Kvadek et Herman (Kvadek & Herman, 2004) from the Lower Campanian of Austria. Pinnate leaves are first described from the Lower Campanian of northern Montana (Phoenicites Brongniart; Crabtree, 1987). The earliest record of fossil stems, Palmoxylon andegavense Crié and P. ligerinum Crié (Crié, 1892), is purportedly from the Turonian of France while there is a slightly later record, Palmoxylon cliffwoodensis Berry, from the Coniacian­Santonian of New Jersey (Berry, 1916a). Fruits are first recorded from the Upper Cretaceous of Brazil (Palmocarpon luisii; Maury, 1930) and from the Early Palaeocene of Greenland (Koch, 1972). Records of Nypa fruits (Nipadites) are first found in the Palaeocene of the US Gulf Coast states, eastern Brazil (Dolianiti, 1955) and north-east Africa [for example, Chandler (1954); Gregor & Hagn (1982)]. Upper Cretaceous­Palaeocene rhizomes (Rhizopalmoxylon huepaciense Cevallos Ferriz & Ricalde-Moreno and R. teguachachiense Cevallos Ferriz & Ricalde-Moreno; Cevallos Ferriz & Ricalde-Moreno, 1995) are described from northern Mexico, while an inflorescence from the lower
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+39
+
+40 M. M. HARLEY
+
+Maastrichtian of north-eastern Mexico is possibly the earliest record of an inflorescence structure so far described (Weber, 1978). Spinizonocolpites, widespread from the Maastrichtian (Gee, 1990; Morley, 2000), represents the earliest undisputed palm pollen, but by the Maastrichtian, other palm-like pollen types also appeared, notably Mauritiidites and Longapertites (Schrank, 1994).
+By the late Cretaceous all major palm fossil categories are present, and from the earliest Tertiary (Palaeocene) up until the cooling events of the Miocene, fossil records for the Arecaceae are extraordinarily rich and diverse. Nevertheless, for the majority of palm fossils, the lack of distinctive morphological variation in organs frequently limits the possibility of inferring affinity to taxonomic units below the family level. Pollen records are exceptionally numerous and problematic. There are over 50 fossil pollen genera with a clear or suspected affinity to palms. At the other end of the scale, almost all described fossil palm stems are included in the single genus Palmoxylon. In this paper, the main palm fossil categories and their genera are reviewed, and the extent to which relationships can be attributed is considered.
+THE FOSSIL GENERA (SEE ALSO APPENDICES 1 & 2)
+LEAVES, LEAF AXES, PETIOLES, ETC.
+Leaves: Amesoneuron Goeppert, Bactrites Berry, *Calamopsis Heer, Costapalma Daghlian, *Eolirion Schenk, Flabellaria Sternberg, Geonomites Visiani Hemiphoenicites Visiani, Iriartites Berry, Kentites Boureau, Latanites Massalongo, Manicarites Boureau, Palmacites Brongniart, *Palmophyllum Conwentz, *Paloreodoxites Knowlton, Palustrapalma Daghlian, Phoenicites Brongniart (also used for fruits), Pritchardites Boureau, *Propalmophyllum Lignier, Sabalites Saporta (also used for fruits), Sabalophyllum Bonde, *Sanmiguelia Brown, *Serenopsis Hollick [* = doubtfully from a palm (Read & Hickey, 1972)].
+Leaf axes, petioles, etc.: Palmocaulon (Deshpande) Menon, Parapalmocaulon Bonde, Phoenicicaulon Bonde, Kumbhojkar & Aher, Sabalocaulon Trivedi & Verma.
+Level of affinity possible between fossils and extant taxa Read & Hickey (1972) defined five basic characteristics of extant palm leaves that can be used alone or in various combinations to recognize fossil palm leaves: (1) leaf blade and segments plicate (not always evident in fossil fragments of individual segments); (2) leaf blades pinnately veined and either simple or pinnately
+
+compound in form, or palmately veined and palmatifid in form; (3) leaf segments with a strong, uniform midvein bounded on either side by two orders of parallel veins; (4) a ligule-like structure (hastula) at the apex of the petiole (usually only on the adaxial surface, rarely on both surfaces) where the radiating segments are inserted on the palmate blade; and (5) a wellorganized primary costa (the attenuated continuation of the petiole into the blade of costapalmate and simple blades).
+On the basis of the above characteristics Read & Hickey (1972) reviewed a considerable number of palm leaf fossil genera, and many were sunk into synonymy in their revised concept of acceptable genera. They maintained six genera for fossil leaves: Amesoneuron, Bactrites, Sabalites, Palmacites, Phoenicites and the modern genus Phoenix.
+Features of the leaves of the modern genera Phoenix [induplicate plication, pinnate, lowermost (proximal) pinnae modified as spines (acanthophylls)] and Sabal (induplicate plication, shortly to prominently costapalmate) are probably the most distinctive characteristics encountered within the fossil palm leaf record. Consequently, these modern generic names, particularly Phoenix, are often applied to fossils. Therefore, Read & Hickey (1972) redefined the fossil genus Phoenicites as pinnate with reduplicate plication and lowermost pinnae not spine-like. Their taxonomic recommendation that Phoenicites should, henceforth, be reserved or applied to non-Phoenix-like pinnate leaves is, perhaps, more than a little confusing to the unwary. Almost as confusing is the case of Sabalites and Sabal. Read & Hickey (1972) did not propose the use of the modern genus Sabal for Sabal-like fossil palm leaves but later Daghlian (1978) described a new species of costapalmate fossil leaf as Sabal dortchii because `on the basis of its gross form and cuticular anatomy . . . it is almost indistinguishable from those [leaves] of other species of . . . this extant genus.'
+Preliminary studies in palm leaf fossils by Dilcher (1968) and Daghlian & Dilcher (1971) showed that further morphological distinction can be achieved by studying venation characteristics and, in organically intact leaves, cuticular material.
+Earliest records Costapalmate leaves are known from the late Coniacian­early Santonian of South Carolina, USA [Sabalites carolinensis Berry (Berry, 1914a)], the Santonian of New Jersey, USA [S. magothiensis (Berry) Berry (Berry, 1905, 1911)] and the Lower Campanian of Austria [Sabalites longirhachis (Unger) J. Kvadek et Herman (Kvadek & Herman, 2004)].
+Pinnate leaves, Phoenicites sp., are known from the Lower Campanian of northern Montana (Crabtree, 1987).
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 41
+
+Two types of palm leaves, Sabalites sp. and Phoenicites sp., are reported from the lower Maastrichtian of north-eastern Mexico (Weber, 1978).
+The fossil palm leaf, Eolirion primigenium Schenk, from the Cretaceous (Urgonian) of Austria (Schenk, 1869) was reported to be the earliest palm fossil record (Collinson, Boulter & Holmes, 1993). However, Read & Hickey (1972) expressed doubts that this leaf is from a palm. Furthermore, the Urgonian (which is not a chronostratigraphic time stage) set in the Barremian to earliest Aptian of south-eastern France, is a coral limestone facies (http://www.cretaceousfossils.com/ geological_time_scale.htm).
+STEMS, RHIZOMES AND ROOTS
+Stem `wood': Palmoxylon Schenk. Rhizomes: Rhizopalmoxylon Felix. Bark and thorns: Spinophyllum Huard.
+Level of affinity possible between fossils and extant taxa The limited number of genera for palm stems and rhizomes highlights the problem of defining differences in palm stem anatomy which support taxonomic or systematic definition. The problem of the artificial genus Palmoxylon was addressed by Mahabale (1958) and by Kaul (1960), but little resolution was achieved. Kaul (1960) commented that the comparative anatomy of living palm stems remained little understood and, furthermore, that the situation was becoming more and more problematic because of the increasingly large number of different palm fossils that were being discovered which, `. . . unfortunately . . . are never found in organic connection [with one another] to give us some clue to their systematic position . . .'. More recently, Tomlinson (1990) offered a concise explanation of the underlying problem: `. . . developmental features peculiar to the biology of the palm stem tend to transcend systematic differences. This is unfortunate because it means that the numerous fossil palm stems that have been discovered and described are difficult to relate to the modern knowledge of palm systematics.'
+There are innumerable records of fossil palm stems, including many from the 19th century that were monographed in `Fossil Palm Woods of the World' (Stenzel, 1904), in which the 43 species of Palmoxylon were divided into four groups: (A) Mauritia-like (four species) (B) Corypha-like (19 species) (C) Cocos-like (18 species) (D) `Radices Palmarum' (roots; two species) plus a fifth group, incertae sedis, of four species. At that time, with the exception of P. astrocaryoides and P. iriarteum (Stenzel, 1904), none of the species names reflected any comparison to extant genera. One
+
+hundred years later, the situation is much the same. Only occasionally is a new species of fossil palm wood described with an epithet suggesting generic affinity, for example, P. livistonoides (Prakash & Ambwani, 1980). Even more unusually, an affinity with the living species Borassus aethiopium Mart. was suggested for P. aschersoni Schenk, from the lower Miocene of Libya (Louvet & Magnier, 1971).
+Earliest records The earliest records of fossil stems [Palmoxylon andegavense Crié and P. ligerinum Crié (Crié, 1892)] are, purportedly, from the Turonian of France and a later Coniacian­Santonian record from New Jersey (Palmoxylon cliffwoodensis Berry; Berry, 1916a). Upper Cretaceous­Palaeocene rhizomes (Rhizopalmoxylon huepaciense Cevallos Ferriz & Ricalde-Moreno and R. teguachachiense Cevallos Ferriz & Ricalde-Moreno; Cevallos Ferriz & Ricalde-Moreno, 1995) were described from northern Mexico.
+FRUITS, ENDOCARPS AND SEEDS
+Fruits: Arecoidocarpon Bonde, Arecopsis Fritel, Astrocaryopsis Fliche, Attaleinites Tuzson, Burtinia Endlicher, Caryotispermum Reid & Chandler, Castellinia Massalongo, Fracastoria Massalongo, Hyphaeneocarpon Bande, Prakash & Ambwani, Nipa Thunberg, Nipadites Bowerbank, Palmocarpon Miquel, Palmospermum Reid & Chandler, Phoenicites Brongniart (also used for leaves), Sabalites Saporta (also used for leaves).
+Level of affinity possible between fossils and extant taxa Among the more distinctive fossil fruits, endocarps or seeds are those comparable with Nypa, variously called Burtinia, Castellinia, Fracastoria, Nipa, Nipadites and Nypa. Today most records are referred to Nipa or Nipadites. Rendle (1894) included Burtinia in his revised circumscription of Nipadites (N. burtini), while Tralau (1964), in his revision of the fossil fruits, re-examined many specimens of Castellinia and Fracastoria and included them in Nypa burtini (Brongniart) Ettinghausen. Both Rendle (1894) and Tralau (1964) recognized that the plethora of species described for fossil Nypa fruits (cf. Bowerbank, 1840) was largely due to variability in size and form that they believed fell within the range of variation observed within a single infructescence of extant Nypa fruticans Wurmb.
+Phoenix seeds (date `stones') have been recorded from the Tertiary of eastern Texas as Phoenicites occidentalis (Berry, 1914b, 1924); from the middle Eocene of Germany (Geiseltal) as Phoenix hercynica (Mai,
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+42 M. M. HARLEY
+
+a1s97P6h)oaenndixfrboomhemthiecalo(wBeu(r|eMki,o1ce9n7e7)o. fCCaelanmtruasl
+
+Europe daemo-
+
+norops fruits are recorded in Oligocene lignite deposits
+
+in the UK (Chandler, 1957).
+
+Endocarps of Cocos were described as C. zeylanica
+
+from the Pliocene of New Zealand (Berry, 1926), as
+
+C. sahnii from the Miocene of India (Kaul, 1951) as
+
+C. zeylanica Berry from the Miocene of New Zealand
+
+(Balance, Gregory & Gibson, 1981) and as
+
+C. intertrappea from the Eocene of India (Patil &
+
+Upadhye, 1984). Cocos nucifera fruits are known
+
+from the Pliocene of Australia (Rigby, 1995), and
+
+C. nucifera-like fruits are known from the Tertiary of
+
+India (Tripathi, Mishra & Sharma, 1999).
+
+Other `coconuts' include Palmocarpon acrocomioides
+
+Hollick, P. cetera Hollick, P. exemplare Hollick and
+
+Bactris pseudocuesco Hollick from the Oligocene of
+
+Puerto Rico (Hollick, 1928), Attalea from the Upper
+
+Eocene of Florida (Berry, 1929) and possibly Attalein-
+
+ites from the Oligocene of Hungary (Tuzson, 1913 ­
+
+not seen). Astrocaryopsis sanctae-manchildae from the
+
+Cenomanian of France was described as having
+
+endocarps notably similar to those of some species of
+
+Astrocaryum (Fliche, 1894).
+
+The unilocular ovoid fossil fruit Hyphaeneocarpon
+
+indicum, described by Bande, Prakash & Ambwani
+
+(1982), was considered by the authors definitely to
+
+belong with the `Hyphaene alliance of the Borassoid
+
+group of palms'. Hyphaeneocarpum aegyptiacum
+
+(Vaudois-Miéja & Lejal-Nicol, 1987) was reported from
+
+the Aptian of Egypt. The fruit shape is more ovoid
+
+than pyriform, but fruits of modern Hyphaene are fre-
+
+quently very variable in shape, and modern fruits
+
+should be studied for careful comparison with the fos-
+
+sil (R. Bayton, pers. comm.). Furthermore, given the
+
+very early age for this material, it is not known
+
+whether this record has been thoroughly checked for
+
+accuracy of dating.
+
+Many species of palm fruits and seeds have been
+
+described from the Lower Eocene London Clay flora:
+
+Caryotispermum cantiense, Livistona (?) minima,
+
+Oncosperma (?) anglica, Sabal grandisperma, Serenoa
+
+eocenica, Corypha wilkinsonii, ?Trachycarpus (Chan-
+
+dler, 1978). Also documented were five new species of
+
+Palmospermum (P. excavatum, P. jenkinsi; P. parvum,
+
+P. minimum and P. pusillum; Reid & Chandler, 1933);
+
+nine new species of Palmospermum, as well as a num-
+
+ber of un-named species, were included in Chandler
+
+(1961). Caryota was considered by Reid & Chandler
+
+(1933) to be the `nearest living ally' to Caryotisper-
+
+mum but distinct from it. Characters important for
+
+taxonomic separation of palm seeds recovered from
+
+the London Clay are shape and size, form and position
+
+of the ventral depression, hilum and chalaza; position
+
+of embryo; surface ornamentation and testa structure
+
+(Collinson, 1983).
+
+Earliest records The record of Hyphaeneocarpum aegyptiacum (Vaudois-Miéja & Lejal-Nicol, 1987) from the Aptian of Egypt is the oldest record of palm fruit. The deposits from which Astrocaryopsis sanctae-manchildae was extracted were dated as late Cenomanian (Fliche, 1894), which is considerably older than Aptian. Palmocarpon luisii (Maury, 1930) fossils are first recorded from the Upper Cretaceous of Brazil, and coryphoid fruits and seeds are described from the Early Palaeocene of Greenland (Koch, 1972). Records of Nypa-like fruits are first found in the Palaeocene of Brazil (Dolianiti, 1955) and north-east Africa (Chandler, 1954; Gregor & Hagn, 1982).
+RACHILLAE, PEDUNCLES, INFLORESCENCES
+AND FLOWERS
+Flowers, inflorescences or rachillae: Arecoideostrobus Bonde, Palaeophoenix Saporta, Palaeorachis Saporta, Palaeospathe Unger, Palmanthium Schimper, Palmostrobus Mahabalé, Tuzsonia Andreánszky. Peduncle(s): Palmostroboxylon arengoidum Ambwani.
+Level of affinity possible between fossils and extant taxa The paucity of fossil flowers and inflorescences (or infructescences) has resulted in only a few form genera. Occasionally fossils can be assigned with some confidence to modern genera. For example, fossil palm flowers in mid to late Tertiary Dominican and Mexican amber were assigned to Trithrinax (T. dominicana) and Socratea (S. brownii) (Poinar, 2002).
+A fossil flower from the Tertiary of Germany was assigned to Phoenix as P. eichleri (Conwentz, 1886), and le Marquis de Saporta (1889) described Palaeorachis gracilis, an inflorescence `Peut-être mâle', as presumably being related to the leaf fossil Sabal major Unger.
+It seems extraordinary that palm flowers, which are usually very small and often have tough `woody' petals, are rarely recovered, especially given the huge production of flowers in many palms. Corner (1966) observed that male flowers `. . . are so cheap that they are discarded in enormous numbers to make a mulch round the base of the trunk.' Male palm flowers tend to abscise rapidly following anthesis and therefore fossil rachillae rarely have male flowers attached (Andreánszky, 1949). A rare exception is the recovery from the Eocene Messel oil shales of numerous (several thousands) compression fossils of palm flowers. Five types were identified, two of which were associated in inflorescences. Small fruits, infructescences and, less frequently, leaves have also been recovered at the site (Schaarschmidt & Wilde, 1986), which is probably the
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 43
+
+largest single find of fossil palm flowers and flowerrelated fossils. Several palm taxa seem to be represented. The flowers are usually male or female; hermaphrodite flowers are less evident. Affinities are difficult to establish because of the rather generalized flower morphology. Furthermore, due to compression it is difficult or almost impossible to study the female organs. However, many of the male flowers have pollen-rich anthers from which it has been possible to establish differences in the morphology of the monosulcate grains (Harley, 1997). One type seems to be Phoenix-like, although the floral morphology does not strongly support this (J. Dransfield, pers. comm.); while the exine of the other type is similar to that of pollen in some species of two arecoid genera, Dictyocaryum and Dypsis.
+Earliest records A fruiting palm inflorescence compared with Manicaria (Weber, 1978) from the lower Maastrichtian of north-eastern Mexico is possibly the earliest record of a floral structure so far described. However, Weber (1978) stated that `The fossil inflorescence will be described elsewhere as a new genus.' The publication of the new genus has not yet been traced. The record of Palmostrobus (Mahabalé, 1950) from the flood basalts of the Deccan Intertrappean, which are probably Maastrichtian in age (Vandamme et al., 1991), is possibly of similar age. All other records appear to be Eocene.
+MIXED ORGANS
+Calamus daemonorops (Unger) Chandler This modern generic name, with another modern generic name as a species epithet published by Chandler (1957), has been applied to a variety of calamoidlike structures including: fragments of fruiting axes, fruits, seeds, flowers, spines and spine bases and pollen (Chandler, 1957, 1963).
+POLLEN
+Aglaoreidia Erdtman, Arecipites Wodehouse, Arengapollenites Kar, Calamipollenites Sun Mengrong, Calamuspollenites Elsik, Clavamonocolpites González Guzmán, Clavapalmaedites Rao & Ramanujam, Constantinsporis Belsky, Boltenhagen & Potonié, Couperipollis Venkatachala & Kar, Dicolpopollis Pflanzl, Disulcipollis Krutsch, Disulcites Erdtman ex Potonié, Dorreenipites Biswas, Echimonocolpites van der Hammen & Garcia de Mutis, Echimonoporopollis Saxena, Khare & Misra, Echimorphomonocolpites González Guzmán, Gemmamonocolpites van der Hammen & Garcia Mutis, Grimsdalea Gemeraad, Hopping & Muller, Jacobipollenites Ramanujam, Jusingipollis
+
+Jansonius & Hills, Longapertites Van Hoeken Klinkenberg, Luminidites Pocknall & Mildenhall, Mauritiidites Van Hoeken-Klinkenberg, Monocolpites Erdtman ex van der Hammen, Monocolpopollenites Pflug & Thomson, Monosulcipollenites Levet-Carette, Monosulcites Cookson ex Couper, Neocouperipollis Kar & Kumar, Palmidites Couper, Palmaemargopollenites Harley, Palmaepites Biswas, Palmaepollenites Potonié ex Potonié, Paravuripollis Rao & Ramanujam, Piladiporocolpites Kar, Proxapertites van der Hammen, Psiladiporocolpites Kar, Psilamonocolpites van der Hammen & Garcia de Mutis, Quilonipollenites Rao & Ramanujam, Racemonocolpites González Guzmán, Retidiporocolpites Kar Retimonocolpites Pierce, Retitrilatiporites Misra, Singh & Ramanujam, Sabalpollenites Thiergart, Spinizonocolpites Muller, Spinomonosulcites A. Singh & Misra, Trichotomocolpites van der Hammen, Trichotomosulcites Couper, Trilatiporites Ramanujam ex Potonié, Victorisporis Belsky, Boltenhagen & Potonié.
+Level of affinity possible between fossils and extant taxa ­ selected examples (see Appendix 2 for more detail) Most palms have simple tectate, monosulcate pollen (Harley, 1990). Nevertheless, there are some very distinctive exine and aperture types in the family (Harley & Baker, 2001), many of which are also found in fossil palm pollen.
+Arengapollenites Kar (1985) from the Lower Eocene of India is monosulcate, ellipsoid (long axis c. 60 µm), with a sulcus the length of the long axis, intectate and sparsely spinose except along colpus margines where the spines are arranged so that they interlock on invagination of the sulcus. An affinity with Arenga pollen is widely accepted.
+Dicolpopollis Pflanzl (1956), including Disulcites, Disulcipollenites and Disulcipollis, is a fossil pollen form highly comparable with some extant, equatorially disulcate palm pollen. Equatorially disulcate pollen occurs in eight extant calamoid genera: Metroxylon, Plectocomia, Myrialepis, Plectocomiopsis, Calamus, Retispatha, Daemonorops and Ceratolobus. The collective distribution of the extant genera includes South-east Asia, India, Burma, south China, Africa (humid tropics), New Guinea, Queensland and the Philippines. Dicolpopollis (Ediger, Bati & Alisan, 1990) has been recorded from the Palaeocene of Malaysia and has been widely recorded from the Eocene of northern India and Burma, France, Hungary and Germany. There are records from the Oligocene-Miocene of northern India, Turkey and England.
+Jacobipollis Ramanujam (1966) has been described from the Indian Miocene. According to the revised description, based on additional material, the longest
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+44 M. M. HARLEY
+
+axis is 40­100 µm, the pore is circular to slightly elongate 10­25 µm, and it has a `rugged' tectate margo (Ramanujam, Reddy & Ramakrishna, 1998). The authors make convincing comparisons with Borassodendron; the only alternative in the palms would be Ammandra with closely similar pollen. Borassodendron machadonis pollen has been reported from the Pliocene-early Quaternary of the Mahakam Delta, Kalimantan by Caratini & Tissot (1985).
+Longapertites Van Hoeken-Klinkenberg (1964) was originally described from the Maastrichtian of Nigeria. There are isolated examples of species with extended sulcate pollen among recent palms: Calamoideae (Eugeissona, Eremospatha), Coryphoideae (Licuala all spp.), and Arecoideae (Areca, Pinanga and Hydriastele). In the fossil literature records of Longapertites are numerous, and it is likely that a proportion of these are from palms. However, some Longapertites probably represent equatorial disulcate (disulculate) pollen with a broken distal `bridge', as frequently happens in extant disulculate palm pollen. Extended sulcate pollen may have arisen via loss of the distal bridge (Harley & Baker, 2001) or, alternatively, via the extended sulcate model by development of a distal bridge.
+Mauritiidites Van Hoeken-Klinkenberg (1964), like Longapertites, was originally described from the Maastrichtian of Nigeria. Spiny palm pollen is sporadic but widespread in the family, and the spines take many forms. Nowhere are the spines more bizarre than in the tropical South American subtribe Mauritiinae (sensu Dransfield et al., 2005), where they are `rooted' into depressions in the ectexine (for example, Ferguson & Harley, 1993; Jaramillo & Dilcher, 2001; Rull, 2001). However, only in Mauritia are there distinct swellings of the inner margin of the foot layer beneath each spine. The pollen grains are large, and the swellings are clearly visible in light microscopy. The fossil counterparts are easily recognizable, and the association with Mauritia is widely accepted. The palaeo-distribution in Africa (Salard-Cheboldaeff, 1978, 1981; Schrank, 1994) and South America (Rull, 1998, 2001; Jaramillo & Dilcher, 2001), as opposed to its current restriction to South America, is of particular interest.
+Monocolpopollenites Pflug & Thomson (Thomson & Pflug, 1953) was originally described from the Eocene of Germany. This genus has been widely adopted for fossil monosulcate pollen grains, and records are extensive and geographically widespread in the Tertiary. However, this taxon was erected strictly for distinctly asymmetric monosulcate monocot-like fossil pollen (e.g. Harley & Morley, 1995). Asymmetric monosulcate pollen is very common in the palms, especially in the Arecoideae but also, to a lesser extent, in the Coryphoideae. Unfortunately, the genus
+
+has been over-used for dispersed fossil monosulcate pollen whether symmetric or asymmetric; therefore, records have to be checked carefully for palm-like qualities.
+Quilonipollenites (Rao & Ramanujam, 1978) was originally described from the Neogene Quilon Beds of Kerala, southern India. The large (long axis: 50­ 55 µm) extended sulcate pollen, with a thick, semi tectate exine, and coarse reticulum with smaller lumina around the aperture margo, is now widely accepted as having an affinity with some extant species of Eugeissona (E. tristis, E. utilis) (Phadtare & Kulkarni, 1984). The palaeodistribution is of particular interest in view of the Early Tertiary collision of the Indian plate with Asia. Based on the fossil pollen records, the West Malesian genus Eugeissona is thought to be Indian in origin. In India, Quilonipollenites is recorded from the Neyveli lignites (Phadtare & Kulkarni, 1984) which are considered to be Early to middle Eocene in age (Saxena, 1992; Morley, 2000).
+Spinizonocolpites Muller (1968) includes a considerable number of described species, but the most frequently encountered morphology is that of S. echinatus and S. baculatus Muller (1968), which were originally known from the Late Cretaceous (or Late Palaeocene; Morley, 2000) of Sarawak. The spiny zonasulcate pollen is usually found as one half of the original spheroidal grain, due to breakdown of the aperture membrane during fossilization. Pollen records are globally widespread from the Maastrichtian, reaching a crescendo in the Eocene, after which records gradually reduce until, by the Early Miocene, records are more or less restricted to South-east Asia; presumably in response to continental movement, and also to less favourable climate changes. Spinizonocolpites is widely accepted as ancestral to the modern genus Nypa, with a South-east Asian distribution. Spinizonocolpites fossils appear to represent more than one species, but extant Nypa is monotypic.
+Trichotomosulcites Couper (1953) was originally described from the Cretaceous of New Zealand. The pollen was compared with Phormium (Phormiaceae), and given its type locality, this association is accepted. However, this pollen form is very common in the palms, especially in the arecoid palms, and also in the Asparagales, where there is a large clade of genera (Chase, Rudall & Conran, 1996) including Phormium, with trichomosulcate pollen. It may be time to consider the re-circumscription of Trichotomosulcites to embrace a wider application for fossil monocot pollen. In retrospect, it is amusing to reconsider the comment that, `many monosulcate pollen (Liliaceae, Palmae) contain abnormal trichotomosulcate pollen . . . a form genus for such atavistic, teratological forms is superfluous.' (Krutzsch, 1970).
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 45
+
+Earliest records Spinizonocolpites, widespread from the Maastrichtian (Gee, 1990; Morley, 2000), represents the earliest undisputed palm pollen but, by the Maastrichtian, other palm-like pollen types had also appeared, notably Mauritiidites and Longapertites (Schrank, 1994).
+CONCLUSIONS
+The Arecaceae are extremely well represented in the fossil record. Nevertheless, it is reasonable to suppose that, for any one geological epoch, the fossil record represents no more than a tantalizingly small proportion of the species which comprised the family during that time. By the Late Cretaceous, leaves, stems, fruits, inflorescences and pollen, unequivocally representing the Arecaceae, are present. By this time, within each organ category, there is a range of variation denoting a well established lineage, rather than a recently emerged family. Earliest unequivocal fossil records disallow speculation, and yet the earliest fossils, for example for pollen, Spinizonocolpites and Mauritiidites ­ both spiny but with strikingly different ultrastructure ­ cannot represent the most ancient palms. Therefore, if forms like these were already in place by the Maastrichtian, an earlier origin for Arecaceae is surely more likely.
+The pollen of Nenga gajah J. Dransf. has a very unusual spinulose reticulum which is more or less detached from the underlying foot layer (Kesseler & Harley, 2004). This phenomenon is intriguing, as it is reminiscent of similar reticulate ectexine pollen encountered in the earlier Cretaceous, such as the monosulcate Brenneripollis from the Albian of the North American Atlantic Coastal Plain and Northern Europe (Juhász & Góczán, 1985) and the inaperturate Afropollis from Africa (Doyle, Jardiné & Doerenkamp, 1982). Some records from the English Barremian­ Aptian are of loosely reticulate, spinulose monosulcate pollen (Hughes, 1994) and are particularly reminiscent of Nenga pollen. Although an unequivocal association with Nenga or any other palm is ruled out, it would appear that pollen with a coarse, loosely attached, reticulum was more common in some early evolving angiosperm groups than in extant angiosperms.
+Finally, the serendipitous nature of fossil recovery and the limits it imposes on the range and quantity of recovered fossils have to be considered. Cretaceous and Tertiary palaeobotany relies mainly on working with cores and bedding planes made available by natural events, or drilling, mining and quarrying. Pollen is less affected by these limitations than macro fossil organs but also shares a richer Northern than Southern Hemisphere record, a reflection of the more extensive drilling and mining activity of the Northern Hemisphere. Nevertheless, it is probably only a mat-
+
+ter of time before unequivocal palm fossils predating the Turonian are discovered. Emberger (1960) suggested that there are palm stem fossils in the Upper Jurassic, but this may be a step too far.
+ACKNOWLEDGEMENTS
+I thank Dr Bill Baker for inviting me to participate in the `The Palms' meeting in April 2005. I also thank the two anonymous reviewers for their helpful comments on the submitted manuscript.
+REFERENCES
+Ambwani K. 1983­84. Palmostroboxylon arengoidum sp. nov. a fossil palm peduncle resembling Arenga from the Deccan Intertrappean Beds of Shahpura, Madhya Pradesh. The Palaeobotanist 32: 134­139.
+Andreánszky G. 1949. Reste einer neuen Tertiären Palme aus Ungarn. Hungarica Acta Biologica 1: 31­36.
+Balance PF, Gregory MR, Gibson GW. 1981. Coconuts in Miocene turbidites in New Zealand: possible evidence for tsunami origin of some turbidity currents. Geology 9: 592­ 595.
+Bande MB, Prakash U, Ambwani K. 1982. A fossil palm fruit Hyphaeneocarpon indicum gen. et sp. nov. from the Deccan Intertrappean beds, India. The Palaeobotanist 30: 303­309.
+Belsky CY, Boltenhagen E. 1963. Sporomorphes de position taxonomique incertaine du Cretace Superieur du Gabon. Grana Palynologica 4: 262­270.
+Belsky CY, Boltenhagen E, Potonié R. 1965. Sporae dispersae der Oberen Kreide von Gabun, Äquatoriales Afrika. Paläontologie Zeitschrift 39: 72­83.
+Berry EW. 1905. A palm from the mid-Cretaceous. Torreya 5: 30­33.
+Berry EW. 1911. Contributions to the Mesozoic flora of the Atlantic coastal plain ­ VII. Bulletin of the Torrey Botanical Club 38: 399­424.
+Berry EW. 1914a. The Upper Cretaceous and Eocene floras of South Carolina, Georgia. US Geological Survey, Professional Paper 84: 1­200.
+Berry EW. 1914b. Fruits of a date palm in the Tertiary deposits of eastern Texas. American Journal of Science 187: 403­ 406.
+Berry EW. 1916a. A petrified palm from the Cretaceous of New Jersey. American Journal of Science 41: 193­197.
+Berry EW. 1919b. Miocene fossil plants from northern Peru. Proceedings of the US National Museum 55: 279­294.
+Berry EW. 1924. The middle and upper Eocene floras of southeastern North America. US Geological Survey, Professional Paper 92: 1­206.
+Berry EW. 1926. Cocos and Phymatocaryon in the Pliocene of New Zealand. American Journal of Science 212: 181­ 184.
+Berry EW. 1929. A palm nut of Attalea from the upper Eocene of Florida. Journal of the Washington Academy of Science 19: 252­255.
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+46 M. M. HARLEY
+
+Biswas B. 1962. Stratigraphy of the Mahadeo, Langpar, Cherra and Tura Formations, Assam, India. Bulletin of the Geological, Mining and Metallurgical Society of India 25: 1­48.
+Bonde SD. 1986. Sabalophyllum livistonoides gen. et sp. nov. a petrified palm leaf segment from Deccan Intertrappean bed at Nawargaon District Wardha, Maharashtra, India. Biovigyanam 12: 113­118.
+Bonde SD. 1987. Parapalmocaulon surangei gen. et sp. nov. from the Deccan Intertrappean bed at Umaria, District Mandla, Madhya Pradesh. Biovigyanam 13: 74­80.
+Bonde SD. 1990. Arecoidocarpon kulkarnii gen. et sp. nov., an arecoid palm fruit from Mohgaon Kalan, Madhya Pradesh. The Palaeobotanist 38: 212­216.
+Bonde SD. 1996. Arecoideostrobus moorei gen. et sp. nov., a palm rachilla from the Deccan Intertrappean beds of India. The Palaeobotanist 43: 102­109.
+Bonde SD, Kumbhojkar MS, Aher RT. 2000. Phoenicicaulon mahabalei gen. et sp. nov., a sheathing leaf base of Phoenix from the Deccan Intertrappean beds of India. Geophytology 29: 11­16.
+Bowerbank JS. 1840. A history of the fossil fruits and seeds of the London Clay. London: John Van Vorst.
+Brongniart AT. 1822. Sur la classification et la distribution des végétaux. fossil en general, et seux des terains de sediment supérieur en particulier. Memoires des museum d'histoire naturelles (Paris) 8: 203­240.
+Brongniart AT. 1828. Prodrome d'une histoire des végétaux fossiles. Paris: Levrault.
+Brown RW. 1956. Palm-like plants from the Delores Formation (Triassic) in southwestern Colorado. US Geological Survey, Professional Paper 274: 205­209.
+Bureau E. 1896. Sur quelques palmiers fossiles d'Italie. Bulletin de Museum d'histoire Naturelle de Paris 2: 280­
+B u2(|8e5k. C. 1977. Date-palm seeds from the Lower Miocene of Central Europe. Ve(stnik Ústr(edního Ústavu Geologicko 52: 159­168.
+Caratini C, Tissot C. 1985. Le Sondage Misedor, etude palynologique. Etudes de Géographie Tropical. Bordeaux: Centre Nationale de Recherche Scientifique.
+Cevallos-Ferriz SRS, Ricalde-Moreno OS. 1995. Palmeras fósiles del norte de México. Anales Instituto Biologia Universita Nacional. Autónoma México, Series Botanica 66: 37­106.
+Chandler MEJ. 1954. Some Upper Cretaceous and Eocene fruits from Egypt. Bulletin of the British Museum, Natural History (Geology) 2: 147­187.
+Chandler MEJ. 1957. The Oligocene Flora of the Bovey Tracey Lake Basin, Devonshire. Bulletin of the British Museum, Natural History (Geology) 3: 71­123.
+Chandler MEJ. 1961. The Lower Tertiary floras of southern England, Vol. I. Palaeocene Floras, London Clay Flora. London: British Museum (Natural History).
+Chandler MEJ. 1963. The Lower Tertiary floras of southern England, Vol. III. Flora of the Bournemouth Beds, the Boscombe, and the Highcliff Sands. London: British Museum (Natural History).
+
+Chandler MEJ. 1978. Supplement to the Lower Tertiary floras of southern England. Part 5. Tertiary Research Special Paper #4. London: The Tertiary Research Group.
+Chase MW, Rudall PR, Conran JG. 1996. New circumscriptions and a new family of asparagoid lilies: genera formerly included in Anthericaceae. Kew Bulletin 51: 667­680.
+Chitaley SD. 1951. Fossil microflora from the Mohgaon Kalan Beds of the Madhya Pradesh, India. Proceedings of the National Institute of Science, India 17: 373­383.
+Collinson ME. 1983. Fossil plants of the London Clay. London: The Palaeontological Association.
+Collinson ME, Boulter MC, Holmes PL. 1993. Magnoliophyta (`angiospermae'). In: Benton MJ, ed. The fossil record 2. London: Chapman & Hall, 809­841.
+Conwentz HW. 1886. Die Flora des Bernsteins. Die angiospermen des Bernsteins. In: H.R. Goeppert und A. Menge (1883): Die Flora des Bernsteins und ihre Beziehungen zur Flora der Tortiärformation und der Gegenwart. Danzig, Germany.
+Corner EJH. 1966. The natural history of palms. London: Weidenfield & Nicolson.
+Couper RA. 1953. Upper Mesozoic and Cainozoic spores and pollen grains from New Zealand. New Zealand Geological Survey Palaeontological Bulletin 22: 1­73.
+Couper RA. 1960. New Zealand Mesozoic and Cainozoic plant microfossils. New Zealand Department of Science and Industrial Research Geological Survey Palaeontological Bulletin 32: 1­87.
+Crabtree DR. 1987. Angiosperms of the northern Rocky Mountains: Albian to Campanian (Cretaceous) megafossil floras. Annals of the Missouri Botanical Garden 74: 707­ 747.
+Crié L. 1892. Recherches sur les Palmiers silicifiés des terrains Crétacés de l'Anjou. Bulletin de la Socíeté d'Études Scientifiques d'Angers 21: 97­103.
+Daghlian CP. 1978. Coryphoid palms from the Lower and Middle Eocene of southeastern North America. Palaeontographica Abteilung B 166: 44­82.
+Daghlian CP, Dilcher DL. 1971. Middle Eocene sabaloid palms. Proceedings of the Indiana Academy of Sciences (Abstract) 80: 95.
+Dilcher DL. 1968. Revision of Eocene palms from southeastern North America based upon cuticular analysis. American Journal of Botany 55: 725 [Abstract].
+Dolianiti E. 1955. Fructos de Nipa no Paleoceno de Pernambuco, Brasil. Boletin Ministerio de Agricultura Rio de Janeiro 158: 1­36.
+Doyle JA, Jardiné S, Doerenkamp A. 1982. Afropollis, a new genus of early angiosperm pollen, with notes on the Cretaceous palynostratigraphy and paleoenvironments of Northern Gondwana. Bulletin du Centres Recherches Exploration-Production Elf-Aquitaine 6: 39­117.
+Dransfield J, Uhl NW, Asmussen CB, Baker WJ, Harley MM, Lewis CE. 2005. A new phylogenetic classification of the palm family, Arecaceae. Kew Bulletin 60: 559­569.
+Ediger VS, Bati Z, Alisan C. 1990. Paleopalynology and paleoecology of Calamus-like disulcate pollen grains. Review of Palaeobotany and Palynology 62: 97­105.
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 47
+
+Emberger L. 1960. Traité de botanique. Les végétaux vasculaires. II, fascicules 1 et 2. Paris: Masson.
+Endlicher S. 1837. Principes. LXXV. Palmae. 1783. Burtinia. Genera plantarum secundum ordines naturales deposita, I. Vindoboniae, 257.
+Erdtman G. 1947. Suggestions for the classification of fossil and recent pollen grains and spores. Svensk Botanisk Tidskrift 41: 104­114.
+Erdtman G. 1960. On three new genera from the Lower Headon Beds, Berkshire. Botanisk Notiser 113: 46­48.
+Felix J. 1883. Die fossilen Holzer Westindiens. Sammlung Palaeontologie Abhandlungen Series 1: 28 pp. + 5 pls. Cassel: T. Fischer.
+Ferguson IK, Harley MM. 1993. The significance of new and recent work on pollen morphology of the Palmae. Kew Bulletin 48: 205­243.
+Fliche P. 1894. Sur les fruits de palmiers trouvés dans le cénomanien environs de Sainte-Menehould. Comptes rendus Hebdomadaires des Séances de l'Academie des Sciences 118: 889­890.
+Gee CT. 1990. On the fossil occurrences of the mangrove palm Nypa. In: Knobloch E, Kvacek Z, eds. Paleofloristic and paleoclimatic changes in the Cretaceous and Tertiary. Prague, 315­319.
+Gemeraad JM, Hopping CA, Muller J. 1968. Palynology of Tertiary sediments from tropical areas. Review of Palaeobotany and Palynology 6: 189­348.
+Goeppert HR. 1852. Beiträge zur Tertiarflora Schlesien's. Palaeontographica 2: 260­282.
+González Guzmán E. 1967. A palynological study on the Upper los Cuervos and Mirador Formations (Lower and Middle Eocene; Tibú Area, Colombia). Leiden: Brill.
+Gregor HJ, Hagn H. 1982. Fossil fructifications from the Cretaceous­Palaeocene Boundary of Egypt (Danian Bir Abu Mungar). Tertiary Research 4: 121­147. Leiden.
+van der Hammen T. 1954a. Principios para la nomenclatura palinológica sistématica. Boletin Geologica (Bogotà) 2: 3­24.
+van der Hammen T. 1954b. El desarollo de la Flora Colombiana en los periodos geologicos. I. Maestrichtiano hasta Terciaro mas inferior. Boletin Geologica (Bogotà) 2: 49­106.
+van der Hammen T. 1956. Descripción de algunos géneros y especies de polen y esporas fósiles. Boletin Geologica (Bogotà) 4: 103­109.
+van der Hammen T, Garcia de Mutis C. 1965. The Paleocene pollen flora of Colombia. Leidse Geologische Mededlingen 35: 105­116.
+Harley MM. 1990. Occurrence of simple, tectate, monosulcate or trichotomosulcate pollen grains within the Palmae. Review of Palaeobotany and Palynology 64: 137­147.
+Harley MM. 1997. Ultrastructure of pollen from some Eocene palm flowers (Messel, Germany). Mededelingen Nederlands Instituut voor Toegepaste Geowetenschappen TNO 58: 193­ 209.
+Harley MM, Baker WJ. 2001. Pollen aperture morphology in the Arecaceae: application within phylogenetic analyses, and a summary of the fossil record of palm-like pollen. Grana 40: 45­77.
+Harley MM, Morley RJ. 1995. Ultrastructural studies of
+
+some fossil and extant palm pollen, with notes on the geological history of subtribes Iguanurinae and Calaminae. Review of Palaeobotany and Palynology 85: 153­182. Heer O. 1859. Die tertiäre Flora der Schweiz III. Die Gametopetalen und Polypetalen Dicotyledonen. Anhang. J. Wurster Winterthur. Hollick A. 1893. A new fossil palm from the Cretaceous Formation at Glen Cove, Long Island. Bulletin of the Torrey Botanical Club 20: 168­169. Hollick A. 1928. Palaeobotany of Porto Rico. Scientific Survey of Porto Rico and the Virgin Islands 7: 177­193. Huard J. 1967. Restes epineux de palmier lepidocaryoide du Neogene des Landes. Naturalia Monspeliensia, série botanique 18: 319­346. Hughes NF. 1994. The enigma of angiosperm origins. Cambridge Paleobiology Series I. Cambridge, New York, Melbourne: Cambridge University Press. Jansonius J, Hills LV. 1976. (et seq.). Genera file of fossil spores and pollen. Special Publication. Department of Geology, University of Calgary, Canada. Jansonius J, Hills LV. 1980. Supplement 4 ­ Clavapalmaedites card 3659. Genera file of fossil spores and pollen. Special Publication. Department of Geology, University of Calgary, Canada. Jansonius J, Hills LV. 1987. Supplement 9 ­ Clavapalmaedites card 3659. Genera file of fossil spores and pollen. Special Publication. Department of Geology, University of Calgary, Canada. Jaramillo C, Dilcher DL. 2001. Middle Paleogene palynology of Central Colombia, South America: a study of pollen and spores from tropical latitudes. Palaeontographica Abteilung B 258: 87­213. Juhász M, Góczán F. 1985. Comparative study of Albian monosulcate angiosperm pollen grains. Acta Biologica (Szeged) 31: 147­172. Kar RK. 1985. The fossil floras of Kachchh ­ IV. Tertiary palynostratigraphy. The Palaeobotanist 34: 1­279. Kar RK. 1995. Diporocolpis: a new type of aperture from the early Eocene sediments of Rajasthan, India. The Palaeobotanist 42: 380­386. Kar RK, Kumar M. 1986. Neocouperipollis ­ a new name for Couperipollis Venkatachala & Kar. The Palaeobotanist 35: 171­174. Kaul KN. 1951. A palm from Kapurdi (Jodhpur, Rajasthan Desert) ­ Cocos sahnii sp. nov. Current Science 20: 138. Kaul KN. 1960. The anatomy of the stem of palms and the problem of the artificial genus Palmoxylon Schenk ­ I. Bulletin of the National Botanical Gardens, Lucknow 51: 1­52. Kesseler R, Harley MM. 2004. Pollen ­ the hidden sexuality of flowers. London: Papadakis Publisher. Knowlton FH. 1930. The Flora of the Denver and associated formations of Colorado. US Geological Survey Professional Papers 155: 41. Koch BE. 1972. Coryphoid palm fruits and seeds from the Danian of Nugssuaq, West Greenland. Meddelelser om Grønland udgivne af Kommissionen for Videnskabelige Undersogelser I Grønland 193: 1­38. Krutzsch W. 1970. Atlas der mittel- und jungertertiären dis-
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+48 M. M. HARLEY
+
+persen Sporen-und pollen ­ sowie der Mikroplanktonformen des nördlichen Mitteleuropas, VII., Jena: VEB Gustav. Fischer Verlag. Kvadek J, Herman AB. 2004. Monocotyledons from the Early Campanian (Cretaceous) of Grünbach, Lower Austria. Review of Palaeobotany and Palynology 128: 323­353. Levet-Carette J. 1964. Étude de la microflore bajocienne d'un sondage effectué dans le sous-sol de Boulogne-sur-Mer (P.- de C.). Annales de la Société Géologique du Nord (Lille) 84: 91­ 121. Lignier O. 1895. Végétaux de Normandie 2. Contributions à la flore Liasique Ste.-Honorine-la-Guillaume (Orne). Mèmoires de la Société Linnéenne de Normandie 2nd séries 18: 124­151. Louvet P, Magnier Ph. 1971. Confirmation de la derive du continent Africain au Tertiare par la paléobotanique. 96e Congrès national des sociétés savants, Toulouse, 1971. sciences 5: 177­189. Mahabalé TS. 1950. Some new fossil plants from the Deccan Intertrappean. Palaeobotany in India VII. Journal of the Indian Botanical Society 29: 1­46. Mahabalé TS. 1958. Resolution of the artificial palm genus, Palmoxylon: a new approach. The Palaeobotanist 7: 76­83. Mai DH. 1976. Fossile Früchte und Samen des Geiseltales aus den Mitteleozän. Abhandlungen des zentralen Geologischen Instituts, Berlin 26: 93­149. le Marquis de Saporta G. 1865. Études sur la végétation du Sud-Est de la France a l'époque Tertiare. Armissan près Narbonne (Aude). Annales des Sciences Naturelles Botanique, Paris. Serie 2 (4): 5­264. [not seen; cited according to Read & Hickey, 1972]. le Marquis de Saporta G. 1878. Essai descriptiv sur plantes fossiles des arkoses de Brives pres de Puy-en-Velay. Annales de la Société d'Agriculture, Science, Arts et Commerce du Puy 33: 1­72. [not seen; cited according to Saporta, 1889]. le Marquis de Saporta G. 1889. Des palmiers fossils. Revue Générale de Botanique 1: 229­243. Massalongo DAB. 1852. Synopsis Palmarum Fossilium. Lotos, Zeitschrift für Waturwissenschaften 2. [not seen; cited according to Tralau, 1964]. Massalongo DAB. 1858. Synopsis Florae Fossilis Senogalliensis. Veronae: A. Merlo. Mathur YK. 1966. On the microflora in the supra-trappeans of western Kutch, India. Quarterly Journal of the Geological Mining and Metallurgical Society of India 38: 40. Maury CJ. 1930. O Cretaceo da Parahyba do Norte. As floras do Cretaceo Superior da America do Sul. Monografias Servicio Geologico Museu do Brasil 8: 1­305. Médus J. 1975. Palynologie de sédiments Tertiaires du Sénégal méridional. Pollen et Spores 17: 545­601. Menon VK. 1964. Palmocaulon raoi possibly a new species of petrified palm petiole from Mohgaon Kalan area in Madhya Pradesh. Proceedings of the Anatomical Institute of Science, India 30B: 15­24. Miquel FAW. 1853. De fosseile planten van het krijt in het Hertogdom Limburg. Verhandelingen uitgegeven door de Commissie Belast met het vervaardigen eener Geologische Beschrijving en keert van Nederland te Haarlem 1: 35­56 (1­24). Haarlem.
+
+Misra BK, Singh A, Ramanujam CGK. 1996. Trilatiporate pollen from Indian Palaeogene and Neogene sequences: evolution, migration and continental drift. Review of Palaeobotany and Palynology 91: 331­352.
+Morley RJ. 2000. Origin and evolution of tropical rainforest. Chichester: John Wiley.
+Muller J. 1968. Palynology of the Pedawan and Plateau sandstone formations (Cretaceous ­ Eocene) in Sarawak, Malaysia. Micropaleontology 14: 1­37.
+Nichols DJ, Tate Ames H, Traverse A. 1973. On Arecipites Wodehouse, Monocolpopollenites Thomson & Pflug, and the species `Monocolpopollenites tranquillus'. Taxon 22: 241­ 256.
+Patil GV, Upadhye EV. 1984. Cocos-like fruit from Mohgaonkalan and its significance towards the stratigraphy of Mohgaonkalan Intertrappean beds. In: Sharma AK, Mitra GC, Banerjee M, eds. Proceedings of the symposium on evolutionary botany and biostratigraphy, University of Calcutta 1979. New Delhi: Today & Tomorrow's Printers & Publishers, 541­554
+Pflanzl G. 1956. Das Alter der Braunkohlen des Meissners der Flöze 2 und 3 des Hirschberges und eines benachbarten Kohlenlagers bei Laudenbach. Notizblatt des Hessichen Landesamtes fur Bodenforschung zu Wiesbaden 84: 232­244.
+Phadtare NR, Kulkarni AR. 1984. Affinity of the genus Quilonipollenites with the Malaysian palm Eugeissona Griffith. Pollen et Spores 26: 217­226.
+Pierce RL. 1961. Lower Upper Cretaceous plant microfossils from Minnesota. Minnesota Geological Survey Bulletin 42: 1­86.
+Pocknall DT, Mildenhall DC. 1984. Late Oligocene-early Miocene spores and pollen from Southland, New Zealand. New Zealand Geological Survey Palaeontological Bulletin 51: 1­66.
+Poinar G Jr. 2002. Fossil flowers in Dominican and Mexican amber. Botanical Journal of the Linnean Society 138: 57­61.
+Potonié R. 1934. Zur Mikrobotanik des eozänen Humodils des Geiseltals. Arbeiten aus dem Institut für Paläobotanik und Petrography der Brennsteine 4: 25­125.
+Potonié R. 1951. Revision stratigraphisch wichtiger Sporomorphen des mittel-europäischen Tertiärs. Palaeontographica Abteilung B 91: 131­151.
+Potonié R. 1958. Synopsis der Gattungen der Sporae dispersae. II. Teil: Sporites (Nachträge), Saccites, Aletes, Precolpates, Polyplicates, Monocolpates. Beihefte zum Geologisch Jahrbuch 31: 1­114.
+Potonié R. 1960. Sporologie der eozänen Kohle von Kalewa in Burma. Senckenberg Leth 41: 451­481.
+Potonié R. 1970. Synopsis der Gattungen der Sporae dispersae. IV. Beihefte zum Geologisch Jahrbuch 72: 1­244.
+Potonié R, Thomson PW, Thiergart F. 1950. Zur Nomenklatur und Klassifikation der Neogenen Sporomorphae (Pollen und Sporen). Geologisch Jahrbuch 65: 35­70.
+Prakash U, Ambwani K. 1980. A petrified Livistona-like palm stem, Palmoxylon livistonoides sp. nov. from the Deccan Intertrappean beds of Indoa. The Palaeobotanist 26: 297­306.
+Raatz GV. 1937­8. Mikrobotanisch-stratigraphische Untersuchungen der Braunkohle des Muskauer Bogens. Abhandlun-
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 49
+
+gen der Koeniglich preussischen Geologischen Landesanstalt (Berlin) 183: 1­48. Ramanujam CGK. 1966. Palynology of the Miocene lignite from South Arcot District, Madras, India. Pollen et Spores 8: 149­203. Ramanujam CGK, Reddy PR, Ramakrishna H. 1998. Botanical affinities of Jacobipollenites (Ramanujam) Singh & Misra. Geophytology 27: 111­113. Rao KP, Ramanujam CGK. 1978. Palynology of the Neogene Quilon Beds of Kerala State in South India I. Spores of pteridophytes and pollen of monocotyledons. The Palaeobotanist 25: 397­427. Read RW, Hickey LJ. 1972. A revised classification of fossil palm and palm-like leaves. Taxon 21: 129­137. Reid EM, Chandler MEJ. 1933. The flora of the London Clay. London: British Museum (Natural History), 102­131. Rendle AB. 1894. Revision of the genus Nipadites Bowerbank. Journal of the Linnean Society of London (Botany) 30: 143­154. Rigby JF. 1995. A fossil Cocos nucifera L. fruit from the latest Pliocene of Queensland Australia. In: Pant DD, ed. Birbal Sahni Centenary Volume. Allahabad: Allahabad University, 379­381. Rull V. 1998. Biogeographical and evolutionary considerations of Mauritia (Arecaceae), based on palynological evidence. Review of Palaeobotany and Palynology 100: 109­122. Rull V. 2001. A morphometric study of Early Miocene Mauritiidites from northern South America: palaeoecological and evolutionary implications. Grana 40: 163­167. Salard-Cheboldaeff M. 1978. Sur la palynoflore Maestrichtienne et Tertiare du bassin sédimentaire littoral du Cameroun. Pollen et Spores 10: 215­260. Salard-Cheboldaeff M. 1981. Palynologie Maestrichtienne et Tertiaire du Cameroun. Review of Palaeobotany and Palynology 32: 401­439. Saxena RK. 1992. Neyveli lignites and associated sediments ­ their palynology, palaeoecology, correlation and age. The Palaeobotanist 40: 345­353. Saxena RK, Khare S, Misra NK. 1991. Echimonoporopollis, a new pollen genus from the Neyveli Formation Jayamkonddacholapuram well ­ 12, Tiruchirapalli District, Tamil Nadu. The Palaeobotanist 39: 46­49. Schaarschmidt F, Wilde V. 1986. Palmenblüten und-blätter aus dem Eozän von Messel. Courier Forschunginstitut Senckenberg 86: 177­202. Schenk A. 1869. Palaeontographica 19: 1­34. [not seen; cited according to Read & Hickey, 1972]. Schenk A. 1882. Die von den Gebrudern Schlagintweit in Indien gesammelten fossilen Holzern. Botanisch Jarhbucher 3: 353­358. Schimper WP. 1870. Traité de Paléontologie végétale ou la flore du monde primitif, 2. Paris. Schrank E. 1994. Palynology of the Yesomma Formation in Northern Somalia: a study of pollen spores and associated phytoplankton from the Late Cretaceous Palmae Province. Palaeontographica Abteilung B 231: 63­112. Singh A, Misra BK. 1991. A new spinose monosulcate genus Spinomonosulcites and an emendation of spinose porate
+
+Acanthotricolpites. Review of Palaeobotany and Palynology 67: 217­227. Stenzel G. 1904. Fossile Palmenhölzer. In: Uhlig V, vonArthaber G, eds. Beiträge Zur Paläontologie und Geologie Österreich-Ungarns und Des Orients 15. Wien und Leipzig: K.U.K. Hof-und Universitäts-Buchhändler, 107­208. von Sternberg KM. 1820. Versuch einer geognostischbotanischen. Darstellung der Flora der Vorwelt 2: 31­33. Fr. Fleischer, Leipzig und Prague. Stover LE, Elsik WC, Fairchild WW. 1966. New genera and species of early Tertiary palynomorphs from the Gulf Coast. University of Kansas Paleontological Contributions Paper 5: 1­11. Sun Mengrong. 1989. In: Research Party of Marine Geology, Ministry of Geology and Minereral Resources, Institute of Geology, Chinese Academy of Geological Sciences, eds .Cenozoic paleobiota of the continental shelf of the East China Sea (Donghai). Micropaleobotanical volume. Beijing: Geological Publishing House, 258­259. Takahashi K. 1964. Sporen und Pollen derOberkretaz-eischen Hakobuchi-Schichtengruppe, Hokkaido. Memoirs of the Faculty of Science, Kyushu University, Series D, Geology 14: 159­271. Thanikaimoni G, Caratini C, Venkatachala BS, Ramanujam CGK, Kar RK, eds. 1984. Selected Tertiary angiosperm pollens from India and their relationship with African Tertiary pollens. Travaux de la Section Scientifique et Technique, Institut Français de Pondichéry 19: 1­92. Thiergart F, Frantz U. 1963. Some spores and pollen grains from the Tertiary browncoal of Neyveli. The Palaeobotanist 11: 43­45. Thomson PW, Pflug HD. 1953. Pollen und Sporen des mitteleuropäischen Tertiärs. Palaeontographica Abteilung B 94: 1­138. Thunberg C. 1782. Nipa, et nytt genus ibland palmtraden. Kungliga Svenska Vetenskapsakademiens Handlingar 3: 231­235. Tomlinson PB. 1990. The structural biology of palms. Oxford: Oxford Science Publications. Tralau H. 1964. The genus Nypa van Wurmb. Kungliga Svenska Vetenskapsakademiens. Handlingar 10: 5­29. Tripathi RP, Mishra SN, Sharma BD. 1999. Cocos nucifera like petrified fruit from the Tertiary of Amarkantak, M.P., India. The Palaeobotanist 48: 251­255. Trivedi BS, Verma CL. 1981. Sabalocaulon intertrappeum gen. et sp. nov. from the Deccan Intertrappean beds of Madhya Pradesh, India. The Palaeobotanist 28/29: 329­337. Tuzson J. 1913. Adatok Magyarország fosszilis flórájához (Additamenta ad floram fossilem Hungarieae III). A Magyar Királyi Allamí Földtani Intézet Évkönyve 21: 209­233. Unger F. 1860. Sylloge plantarum fossilium I. Denkschriften der kaiserlichen Akademie der Wissenschsaften, mathematisch-naturwissenschaftliche Klasse 19: 1­48 Wien. Van Hoeken-Klinkenberg PMJ. 1964. A palynological investigation of some Upper-Cretaceous sediments in Nigeria. Pollen et Spores 6: 209­231. Vandamme D, Courtillot V, Besse J, Montigny R. 1991. Palaeomagnetism and age determinations of the Deccan
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+50 M. M. HARLEY
+
+Traps (India): results of a Nagpur-Bombay traverse and review of earlier work. Review of Geophysics 29: 159­190. Vaudois-Miéja N, Lejal-Nicol A. 1987. Paléocarpologies africaine: apparition dès l'Aptien en Égypte d'un Palmier (Hyphaeneocarpon aegyptiacum n. sp.). Comptes Rendus Academie des Sciences, Paris, 304 (Series II) (6): 233­238. Venkatachala BS, Kar RK. 1969. Palynology of the Tertiary sediments of Kutch. 1. Spores and pollen from Bore-hole, 14. The Palaeobotanist 17: 157­178.
+
+de Visiani R. 1864. Palmae pinnatae tertiariae agri ceneti. Memorie del Reale Istituo Veneto di Scienze Lettere ed Arti 11: 435­460.
+Weber R. 1978. Some aspects of the Upper Cretaceous angiosperm flora of Coahuila, México. Courier Forschungsinstitut Senckenberg 30: 38­46.
+Wodehouse RP. 1933. Tertiary pollen ­ II. Pollen of the Green River oil shales. Bulletin of the Torrey Botanical Club 60: 479­524.
+
+APPENDIX 1 Fossil genera frequently encountered in the literature, excluding pollen.
+
+1. Leaves, petioles & cuticles
+
+Amesoneuron
+
+Goeppert, 1852
+
+Bactrites Calamopsis Costapalma Eolirion
+
+Berry, 1924 Heer, 1859 Daghlian, 1978 Schenk, 1869
+
+Flabellaria Geonomites Haemiphoenicites Iriartites
+
+von Sternberg, 1820 de Visiani, 1864 de Visiani, 1864 Berry, 1919b
+
+Kentites Latanites Manicarites Palmacites
+
+Bureau, 1896 Massalongo, 1858 Bureau, 1896 Brongniart, 1822
+
+Palmophyllum
+Paloreodoxites
+Palustrapalma Phoenicites
+
+Conwentz 1886
+Knowlton 1930
+Daghlian, 1978 Brongniart, 1828
+
+Pritchardites Propalmophyllum
+Sabalites
+Sabalophyllum Sanmiguelia
+Serenopsis Palmocaulon Parapalmocaulon Phoenicicaulon
+Sabalocaulon
+
+Bureau, 1896 Lignier, 1895
+le Marquis de Saporta, 1865
+Bonde, 1986 Brown, 1956
+Hollick, 1893 (Deshpande) Menon, 1964 Bonde, 1987 Bonde, Kumbhojkar &
+Aher, 2000 Trivedi & Verma, 1981
+
+leaf (fragmentary) ­ overall leaf form unclear ­ fragments overlain in part by a dico
+leaf fragments armed with small teeth on one margin. `Probably a cycad.' (Read & Hickey, 1972) leaf (costapalmate) `pinnate leaves with no midveins. Not a palm.' (Read &
+Hickey, 1972). NB. Misspelled as Elolirion ­ p. 20 of original description in Schenk (1869) leaf (palmate ­ no costa or extension of petiole into blade) leaf ­ in synonymy of Sabalites (Read & Hickey, 1972) leaf (pinnate) leaf fragments (pinnate) ­ `a convenient form-genus for the remains of fossil palms that appear to belong to tribe Iriarteae, but whose exact generic identity is uncertain.' leaf (pinnate) leaves sharing similarities with those of subtribe Lataninae leaf (pinnate) leaf (palmate ­ no costa or extension of petiole into blade). NB. this generic name also used for palm stems ­ mostly pre Palmoxylon. leaf ­ questionable affinity to true palms (Read & Hickey, 1972) leaf ­ questionable affinity to true palms (Read & Hickey, 1972) leaf (palmate) leaf (pinnae reduplicate on adaxial surface ­ lowermost (proximal) pinnae not spine-like ­ Read & Hickey, 1972) NB. this generic name has also used for fruit ­ e.g. Phoenicites occidentalis (Berry, 1914a) leaf (palmate) leaf ­ questionable affinity to true palms (Read & Hickey, 1972) leaf (costapalmate). NB. this generic name has also been used for fruit leaf segment leaf ­ questionable affinity to true palms (Read & Hickey, 1972) `Probably a cone of Williamsonia.' (Read & Hickey, 1972) leaf petiole leaf petiole `a sheathing leaf base'
+leaf petiole
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+FOSSIL RECORDS FOR ARECACEAE 51
+
+Appendix 1 Continued
+
+2. Stems, rhizomes & roots
+
+Palmoxylon
+
+Schenk, 1882
+
+Rhizopalmoxylon
+
+Felix, 1883
+
+Spinophyllum
+
+Huard, 1967
+
+3. Fruits, endocarps & seeds
+
+Arecoidocarpon
+
+Bonde, 1990
+
+Astrocaryopsis
+
+Fliche, 1894
+
+Attaleinites
+
+Tuzson, 1913
+
+Burtinia
+
+Endlicher, 1837
+
+Caryotispermum
+
+Reid & Chandler, 1933
+
+Castellinia
+
+Massalongo, 1852
+
+Fracastoria
+
+Massalongo, 1858
+
+Hyphaeneocarpon
+
+Bande, Prakash & Ambwani,
+
+1982
+
+Nipa
+
+Thunberg, 1782
+
+Nipadites
+
+Bowerbank, 1840
+
+Palmocarpon
+
+Miquel, 1853
+
+Palmospermum
+
+Reid & Chandler, 1933
+
+Phoenicites
+
+Brongniart, 1828
+
+Sabalites
+
+le Marquis de Saporta, 1865
+
+4. Rhachillae, peduncles, inflorescences & flowers
+
+Arecoideostrobus
+
+Bonde, 1996
+
+Palaeophoenix
+
+le Marquis de Saporta, 1878
+
+Palaeorachis
+
+le Marquis de Saporta, 1889
+
+Palaeospathe
+
+Unger 1860
+
+Palmanthium
+
+Schimper, 1870
+
+Palmostrobus
+
+Mahabalé, 1950
+
+Palmostroboxylon
+
+Ambwani, 1983­84
+
+Tuzsonia
+
+Andreánsky, 1949
+
+Mixed organs Calamus daemonorops
+
+(Unger) Chandler, 1957
+
+stem rhizome `bark' & thorns
+fruit fruit `a reproductive (?fruit)' Nipa-like fruits seed ­ shares some similarities to Caryota Nipa-like fruits Nipa-like fruits fruit
+fruits fruit carpel seed this generic name also used for leaves NB. this generic name has also been used for leaves
+rhachilla inflorescence ­ the flowers ­ `probablement mâles' not present rhachillae and inflorescences
+flowers inflorescence peduncle rhachilla and inflorescences
+fragments of fruiting axes, fruits, seeds?, flowers, spines & spine bases, pollen
+
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+52 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+APPENDIX 2
+Fossil pollen genera which have, or may have, an affinity to extant palms: column 1: genus & type species; column 2: taxonomic comments; column 3: age of type material; column 4: Original type comparison to an extant taxon; column 5: morphology of fossil & evaluation of palm affinity.
+
+Genus & type species
+
+Taxonomic comments
+
+Age of type material
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Aglaoreidia Erdtman, 1960 Type: A. cyclops Erdtman
+Andreisporis Belsky, Boltenhagen & Potonié, 1965 Type: A. mariae Belsky, Boltenhagen & Potonié
+Arecipites Wodehouse, 1933 Type: A. punctatus Wodehouse Arengapollenites Kar, 1985 Type: A. achinatus Kar
+Calamipollenites Sun Mengrong, 1989 Type: C. calamides Sun Mengrong
+
+Upper Eocene ­ Lower Oligocene, England
+
+Named after one of the field work assistants working with the authors.
+
+lower Senonian, Equatorial West Africa
+
+Name reflects a general Middle Eocene, USA affinity with Arecaceae.
+Lower Eocene, India
+
+Palaeocene, China
+
+None
+`. . . perhaps corresponds, in transitional terms, to ancient palms ­ Problematicopalmites' (Belsky & Boltenhagen, 1963)
+Phoenix dactylifera L.
+Name reflects an affinity with Arenga.
+Calamus
+
+Monoporate slightly oblate-spheroidal (LA 40­55 µm), exine reticulate except in area surrounding pore. Comparable with pollen of Borassodendron machadonis, but smaller.
+Subequatorial triporate, sometimes with cryptotrichotomosulcus, tectate, rounded triangular (LA 20­50 µm), planaperturate. Some similarity to Constantinisporis, but pores set further in from margin. No further comment on affinity.
+Small monosulcate grain (LA 23­25 µm). Possible coryphoid type palm.
+Monosulcate, ellipsoid (LA c. 60 µm), sulcus length as long axis, sparsely spinose except along colpus margines where the spines are arranged so that they interlock on invagination of aperture. Affinity with Arenga accepted.
+Pollen in equatorial view the typical trapezium of invaginated disulcate pollen (LA 23­29 µm) distinct, finely reticulate sculpture. Most probably referable to calamoid palms, perhaps should placed in the synonomy of Dicolpopollis.
+
+FOSSIL RECORDS FOR ARECACEAE 53
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Calamuspollenites Elsik in Stover, Elsik & Fairchild, 1966 Type: C. pertusus Elsik
+Clavamonocolpites González Guzmán, 1967 Type: C. terrificus González Guzmán
+
+Taxonomic comments
+Nichols, Tate Ames & Traverse (1973) placed this genus in synonymy with Arecipites and emended the type species to A. pertusus.
+
+Age of type material Lower Eocene, USA
+Eocene ­ Colombia
+
+Clavapalmaedites Rao & Ramanujam, 1978 Type: C. hammenii Rao & Ramanujam
+Constantinsporis Belsky, Boltenhagen & Potonié, 1965 Type: C. jacquei Belsky, Boltenhagen & Potonié
+
+`closely similar to Paravuripollis except that this genus is zonasulcate' (Jansonius in Jansonius & Hills, 1980).
+
+Miocene, India
+
+Named after one of the field work assistants working with the authors.
+
+lower Senonian, Equatorial West Africa
+
+Couperipollis Venkatachala & Kar, 1969 Type: C. perspinosus (Couper) Venkatachala & Kar Basionym: Monosulcites perspinosus Couper, 1953
+
+Pliocene, New Zealand
+
+Original type comparison to an extant taxon
+Calamus Not disulcate, like pollen of Calamus.
+
+Morphology & evaluation of palm affinity [LA = long axis]
+Monosulcate, ellipsoid (LA 32­40 µm), sulcus length as long axis, tectate-punctate. A misleading name as the type specimen is monosulcate.
+
+None
+Palms
+`. . . perhaps corresponds in transitional terms to ancient palms ­ Problematicopalmites' Belsky & Boltenhagen (1963) None
+
+Monosulcate (LA 49­69 µm) with conspicuous and prominent clavate sculpture, probably intectate. Clavate monosulcate pollen occurs in Caryota, Arenga and Pinanga (intectate); and in Pinanga and Oncosperma (supratectate).
+Extended sulcate, ellipsoid (LA 25­31 µm), with suprareticulate clavae. Possibly a disulcate calamoid with fractured distal `bridge', suprareticulate clavae are found in disulcate Daemonorops.
+Subequatorial triporate with cryptotrichotomosulcus, circular equatorial outline (LA 20­50 µm), pores circular to oval. Some similarity to Andreisporis but pores closer to margin. No further comment on affinity.
+Monosulcate (LA 34­44 µm) tectate, spinose, sulcus length as long axis. There are examples of monosulcate tectate, as well as imtectate, spinose palm pollen. Spinose pollen ultrastructure is very varied in the Arecaceae.
+
+54 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+Dicolpopollis Pflanzl, 1956 Type: D. kockelii Pflanzl
+
+Appendix 2 Continued
+
+Taxonomic comments
+
+Age of type material ?Miocene, Germany
+
+Disulcipollis Krutzsch, 1970 Type: D. cuddalorensis (Ramanujam) Krutzsch Basionym: Disulcites cuddalorenese Ramanujam, 1966
+
+Miocene, southern India
+
+Disulcites Erdtman, 1947 ex Potonié, 1960 Type: D. kalewensis Potonié, 1960
+
+Junior synonym of Dicolpopollis.
+
+Eocene, Burma
+
+Dorreenipites Biswas, 1962 Type: D. platydesma Biswas
+
+Thanikaimoni et al. (1984) included Dorreenpites in the synonymy of Trilatiporites which has often been compared with Sclerosperma. However, Biswas (1962) does not compare Dorreenipites with Sclerosperma but with Platydesma (Rutaceae).
+
+lower Middle Eocene, India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Calamus Metroxylon None Platydesma (Rutaceae)
+
+Equatorial disulculate, small to medium forms, reticulate, verrucate or granular exine. Widely accepted as disulculate Calamus type ­ however, there are eight palm genera which share this pollen type (see text).
+Equatorial disulcate (LA 30­37 µm), smooth or finely punctate exine. Widely accepted as disulculate Calamus type ­ however, there are two other genera where equatorial psilate perforate disulculate pollen occur: Calamus & Daemonorops.
+In equatorial view the typical trapezium of invaginated disulculate pollen (LA 25­38 µm). Accepted as disulculate Calamus type ­ however, there are eight palm genera which share this pollen type.
+Heteropolar, triporate protrudent (LA 39 µm) suboblate, tectate. This pollen form which is closely similar to Trilatiporites is not considered to have an ancestral to Sclerosperma or any other palm (Harley & Baker 2001).
+
+FOSSIL RECORDS FOR ARECACEAE 55
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+
+Taxonomic comments
+
+Echimonocolpites van der Hammen & Garcia de Mutis, 1965 Type: E. ruedae (van der Hammen) van der Hammen & Garcia de Mutis Basionym: Monocolpites ruedae van der Hammen, 1954b
+
+Echimonocolpites Mathur 1966 a junior homonym. NB. E. scabratus Mathur, compared with spiny Nymphaeaceae pollen.
+
+Echimonoporopollis Saxena, Khare & Misra, 1991 Type: E. grandiporus Saxena, Khare & Misra
+
+Echimorphomonocolpites González Guzmán, 1967 Type: E. solitarius González Guzmán
+
+Age of type material
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Maastrichtian, Colombia
+
+Compared with Mauritiidites, but spines not embedded in exine, or with a swelling of the inner foot layer margin beneath each spine.
+
+Lower to Middle Eocene, India None
+
+Eocene, Colombia
+
+Small, monosulcate (colpus not very well defined), spinose (LA 27 µm). Could have an affinity with palms ­ there are a number of examples of monosulcate tectate, as well as imtectate, spinose palm pollen. (Spinose pollen ultrastructure is very varied in the Arecaceae).
+Spherical to brevi ellipsoid (LA 30­46 µm), large circular to oval pore with unthickened margo, exine thin, tectate and spinose, interspinal exine punctate to microreticulate. Superficial resemblance to Ravenea (Ceroxyloideae) however, pollen of this genus has a thicker exine in relation to overall pollen size.
+Monosulcate (LA 59­65 µm), with two/three types of sculptural elements, spines being the most frequent (1­4 µm), exine thin relative to overall size (1.5 µm). Possibly an affinity with palms ­ there are examples of monosulcate tectate, as well as intectate, spinose palm pollen. Spinose pollen ultrastructure is very varied in the Arecaceae. However, an endexine is remarked ­ if this observation is correct, it is not typical of palm pollen, or monocot pollen in general.
+
+56 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+Foveomonocolpites Juhász & Góczán, 1985 Type: F. pereensis Juhász & Góczán
+
+Taxonomic comments
+
+Gemmamonocolpites van der Hammen & Garcia Mutis, 1965 Type: G. gemmatus (van der Hammen) van der Hammen & Garcia Mutis Basionym: Monocolpites gemmatus van der Hammen, 1954b
+Grimsdalea Gemeraad, Hopping & Muller, 1968 Type: G. magnaclavata Gemeraad, Hopping & Muller
+
+Appendix 2 Continued Age of type material lower Cenomanian, Hungary
+Maastrichtian, Colombia
+Miocene ­ Pliocene, Trinidad
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+`a form of Palmae'
+`differs from Sabalpollenites'
+None
+
+Monosulcate, sulcus as long axis (LA 77 µm), microfoveolate with thin exine cf. to overall size. Largest palm pollen, LA 70­90 µm, foveolate exines do occur ­ could be from an ancestral palm.
+Monosulcate, irregularly micro gemmate (LA 22.5 µm). Small monosulcate pollen (LA <35 µm) occur commonly in Coryphoideae, and less frequently in Arecoideae ­ not possible to establish any clear affinity with palms.
+Aperture absent or indistinct (LA 40­62 µm), thin walled with finely baculate scabrate surface and very long (7­ 10 µm) widely spaced clavae, swollen apices, and bases sunken into locally thickened `endexine'. This fossil often considered to have some affinity to Spinizonocolpites. However, the inwardly bulging `endexine' towards the spines is much more reminiscent of the situation in Mauritiidites ­ perhaps the endexine is actually foot layer, and the fossil has an affinity to Mauritia and its relatives.
+
+FOSSIL RECORDS FOR ARECACEAE 57
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+
+Taxonomic comments
+
+Jacobipollenites Ramanujam, 1966 Type: J. magnificus Ramanujam
+
+Age of type material Miocene, southern India
+
+Jusingipollis Jansonius & Hills, 1987 Type: J. microreticulata (Juhász & Góczán) Jansonius & Hills Basionym: Singipollis microreticulata Juhász & Góczán, 1985
+Longapertites Van Hoeken Klinkenberg, 1964 Type: L. marginatus Van Hoeken Klinkenberg
+
+middle Albian, Hungary Maastrichtian, Nigeria
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Borassodendron (Ramanujam et al., 1998)
+None
+Compared with Dicolpopollis, but accepting that apices nearest to the distal pollen have merged (in an evolutionary sense) to form an elongated sulcus.
+
+Spheroidal (LA 38.5­48 µm), monoporate, pore 5­10 µm, semi tectate, coarsely reticulate. Revised description based on further material (Ramanujam et al., 1998) ­ size, LA 40­100 µm, pore, circular to slightly elongate 10­25 µm, with a rugged tectate margo. The comparisons of Ramanujam et al. (1998) with Borassodendron are convincing, the only alternative in the palms would be Ammandra with closely similar pollen.
+Trichotomosulcate (LA 16 µm), tectate, microfoveolate. Attention is drawn to this fossil mainly because the angiosperm-like trichotomosulcus is a feature of the pollen of many palms. However, the small size of the pollen suggests that it is possibly from an early dicotyledonous plant.
+There are isolated examples of species with extended sulcate pollen in recent palms ­ Calamoideae (Eugeissona, Eremospatha); Coryphoideae (Licuala all spp.); Arecoideae (Areca, Pinanga, Hydriastele). In the fossil literature records of Longapertites are numerous and it is very likely that many of these are from ancestral palms, but are actually disulculate pollen with a broken distal `bridge'.
+
+58 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Appendix 2 Continued
+
+Genus & type species
+Luminidites Pocknall & Mildenhall, 1984 Type: L. reticulatus (Couper) Pocknall & Mildenhall Basionym: Phormium reticulatum Couper, 1960
+
+Taxonomic comments
+
+Age of type material Miocene, New Zealand
+
+Mauritiidites Van HoekenKlinkenberg, 1964 Type: M. crassibaculatus Van Hoeken-Klinkenberg
+
+Maastrichtian, Nigeria
+
+Monocolpites Erdtman, 1947 ex van der Hammen, 1954b Type: M. longicolpatus van der Hammen, 1956 (first designation)
+
+The holotype of the type species is a recent pollen grain of Orthosanthus chimboracensis (HBK) Baker (Iridaceae) thus Monocolpites, by the designation of the type species, is made illegitimate and a later synonym of Orthosanthus (Jansonius & Hills 1976). In Erdtman (1947) nomen nudum
+
+.
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+None Mauritia
+
+Trichotomosulcate, subcircular to sub triangular, coarsely reticulate, but around margo or even generally on distal side, perforate. In palms coarsely reticulate trichotomosulcate pollen grains are known for Ceroxylon, Pinanga & Hydriastele.
+Monosulcate, spinose, sulcus as long axis (LA 63­65 µm), spines deeply rooted in ectexine, swelling of the inner margin of the foot layer beneath each spine. Association with Mauritia accepted ­ this is the only one of the three genera in subtribe Mauritiinae (Lepidocaryeae: Calamoideae) with embedded spines where there are also swellings of the inner face of the foot layer below the spines.
+Monosulcate pollen.
+
+FOSSIL RECORDS FOR ARECACEAE 59
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Monocolpopites Biswas, 1962
+Monocolpopollenites Pflug & Thomson in Thomson & Pflug, 1953 Type: M. tranquillus (Potonié) Thomson & Pflug Basionym: Pollenites tranquillus Potonié, 1934
+Monosulcipollenites Levet-Carette, 1964 Type: M. minimus (Cookson ex Couper) Levet-Carette Basionym: Monosulcites minimus Cookson ex Couper, 1953 Monosulcites Cookson ex Couper, 1953 Type: M. minimus Cookson ex Couper
+
+Taxonomic comments No type species, no diagnosis, therefore nomen nudum.
+Obligate junior synonym of Monosulcites with which it shares the same type species.
+
+Age of type material
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Monosulcate pollen.
+
+Originally Eocene, Germany ­ however, a widely adopted genus for asymmetric monosulcate fossil pollen grains, and records extensive, and widespread in the Tertiary.
+
+Originally none, but now widely accepted as palm-like. However, the genus has been widely used, and often misapplied, over the years for monosulcate pollen generally, with inattention to the asymmetric form of the type species.
+
+Monosulcate, generally asymmetric with regard to overall shape, and often also in relation to aperture shape, aperture usually slightly shorter than long axis. Tectate and, usually, psilate, perforate finely rugulate. Original size given as 24 µm, however, Nichols et al. (1973) suggest a range of 20­50 µm, which is more realistic. Strictly this taxon was erected for distinctly asymmetric monsulcate monocot-like fossil pollen ­ as such it is decidedly palm-like ­ especially Arecoideae or, to a lesser extent, Coryphoideae.
+Monosulcate pollen.
+
+`?Lower Tertiary' [Palaeocene], Gingkoales New Zealand
+
+Monosulcate, elliptic in outline (LA 29­34 µm), strong exine. Small monosulcate pollen (LA <35 µm) occur commonly in Coryphoideae, and less frequently in Arecoideae ­ not possible to form strong conclusions regarding affinity.
+
+60 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Neocouperipollis Kar & Kumar, 1986 Type: N. kutchensis (Venkatachala & Kar) Kar & Kumar Basionym: Couperipollis kutchensis Venkatachala & Kar, 1969 Palmaemargopollenites Harley, 1997 Type: P. fossperforatus Harley
+Palmaepites Biswas, 1962 Type: P. eocenica Biswas
+Palmaepollenites Potonié, 1951 ex Potonié, 1958 Type: P. tranquillus (Potonié) Potonié Basionym: Pollenites tranquillus Potonié, 1934
+
+Taxonomic comments
+Obligate junior synonym of Monocolpopollenites (they share same type species)
+
+Appendix 2 Continued
+
+Age of type material
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Lower Eocene, India Eocene oil shales, Messel, Germany
+Lower ­ Middle Eocene, India
+Eocene, Germany
+
+Correctly compared unfavourably to spine type and density in Arengapollenites.
+Pollen from anthers in situ in fossil palm flowers.
+Arecaceae *Jessenia bataua, Juania australis (*Jessenia included in Oenocarpus ­ Dransfield et al., 2005).
+
+Monosulcate, sulcus length as long axis, brevi ellipsoid (LA 35­ 65 µm), spines strong with bulbous bases and pointed tips (up to 5 µm). Not clear whether pollen tectate or intectate. An affinity with palms not obvious, but should not be entirely ruled out.
+Ellipsoid or broadly ellipsoid monosulcate pollen grains (LA 20­35 µm). Sulcus slightly shorter than long axis, tectate or semi tectate, tectum of sulcus margines differentiated from nonmarginate tectum which may be punctate, perforate, microslits, fossulate, microfossulate, rugulate, cerebroid, insulate, foveolate, or finely reticulate.
+Monosulcate, sulcus slightly shorter than long axis, exine psilate-perforate, thin (LA 36 µm). Common and characteristic in the deposits where it is found. Could well be a palm ­ but particular associations with Jessenia or Juania seem unfounded.
+Asymmetric monosulcate pollen (LA c. 24 µm).
+
+FOSSIL RECORDS FOR ARECACEAE 61
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Palmidites Couper, 1953 Type: P. maximus Couper
+Paravuripollis Rao & Ramanujam, 1978 Type: P. mulleri Rao & Ramanujam
+Piladiporocolpites Kar, 1995 Type: P. caratinii Kar
+
+Taxonomic comments
+
+Age of type material
+
+Earlier Chitaley (1951) had suggested this generic name as a nomen nudum section of Monosulcites
+
+Pliocene, New Zealand
+
+Miocene (­Pliocene?), India
+
+One of three new fossil form genera described by Kar (1995), showing variations of `a new type of aperture' which he called `diporocolpis', a confusing name as the apertures are large pores, not colpi.
+
+Lower Eocene, India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+`palmaceous'
+Correctly compared unfavourably to Spinizonocolpites.
+`not comparable to any known fossil or living genera in its apertural condition.'
+
+Monosulcate (LA 50­88 µm) sulcus length as long axis, psilate perforate. If a palm affinity is correct then it is most likely to be with ceroxyloid or arecoid palms.
+Ellipsoid and zonasulcate, the aperture divides the grain into two more or less equal halves (LA 22.5­29 µm), intectate, densely pilate-clavate. Being a dispersed grain it is not possible to know whether the zonasulcus is orientated meridionally or equatorially relative to the poles. Similar pollen occur in Korthalsia (Calamoideae).
+Pollen ellipsoid with two large pores, one on either short axis (LA 48­55 µm), gemmate (not pilate as inferred from name), margine of pore described as `spinose' not clear from images ­ probably the ragged margo of the pore, exine thick (2­4 µm). No obvious affinity in palms but, could be a modification of distal disulcate. Diporate forms are known in Daemonorops and Korthalsia, but the pores are comparatively small and discrete.
+
+62 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+Proxapertites van der Hammen, 1956 Type: P. operculatus (van der Hammen) van der Hammen Basionym: Monocolpites operculatus van der Hammen, 1954b
+
+Appendix 2 Continued
+
+Taxonomic comments
+
+Age of type material Palaeocene, Colombia
+
+Psiladiporocolpites Kar, 1995 Type: P. pachyexinus Kar
+
+One of three new fossil form genera described by Kar (1995), showing variations of `a new type of aperture' which he called `diporocolpis', a confusing name as the apertures are large pores, not colpi.
+
+Lower Eocene, India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Astrocaryum acaule Mart.
+`not comparable to any known fossil or living genera in its apertural condition.'
+
+More or less zonasulcate (LA c. 50 µm) ­ however, one half slightly larger than other, exine thin, microfoveolate to foveolate. In the original description the grains are described as having `a big wide aperture' at the proximal side of the grain, the illustrations show a zonasulcate grain ­ possibly one half of the grain was interpreted as an operculum. The comparison with Astrocaryum pollen is erroneous ­ here the pollen is mono- or trichotomosulcate. In the palms pollen grains showing notable similarity to Proxapertites occur in a few species of Areca. They also occur, and much more frequently, in the Araceae where monosulcate or zonate account for the majority of aperturate genera.
+Pollen ellipsoid with two large pores, one on either short axis (LA 42­55 µm), psilare, margin of pore described as `spinose' not clear from images ­ probably the ragged margo of the pore, exine thick (2­5 µm). No obvious affinity in palms but, could be a modification of distal disulcate. Diporate forms are known in Daemonorops and Korthalsia, but the pores are comparatively small and discrete.
+
+FOSSIL RECORDS FOR ARECACEAE 63
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+Psilamonocolpites van der Hammen & Garcia de Mutis, 1965 Type: P. medius (van der Hammen) van der Hammen & Garcia de Mutis Basionym: Monocolpites medius van der Hammen, 1954b
+Quilonipollenites Rao & Ramanujam 1978 Type: Q. sahnii Rao & Ramanujam
+
+Taxonomic comments
+
+Age of type material Maastrichtian, Colombia
+Neogene (Quilon Beds), Kerala, S. India
+
+Racemonocolpites González Guzmán, 1967 Type: R. racematus (van der Hammen) ex González Guzmán Basionym: Monocolpites racematus van der Hammen, 1954a
+Retidiporocolpites Kar, 1995 Type: R. excellensus Kar
+
+One of three new fossil form genera described by Kar (1995), showing variations of `a new type of aperture' which he called `diporocolpis', a confusing name as the apertures are large pores, not colpi.
+
+Upper Cretaceous ­ Eocene, Colombia
+Lower Eocene, India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Compared, and seen to be different from, Arecipites and Palmapollenites
+`referable to Palmae'
+None
+
+Monosulcate, aperture length as, or slightly less than long axis (33 µm), exine thin, psilate perforate. Illustrated pollen appears to slightly extended sulcate ­ could be from a palm, see comments under entry for Longapertites.
+Extended sulcate (LA 50­55 µm), tectate, coarsely reticulate ­ lumina smaller around aperture margo. Now widely accepted as having an affinity with some extant species of Eugeissona (E. tristis, E. utilis) which have closely similar pollen (Phadtare & Kulkarni, 1984).
+Monosulcate (LA 30­40 µm), probably intectate, gemmate, baculate or clavate sculpture. Uncertain, but could have a palm affinity.
+
+`not comparable to any known fossil or living genera in its apertural condition.'
+
+Pollen ellipsoid with two large pores, one on either short axis (LA 33­42 µm), finely reticulate, finer around aperture margos, exine (c. 2.5 µm). No obvious affinity in palms, could be a modification of distal disulcate. Diporate forms are known in Daemonorops and Korthalsia, and in Calamus there are many species with reticulate disulcate pollen, in some cases the distal exine area is wide, and the sulci short.
+
+64 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species
+Retimonocolpites Pierce, 1961 Type: R. dividuus Pierce
+
+Appendix 2 Continued
+
+Taxonomic comments
+
+Age of type material `lower' Upper Cretaceous
+
+Retitrilatiporites Misra, Singh & Ramanujam, 1996 Type: R. kutchensis (Venkatachala & Kar) Misra, Singh & Ramanujam Basionym: Trilatiporites kutchensis Venkatachala & Kar, 1969
+
+A new genus introduced to distinguish the overt protrudent pore morphology of Trilatiporites and Dorreenipites from the `feeble to imperceptible protrusions of some other triporates.
+
+Eocene, India
+
+Riedelia Thiergart & Frantz 1963 Type: R. simplex Thiergart & Frantz
+
+Tertiary, India
+
+Sabaloidites Potonié, Thomson & Thiergart, 1950
+
+No generic diagnosis, not validly proposed, junior synonym of Sabalpollenites.
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+`Monocotyledoneae (?). Similar forms Liliacidites Couper 1953'
+NB. Not always associated with palms ­ for example R. fragilis described as sp. nov. and compared with pollen of Cycadaceae.
+`closely resembles Miocene Sclerosperma-type pollen (Médus, 1975) from Senegal, western Africa.'
+`we suppose that this type of pollen grain may be associated to the Gymnospermeae of the Gingko-group or to Palmae'
+
+Monosulcate, aperture almost encircles grain, ellipsoidal to spherical (LA c. 27 µm), tectate, finely reticulate, occasionally separated from endexine; exine c. 1.5 µm. Small zonasulcate pollen grains occur in the calamoid palms (Salacca & Korthalsia) reticulate forms not known. If the endexine is indeed endexine and not a foot layer, it suggests that the pollen is more likely to be from an early dicot.
+Triporate, triangular in presumed polar view, straight or slightly convex faces (LA 24­41 µm) triangular or rounded triangular, reticulate, exine 2­4 µm thick. More Sclerosperma-like than Dorreenipites or Trilatiporites, but walls too thick, and pore position not quite right ­ altogether not as convincing as the Senegal examples.
+Monosulcate (LA 25 µm), sulcus length as long axis. Uncertain, but could have a palm affinity.
+
+FOSSIL RECORDS FOR ARECACEAE 65
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Sabaloipollenites Potonié, 1951
+Sabalpollenites Thiergart in Raatz (1937-38) Type: S. convexus Thiergart in Raatz
+Spinizonocolpites Muller, 1968 Type: S. echinatus Muller
+Spinomonosulcites A. Singh & Misra, 1991 Type: S. varispinosus A. Singh & Misra
+
+Taxonomic comments
+Junior synonym of Arecipites ­ invalid no longer recognised by the author (Potonié, 1958). Junior synonym of Arecipites.
+
+Age of type material
+
+A considerable number of species described, but the most frequently encountered morphology is that of S. echinatus, and S. baculatus (Muller 1968).
+
+Eocene (prob. all Tertiary), Indonesia. Widespread, from Maastrichtian, reaching a crescendo in the Eocene, after which records gradually reduce.
+
+Several other species, previously assigned to Neocouperipollis, were also transferred to Spinomonosulcites.
+
+Miocene, India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Sabal, Chamaedorea pavoniana
+Nypa fruticans, and it is also often considered to be related to the plants which produced Proxapertites, although this may well not be the case.
+None
+
+Monosulcate (LA 36­41 µm), sulcus length as long axis, perforate to reticulate. Sabalpollenites is used for small to average more or less bisymmetric monosulcate coryphoid-like pollen ­ many of the comparisons seem convincing.
+Zonasulcate, usually only found as one half of the original spheroidal grain, due to breakdown of aperture during fossilisation (LA 33­43 µm), tectate, exine perforate to finely reticulate with short to long spines. Widely accepted as ancestral to Nypa, and possibly once represented by a number of species.
+Monosulcate, sulcus length as long axis (LA 70­85 µm), spinose, spines 1­7 µm long, sulcus margo smooth or spinose.
+
+66 M. M. HARLEY
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Trichotomocolpites van der Hammen, 1956 Type: T. normalis van der Hammen
+Trichotomosulcites Couper, 1953 Type: T. subgranulatus Couper
+
+Appendix 2 Continued
+
+Taxonomic comments
+
+Age of type material
+
+the holotype of the type species ­ T. normalis ­ `is a recent pollen grain of Pyrenoglyphis major (Jacq.) Karst (Palmae).' (Pyrenoglyphis syn. Bactris). Thus Trichotomocolpites, by designation of the type species is made illegitimate and a later synonym of Pyrenoglyphis (see Jansonius & Hills, 1976).
+
+Cretaceous, New Zealand
+
+TrilatiporitesRamanujam, 1966 ex Potonié, 1970 Type: T. noremi Ramanujam ex Potonié
+
+Dorreenipites may be a senior synonym.
+
+Miocene, southern India
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Palmae
+
+`pollen grains with only a threesplit aperture'
+
+Phormium (Phormiaceae) `many monosulcate pollen (Liliaceae, Palmae) contain abnormal trichotomosulcate pollen . . . a form genus for such atavistic, teratological forms is superfluous.' (Krutzsch, 1970)
+None
+
+Trichotomosulcate, sulcus 3armed, subcircular to triangular outline (LA 27­ 35 µm), psilate-granular. Common in Cretaceous of New Zealand ­ but these probably more likely to be ancestral to Phormiaceae than Palmae. Nevertheless, asymmetric, less frequently symmetric, trichotomosulcate pollen is very common in the palms, especially in subfamily Arecoideae.
+Heteropolar, triporate protrudent with thickened rim (LA 29­48 µm) suboblate, tectate. This pollen form is closely similar to Dorreenpites; it is not considered to have any association with Arecaceae (Harley & Baker, 2001).
+
+FOSSIL RECORDS FOR ARECACEAE 67
+© 2006 The Linnean Society of London, Botanical Journal of the Linnean Society, 2006, 151, 39­67
+
+Genus & type species Victorisporis Belsky, Boltenhagen & Potonié, 1965 Type: V. robertii Belsky, Boltenhagen & Potonié
+Weylandipollis Takahashi, 1964 Type: W. retiformis Takahashi
+
+Taxonomic comments
+Named for one of the field work assistants working with the authors.
+
+Age of type material
+lower Senonian, Equatorial West Africa
+
+Campanian, Japan
+
+Original type comparison Morphology & evaluation
+
+to an extant taxon
+
+of palm affinity [LA = long axis]
+
+Sclerosperma mannii H. Wendl.
+`differs from Liliacidites mostly in the shape of the pollen and the colpus'
+
+Subequatorial porotrichotomosulcus, tectate, rounded triangular equatorial outline (LA 20­ 50 µm), pores circular to oval. Some similarity to Andreisporis but pores closer to margin, and set in the angles of the triangular outline. There are a number of reasons why this is unlikely to be ancestral to Sclerosperma (Harley & Baker, 2001). Probably should also be referred to Problematicopalmites with Andreisporis & Constantinisporis.
+Monosulcate broad ellipsoidal (LA 34­46 µm), sulcus wide with broad apices, semi tectate, coarsely reticulate, sparsely columellate, lumina reduced to perforations around sulcus margo. Closely similar grains found in some species of Hydriastele.
+
+

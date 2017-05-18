@@ -17,36 +17,35 @@ Currently,  the PDF versions of published articles is the most common way to sto
 - Clone or download the repository
 - Replace the files from the '/articles/' folder with the collection of files you want to mine. Be sure to name the files appropiately so you do not loose track of which article are you mining from. 
 - Provide a custom dictionary in the '/dic/' folder or use one of the thesaurus provided (Currently only the frugivory - thesaurus is available)
-- Under the "Species Names" tab, you will find at the right side of the page a list of the species names recognized in the article, ordered by number of occurrences. In the left side, a wordcloud represents the 10 most frequent thesaurus terms found in the article. 
-- Under the "Indexed version" tab will show the portions of the text which matches both the species names and the provided terms. A plot in the left side of the page will show the position of the matched portions of text inside the article. 
+- Under the "Taxonomic Summary" tab, you will various things. The first two plots will shown at the left side, a wordcloud represents the 5 most frequent thesaurus terms found in the article. To the right side the position of the indexed text snippets. More below, at the left you will find list of the species names recognized in the article, ordered by number of occurrences and with their family and class. In the right side are found the text snippets where both the species and the dictionary terms. In both cases you can filter results by using the "search" tab. 
 
 ----------
 
 # Where to harvest articles? 
 
-There is many ways to get articles. If you have the access to Academic Databases ( e.g. [Web of Science](https://login.webofknowledge.com/)) you can just download as many articles you want and feed them to the app. However, there a known publication bias ( Cite ) on harvesting references from only one database. Therefore, below you can find a list of sources to search for academic publications. Ideally, to avoid such biases, specially if your focusing your research on tropical regions or zones where english is not the main lenguage, a good literature search should involves queries in as many databases possible.
+There is many ways to get articles. If you have the access to Academic Databases ( e.g. [Web of Science](https://login.webofknowledge.com/)) you can just download as many articles you want and feed them to the app. However, there a known publication bias on harvesting references from only one database. Therefore, below you can find a list of sources to search for academic publications. Ideally, to avoid such biases, specially if your focusing your research on tropical regions or zones where english is not the main lenguage, a good literature search should involves queries in as many databases possible.
 
-+ [arXiv](arxiv.org) (Free) :)
-+ [Redalyc](www.redalyc.org) (Free) :) 
-+ [FreeFullPDF](www.freefullpdf.com) (Free) :)
-+ [Wiley](www.wiley.com) (Subscription needed) :(
-+ [CORE](core.ac.uk) (Free) :)
-+ [Microsoft Academic](academic.microsoft.com) (Free for 10K queries per month) :)
-+ [Springer](www.springer.com) (Subscription needed) :(
-+ [Web of Science](webofknowledge.com) (Subscription needed) :(  
-+ [Russian Science Citation Index](elibrary.ru) (Free) :)
-+ [SciELO](www.scielo.org) (Free) :) 
-+ [Directory of Open Access Journals](www.doaj.org) (Free) :)
-+ [BioOne](www.bioonepublishing.org) (Subscription needed) :)
-+ [Google Scholar](scholar.google.com) ;)
-+ [ScienceOpen](scienceopen.com) (Free) :)
-+ [Scopus](www.scopus.com) (Free) :)
-+ [Socolar](www.socolar.com) (Free) :)
-+ [Public Library of Science](www.plos.org) :) 
-+ [EuropePMC](europepmc.org) (Free) :)
-+ [Crossref](www.crosref.org) (Free) :)
-+ [Biblat](biblat.unam.mx) (Free) :) 
-+ [Sci-Hub](sci-hub.cc) (Free) :) 
++ [arXiv](arxiv.org) (Free) 
++ [Redalyc](www.redalyc.org) (Free) 
++ [FreeFullPDF](www.freefullpdf.com) (Free) 
++ [Wiley](www.wiley.com) (Subscription needed) 
++ [CORE](core.ac.uk) (Free) 
++ [Microsoft Academic](academic.microsoft.com) (Free for 10K queries per month) 
++ [Springer](www.springer.com) (Subscription needed) 
++ [Web of Science](webofknowledge.com) (Subscription needed) 
++ [Russian Science Citation Index](elibrary.ru) (Free) 
++ [SciELO](www.scielo.org) (Free) 
++ [Directory of Open Access Journals](www.doaj.org) (Free) 
++ [BioOne](www.bioonepublishing.org) (Subscription needed) 
++ [Google Scholar](scholar.google.com)
++ [ScienceOpen](scienceopen.com) (Free) 
++ [Scopus](www.scopus.com) (Free) 
++ [Socolar](www.socolar.com) (Free) 
++ [Public Library of Science](www.plos.org)
++ [EuropePMC](europepmc.org) (Free) 
++ [Crossref](www.crosref.org) (Free) 
++ [Biblat](biblat.unam.mx) (Free)  
++ [Sci-Hub](sci-hub.cc) (Free) 
 
 ----------
 
@@ -86,7 +85,7 @@ By minding the gap between the availability of data from published literature to
 
 # Room for improvement? lets get in touch. 
 
-There is always room for improvement, for now I have built this app using mostly spare time of my own. I'll be happy to discuss ideas and tools for improvement. I have some ideas in mind but their are not completely cooked yet... 
+There is always room for improvement, for now I have built this app using mostly spare time of my own. I'll be happy to discuss ideas and tools for improvement. 
 
 Still interested to get in touch? then send me an [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
 
@@ -102,7 +101,6 @@ Haddaway, N. R., Collins, A. M., Coughlin, D., & Kirk, S. (2017). A rapid method
 
 Kissling, W. D., & Schleuning, M. (2015). Multispecies interactions across trophic levels at macroscales: retrospective and future directions. Ecography, 38(4), 346-357.
 
-
 Poisot, T., Stouffer, D. B., & Gravel, D. (2015). Beyond species: why ecological interaction networks vary through space and time. Oikos, 124(3), 243-251.
 
 Thuiller, W., Münkemüller, T., Lavergne, S., Mouillot, D., Mouquet, N., Schiffers, K., & Gravel, D. (2013). A road map for integrating eco‐evolutionary processes into biodiversity models. Ecology letters, 16(s1), 94-105.
@@ -114,9 +112,6 @@ Thuiller, W., Münkemüller, T., Lavergne, S., Mouillot, D., Mouquet, N., Schiff
 For helpful discussions and commentaries I am grateful to both [Emiel van Loon](https://staff.science.uva.nl/e.e.vanloon/index.html) and [Daniel Kissling](http://www.uva.nl/en/profile/k/i/w.d.kissling/w.d.kissling.html) from the University of Amsterdam. 
 
 This apps uses tools from the [GNA (GlobalNamesArchitecture)](https://github.com/GlobalNamesArchitecture) implemented in the [taxize](https://github.com/ropensci/taxize) package. Credits to the developers of those initiatives. 
-
-The development of this app comes initially from a literature review about tools mining information from literature, which I did under the supervision of [Emiel van Loon](https://staff.science.uva.nl/e.e.vanloon/index.html) as part of the requirements for my MSc degree in Ecology and Evolution at the University of Amsterdam (UvA). 
-
 
 
 

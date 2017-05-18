@@ -34,7 +34,7 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                               sidebarLayout(
                                 sidebarPanel(
                                 selectInput(inputId = "dictionary",
-                                          label = "Provide a thesaurus",
+                                          label = "Select the dictionary",
                                           path2),
                                 
                                 img(src='logo.png', align = "right"),
@@ -48,32 +48,36 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                         )
                       ),
                    tabPanel("Taxonomic summary",
-                            selectInput(inputId = "selector",
-                                        label = "Select an article to read",
-                                        path1),
-                            
-                              p("Taxonomic summary"),
-                              DT::dataTableOutput("data_table"),
-                              hr(),
-                              p("10 most matched topics"),
-                              plotOutput("dictionary")
-                            ),
-                   
-                   tabPanel("Indexed version",
-                            selectInput(inputId = "selector2",
-                                        label = "select an article to read",
-                                        path1),
                             fluidPage(
-                              sidebarLayout(
-                                sidebarPanel(
-                                  plotOutput("plot"),id="myplot"),
-                              mainPanel(
-                                tableOutput("Indexed.version"),id="Index")
-                              )
-                            )
-                   )
-  )
-)
+                              
+                              fluidRow(
+                                column(6,selectInput(inputId = "articlePath",
+                                            label = "Select an article to read",
+                                            path1)),
+                                column(6,actionButton(inputId = "GoButton",
+                                             label = "Read!"))),
+                             
+                              fluidRow(
+                                column(5,h2("5 most matched topics")),
+                                column(7, h3("Indexed snippets"))),
+                              fluidRow(
+                                column(5,plotOutput("dictionary", height = 300)),
+                                column(7, plotOutput("plot", height = 300))),
+                              
+                              fluidRow(
+                                column(5,h2("Taxonomic Summary")),
+                                column(7, h3("Text snippets"))),
+                              
+                              fluidRow(
+                                column(5, DT::dataTableOutput("data_table", width = "90%")),
+                                column(7, DT::dataTableOutput("Indexed.version", width = "90%")))
+                                
+                   ))
+  ))
+
+
+
+
                    
 #                    
 #     
