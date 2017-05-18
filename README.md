@@ -15,7 +15,7 @@ Currently,  the PDF versions of published articles is the most common way to sto
 - Provide a custom dictionary in the '/dic/' folder or use one of the thesaurus provided (Currently only the frugivory - thesaurus is available)
 - Open the RContainer Folder and Run the App. 
 - Under the "Species Names" tab, you will find at the right side of the page a list of the species names recognized in the article, ordered by number of occurrences. In the left side, a wordcloud represents the 10 most frequent thesaurus terms found in the article. 
-- Under the "Indexed version" tab will show the portions of the text which matches both the species names and the provided terms. A plot in the left side of the page will show the position of the matched portions of text inside the article. 
+- Under the “Taxonomic Summary” tab, you will various things. The first two plots will shown at the left side, a wordcloud represents the 5 most frequent thesaurus terms found in the article. To the right side the position of the indexed text snippets. More below, at the left you will find list of the species names recognized in the article, ordered by number of occurrences and with their family and class. In the right side are found the text snippets where both the species and the dictionary terms. In both cases you can filter results by using the “search” tab.
 
 ----------
 
