@@ -1,5 +1,5 @@
 
-# Welcome to Ecological Events Miner! 
+# Welcome to Ecological Event Miner! 
 This is a work in progress to mine ecological events from published literature
 
 To better understand large scale process in Ecology it is necessary to develop of new hypothesis based on our current knowledge. A good portion of primary biodiversity knowledge (e.g. species interactions / species occurrences ) can be found in literature. Global biodiversity research depends on [high - level](https://en.wikipedia.org/wiki/Biological_organisation) concepts abstracted and put together to synthesize a variety of information independently produced by local observers, teams and institutions  working differently all over the world (Bisby 2000). This array of sources creates an intrinsic difficulty on "knowing what is where" and "comparing like with like" (Bisby 2000), fueling the need for integration of different ecological data and information over various geographical and environmental scales (Thuiller et al. 2013; Kissling and Schleuning 2015; Poissot et al. 2016).
