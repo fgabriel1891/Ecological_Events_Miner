@@ -1,0 +1,152 @@
+BIOTROPICA 37(1): 96­101 2005
+Importance of Body Size in Determining Dominance Hierarchies among Diverse Tropical Frugivores1
+Aaron R. French Center for Tropical Research and Department of Biology, 1600 Holloway Avenue, San Francisco State University, San Francisco, California 94132, U.S.A. and Thomas B. Smith2 Department of Ecology and Evolutionary Biology and Center for Tropical Research, Institute of the Environment, Box 951496, University of California, Los Angeles, California 90095-1496, U.S.A.
+
+ABSTRACT
+Most studies examining dominance hierarchies have focused at the intraspecific level. While some examples of interspecific hierarchies have been noted, these have usually been limited to a few species in the same taxonomic group that utilize resources in similar ways. Here, we examine evidence for dominance interference competition among vertebrates comprising a diverse frugivore community, including 19 species of birds, squirrels, and primates in a mature Central African rainforest. A total of 38 fruiting trees from 18 species were observed for 2058 h to record dominance interactions between foraging vertebrates. We show that interference competition occurs within and between taxonomically diverse species of vertebrates at fruiting trees. The resulting cross-taxonomic dominance hierarchy includes larger vertebrates, such as primates and hornbills, as well as smaller ones, such as squirrels and parrots. Within this hierarchy, the dominance rank of each species is highly correlated with body mass, and is shown to significantly affect the number of fruits removed from a given tree. Because a majority of tropical tree species depend on vertebrates to disperse their seeds, and particular vertebrates may preferentially disperse the seeds of specific tree species, results may have important conservation implications for the maintenance of tree diversity in regions where populations of larger frugivores have been depressed or extirpated.
+Key words: dominance hierarchy; frugivory; interference competition; seed dispersal.
+
+LINEAR DOMINANCE HIERARCHIES ARE A COMMON FEATURE AMONG MANY DIVERSE TAXA, including insects, crustaceans, fish, birds, and mammals (Drews 1993). They may be either intrinsically determined or produced through social interactions. Dominance rank has been found to be correlated with an individual's age, sex, size, physiology, levels of aggression, and niche use. In addition, dominance rank may influence many critical aspects of a species' life history, including movement patterns, foraging efficiency, life span, reproductive success, and even sex ratios of offspring (Clutton-Brock et al. 1984, Alatalo & Moreno 1987, Pusey et al. 1997, Janson 1990).
+While most studies examining dominance hierarchies have focused at the intraspecific level, examples of cross-taxonomic hierarchies have also been noted (Clutton-Brock et al. 1984, Savolainen & Vepsalainen 1989, Daily & Erlich 1994). For example, Daily and Ehrlich (1994) described an interspecific dominance hierarchy between frugivorous bird species at fruiting trees in Costa Rica. However, in most studies, dominance interactions have been limited to a few species in the same taxonomic group which utilize resources in similar ways--i.e., birds using their beaks to forage on fruits (Daily & Erlich 1994). Much less is known about dominance hierarchies comprised of species from diverse taxonomic groups, such as birds and mammals, where trophic structures important in feeding and resource use are distinctly different.
+Dominance hierarchies generally arise out of interference competition (Fellers 1987, Savolainen & Vepsalainen 1989), where size or mass
+1 Received 8 March 2004; revision accepted 22 August 2004. 2 Corresponding author; e-mail: tbsmith@ucla.edu
+
+is often an important determinant of an individual's rank (Huntingford & Giles 1987). Across different taxa, such as birds and mammals, in which feeding morphologies and resource use differ greatly, one might not expect to find dominance hierarchies. Alternatively, if dominance hierarchies do exist, they may be more diffuse or perhaps less related to differences in body mass. For example, trophic structures, or a species' particular morphology used in feeding, might be important in determining hierarchies because birds and primates obtain and process food differently--birds primarily with their bills versus primates with their hands and jaws.
+Tropical frugivorous communities are well known for their taxonomic diversity. Large and small birds and mammals frequently feed on the same species of fruit (Howe 1980, Wheelwright & Orians 1982, Gautier-Hion et al. 1985, Chapman 1987, Levey 1987, Howe 1993, Moermond et al. 1993, Hamann & Curio 1999). Such communities offer unique opportunities to examine cross-taxonomic interactions and dominance hierarchies. It is not uncommon to find ten or more frugivore species feeding on the fruit of a single tree (Howe 1982, Hamann & Curio 1999).
+In this study, we investigated behavioral interactions among a diverse guild of Afrotropical frugivores to evaluate the presence of dominance hierarchies and the relationships among body mass and frugivore taxonomic affinity. Our specific objectives were to: (1) describe the taxonomic diversity of the frugivore guild; (2) characterize the dominance hierarchies that may exist across different species of vertebrates foraging in fruiting tree; (3) describe the relationships among body mass, taxonomic affinity, and levels of aggression; and (4) discuss ecological and conservation consequences of the dominance relationships found.
+
+96
+
+Body Size and Dominance in Tropical Frugivores 97
+
+TABLE 1. Tree species, number, and hours observed for animal activity during the study.
+
+Family
+Anacardiaceae Annonaceae Apocynaceae Arecaceae Burseraceae
+Combretaceae Euphorbiaceae
+Liliaceae Meliaceae
+Moraceae Myristicaceae
+Rhamnaceae Sapindaceae Sterculiaceae Total
+
+Species
+Lannea (welwitschii) Cleistopholis glauca Rauwolfia macrophylla Elaeis guineensis Dacyrodes edulis Canarium schweinfurthii Pteleopsis hylodendron Macaranga sp. Uapaca cf. paludosa Dracaena arborea Guarea cedrata Trichilia sp. Ficus sp. Staudtia kamerunensis Pycnanthus angolensis Maesopsis eminii Blighia welwitschii Eribroma oblongum
+18
+
+No. of trees
+2 4 2 1 2 2 1 1 1 2 1 2 2 1 4 4 5 1
+38
+
+Hours observed
+60:00 374:23
+84:46 89:06 139:41 208:02
+8:30 24:42 38:37 193:06 54:07 60:37 30:07 75:50 280:28 203:50 116:33 15:41
+2058:06
+
+MATERIALS AND METHODS
+Data were collected in a 25-km2 study area surrounding the Bouamir Research Station (311 N, 1248 E) in the Dja Biosphere Reserve, Cameroon over a 1-yr period from 1 January 1997 to 15 January 1998. The Dja Biosphere Reserve comprises 526,000 ha of mature lowland semideciduous tropical forest (Letouzey 1968) and still contains sizable populations of large arboreal fruit-eating animals such as primates and birds (Whitney & Smith 1998, Muchaal & Ngandjui 1999). Rainfall is bimodal and totaled 1630 mm in 1997 (Whitney et al. 1998), while annual rainfall across years averaged 1600 mm (Laclave`re 1980). Fruit abundance fluctuates seasonally, with strong evidence of resource limitation during the two dry seasons (Whitney & Smith 1998).
+Thirty-eight trees from 18 species (Table 1) were observed for 2058 h to record dominance interactions between foraging vertebrates. Nineteen species of birds and mammals were observed (Table 2). A dominance interaction was defined as any interaction that elicited a retreat from the resource by one of the animals (Popp et al. 1990), regardless of the intensity of the interaction (Drews 1993). In this study, an individual was classified as subordinate if it was forced by the interaction to leave the tree in which it was foraging.
+Trees were selected for study if: (1) frugivores were observed foraging in them, or (2) they had a ripe crop of fruits known or suspected to be attractive to arboreal frugivores. Tree watches were conducted between 0600­1100 hours and 1500­1800 hours to correspond with peak
+
+TABLE 2. Species included in cross-taxonomic dominance hierarchies. Estimates of mean body mass were obtained from the literature (Brown et al. 1982, Kingdon 1997). For species for which no published mass data were found, unpublished data from Thomas B. Smith were used. All mass estimates were log transformed prior to analysis.
+
+Mammals Birds
+
+Family Cercopithecidae
+Sciuridae Accipitridae Psittacidae Musophagidae Bucerotidae
+Estrildidae Sturnidae Oriolidae Dicruridae
+
+Common name
+(1) Gray-cheeked mangabey (2) Putty-nosed monkey (3) Crowned monkey (4) Moustached monkey (5) Red-legged sun squirrel (6) Rope squirrel (7) Harrier hawk (8) African gray parrot (9) Great-blue tauraco (10) Black-casqued hornbill (11) White-thighed hornbill (12) Piping hornbill (13) White-crested hornbill (14) African pied hornbill (15) Pale-fronted Negrofinch (16) Purple glossy starling (17) Narrow-tailed starling (18) Black-winged oriole (19) Fork-tailed Drongo
+
+Species
+Lophocebus albigena Cercopithecus nictitans Cercopithecus pogonias Cercopithecus cephus Heliosciurus rufobrachium Funisciurus sp. Polyboroides radiatus Psittacus erithacus Corythaeola cristata Ceratogymna atrata Ceratogymna cylindricus Ceratogymna fistulator Tockus albocristatus Tockus fasciatus Nigrita luteifrons Lamprotornis purpureus Poeoptera lugubris Oriolus nigripennis Dicrurus adsimilis
+
+Mass (g)
+7500 7350 3800 3500
+325 230 725 400 1000 1250 1150 450 300 270
+12 100
+80 180 190
+
+98 French and Smith
+
+periods of animal foraging. Each tree was observed by an individual researcher, with binoculars and spotting scopes, from previously established blinds. The numbers of each animal species that were observed foraging in each tree, and all inter- and intraspecific dominance interactions were recorded onto microcassettes for later transcription. Behavioral scores and all data collection were standardized among observers. Individuals were trained by one of the authors (A. French). Training involved both trainer and trainee scoring behavior simultaneously from a blind until consistent scores were obtained, averaging 18 h. During these tree watches, the number of fruits eaten by the focal animal was recorded, as well as the amount of time that the animal spent in the tree. We recorded if the animal left the tree of its own accord, or was chased by another animal.
+Interaction matrices were created from the observed dominance interactions and analyzed to determine the presence of a linear dominance hierarchy (Appleby 1983) with the program MatMan (Noldus Information Technology 1998). The methods used by this program were developed to analyze experimental intraspecific frequency matrices, but the assumptions remain consistent with the interspecific nature of the current study (de Vries et al. 1993).
+The Directional Consistency (DC) index function was used within the program MatMan to calculate the presence and direction of a hierarchy, in which:
+
+DC
+
+=
+
+(H (H
+
+- +
+
+L) L)
+
+where H is the total number of times a behavior was performed in the more frequent direction within each interaction, and L equals the number of times the behavior occurred in the less frequent direction. The DC index ranges from 0 (complete equality between individuals) to 1 (complete linearity, i.e., a perfect hierarchy) (van Hoof & Wensing 1987). Thus, the DC index simply examines the integrity of the aggressive interactions within each tree. A two-tailed Kendall's  -statistic was used for all rank correlations because it is robust for small N, 2 tests were used to test for size-relevant patterns in our frequency matrices, and t-tests were used to test for foraging differences between animals involved in aggressive interactions and animals that foraged alone (Sokal & Rohlf 1981).
+To explore possible ecological effects of these observed dominance hierarchies, we tested whether dominance hierarchies might influence the number of fruits removed from the parent tree. We compared the dominance rank of each frugivore with the number of seeds removed by each vertebrate species, and the time each frugivore spent feeding. Standard statistical analyses were performed with SPSS 8.0.
+
+RESULTS
+For each of 18 tree species, the number of foraging frugivores ranged from between two and 15 species. A total of 19 species from ten families of birds and mammals were observed participating in dominance interactions (Table 2). These feeding assemblages included such diverse animals as cercopithecine monkeys and estrildid finches. There was a positive correlation between the number of animal species foraging and the number observed in interspecific interactions at each tree species (Kendall's  = 0.769, P < 0.01).
+
+Analyzing the interaction matrices for the presence of a hierarchy revealed strong evidence for linear dominance hierarchies, as well as strong congruence between frugivore mass and dominance rank (Fig. 1). Directional Consistency values, used to determine the presence of a linear dominance hierarchy, were DC = 1.0 for 17 of the 18 tree species (94.4%). For the remaining species, Pycnanthus angolensis (Myristicaceae), DC = 0.778, indicating the presence of a dominance hierarchy with a few reverse interactions. Correlation statistics were performed for the six tree species with foraging assemblages of greater than five animal species. Kendall's  correlations between the mass of each animal species and its dominance rank at each tree species were highly significant (Fig. 1), with five of the six correlations significant at P < 0.01. In addition, dominance interactions were not distributed randomly throughout the matrices, but were directed significantly more often at species of similar mass ( 2 = 22.34, P < 0.001) (Fig. 2).
+Dominance hierarchies created from these interaction matrices were concordant among all tree species, and the dominance relationships between animal species remained strong, as measured by the Directional Consistency index, even when observations were pooled across all observed trees (DC = 0.801, N = 363). This suggests that a consistent community-wide pattern in dominance hierarchies was evident irrespective of tree species.
+Dominance ranks tended to be consistent across tree species. For example, ranks (lowest to highest) were often: smaller birds, squirrels, parrots, hornbills, monkeys. We found significant correlations between a species' dominance rank and both the number of fruits eaten per visit and the time spent foraging at each tree (Fig. 3). Furthermore, the time each animal of a given species spent foraging in a particular tree was significantly shorter when displaced by another frugivore (t = 2.97, P < 0.01). Thus, observed dominance hierarchies had a direct effect on the number of fruits a given animal removed from each tree.
+DISCUSSION
+Results suggest dominance hierarchies are governed by frugivore mass irrespective of taxonomic affiliation. Across all 18 tree species examined, frugivore mass was highly correlated with dominance rank and showed a consistent pattern of rank regardless of which species (bird or mammal) were found foraging in a particular tree. In all instances, individuals were significantly more aggressive toward species of similar mass. If two species of squirrel and one species of bird were found foraging in a given tree, the larger species of squirrel was more likely to chase the bird of similar, but slightly smaller, mass than another much smaller species of squirrel. While a detailed examination of the foraging techniques of birds and primates was beyond the scope of this study, one might nevertheless expect differences in foraging mode leading to performance differences on particular fruits to also be potentially important in determining rank. For example, foraging efficiencies on fruits that are swallowed by hornbills, but must be chewed by primates, could potentially determine the desirability of a given fruit. However, we found body mass to be the main factor regardless of the fact that squirrels use their paws and teeth to pluck the fruits off the limbs and birds use their beaks.
+Similarly, one might expect opportunistic frugivores, which depend on foods other than fruit, to interact differently than obligate frugivores.
+
+Body Size and Dominance in Tropical Frugivores 99
+
+FIGURE 1. Correlations between frugivore dominance rank and mass at six tropical tree species. Numbers refer to individual vertebrate species and are listed in Table 2. High Directional Consistency (DC) index values indicate the presence of a directional dominance hierarchy between frugivore species at given tree species, while correlations demonstrate the relationship between species mass and dominance rank. Tree species, DC values, and correlations are, respectively: (a) Blighia welwitschii (Sapindaceae). DC = 1, N = 26. Kendall's  = 1.00, N = 11, P < 0.001. (b) Canarium schweinfurthii (Burseraceae). DC = 1, N = 29. Kendall's  = 1.00, N = 7, P < 0.01. (c) Elaeis guineensis (Arecaceae). DC = 1, N = 26. Kendall's  = 0.889, N = 8, P < 0.01. (d) Cleistopholis glauca (Annonaceae). DC = 1, N = 16. Kendall's  = 1.00, N = 6, P < 0.001. (e) Pycnanthus angolensis (Myristicaceae). DC = 0.778, N = 21. Kendall's  = 0.810, N = 7, P < 0.05. (f ) Maesopsis eminii (Rhamnaceae). DC = 1, N = 25. Kendall's  = 0.704, N = 9, P < 0.01. Tree species with frugivore assemblages of less than five species (N = 12) are not shown but demonstrate the same dominance pattern. Gray symbols are mammals and black symbols are birds.
+
+While fruit constitutes the majority of the diet for most of the animals studied (Whitney et al. 1998, Emmons et al. 1983, Graham et al. 1995), opportunistic frugivores, such as the largely granivorous estrildid finch Nigrita luteifrons and the omnivorous and sometimes predatory hawk Polyboroides radiatus, showed a dominance pattern consistent with that predicted from their body mass. This suggests that mass, rather than diet specialization, is more important in influencing the outcome of dominance interactions.
+The extent to which interspecific interference competition may be driving the behavioral interactions here are difficult to address because we have no measure of fruit availability and whether it was limiting. Nevertheless, we believe the pattern of social hierarchy revealed here is robust and likely influences feeding efficiency. First, the dominance interactions were measured in such a way as to be conservative. Two criteria were used to determine which frugivores were to be included in the study: (1) if they had already been seen to select a fruit, and (2) if they were subsequently chased out of the tree. This excludes a
+
+vast majority of other possible situations--i.e., an animal was about to eat, and then was chased out, or was not even able to enter the tree because other dominant individuals were there. Secondly, ripe fruit in tropical trees is an ephemeral resource, and a given tree typically only ripens a select number of fruit each day. The frugivores that are ejected from the fruiting tree by a dominant animal have, therefore, been denied the opportunity to select these fruits as they ripen. Daily and Ehrlich (1994) similarly concluded that even though resources were not limiting for their frugivorous study population, social dominance still improved overall foraging efficiency by ensuring prompt access to the "best" ripe fruit.
+More speculative is the possible influence that dominance hierarchies could theoretically play in seed dispersal and forest regeneration. Over 80 percent of the tree species in this region of Central Africa depend upon animals as dispersal agents (Sonke 1998). Deforestation, combined with intense hunting pressures on large frugivores (Hannah et al. 1994), has led to dramatic declines and losses of large vertebrates
+
+100 French and Smith
+
+FIGURE 2. Frequency histogram of dominance interactions with the interaction frequency as a function of rank difference between species pairs. Over 70 percent of interactions were between species pairs of similar mass, with a mass rank difference = 1. Dominance interactions were observed between species pairs of all mass rank differences, indicating that even disparately sized species are involved in competitive interactions.
+
+in many rainforest regions (Bodmer et al. 1997). Because the number of seeds removed from a plant is a key component of seed dispersal (Schupp 1993), and a limiting factor in determining tropical tree diversity (Hubbell et al. 1999), understanding the various processes that affect seed dispersal in the tropics is of paramount importance. Though our results do not address the issue of seed dispersal and forest structure directly, they suggest that the quantity of fruit eaten and taken away from a given tree is probably correlated with species body mass and dominance hierarchy in that tree. Alterations to social hierarchies caused by population declines or extirpations of species could, at least theoretically, influence patterns of seed rain, and ultimately forest structure. Frugivore assemblages in the Dja Reserve are similar in both the number and diversity of species to those reported for rainforest trees in the Neotropics (Howe 1982) and Southeast Asia (Hamann & Curio 1999). Given that 62­93 percent of tropical tree species are dispersed by vertebrates (Jordano 1992), this study suggests cross-taxonomic dominance hierarchies, and their impacts on seed dispersal are an important area of inquiry in other tropical regions.
+
+FIGURE 3. Effects of dominance rank on foraging behavior. (a) Correlation of
+dominance rank and the average time (in minutes) each frugivore species spends in a Cleistopholis glauca tree (Kendall's  = 1.00, N = 6, P < 0.01). (b) Correlation
+between dominance rank and the average number of fruits eaten per visit to Cleistopholis glauca by each vertebrate species (Kendall's  = 0.773, N = 6, P < 0.05). This
+correlation is significant for all tree species studied. For each tree species, correlations
+between time spent in the tree and dominance rank/number of fruits eaten per visit and rank are: Blighia welwitschii (R2 = 0.914, Kendall's  = 0.944, N = 11, P < 0.001 or R2 = 0.678, Kendall's  = 0.648, N = 11, P < 0.05), Canarium schweinfurthii (R2 = 0.824, Kendall's  = 0.802, N = 7, P < 0.01 or R2 = 0.728,  = 0.816, N = 7, P < 0.05), Elaeis guineensis (R2 = 0.745, Kendall's  = 0.905, N = 7, P < 0.01 or R2 = 0.804,  = 0.810, N = 7, P < 0.05), Pycnanthus angolensis (R2 = 0.771, Kendall's  = 1.0, N = 7, P < 0.01 or R2 = 0.917,  = 0.905, N = 7, P < 0.005), and Maesopsis eminii (R2 = 0.634, Kendall's  = 0.778, N = 9, P < 0.005 or R2 = 0.658,  = 0.778, N = 9, P < 0.005).
+
+ACKNOWLEDGMENTS
+We thank the government of the Republic of Cameroon for permission to conduct this research. For comments on various drafts, we thank S. Harcourt, R Carlsbeek, E. Connor, T. Parker, H. Slabbekoorn, K.
+
+Holder, W. Rendell, W. Koenig, J. Dickinson, J. Carothers, R. Mumme, S. Pruett-Jones, K. Whitney, J. Ellers, R. Sehgal, K. O'Keefe, B. Mila´, M. Kimura, S. Clegg, and B. Wang. For assistance in the field, we thank B. Curran, R. Fotso, and J.-P. Vauteran. The research was supported by the Wildlife Conservation Society, ECOFAC Cameroon, GAANN
+
+Body Size and Dominance in Tropical Frugivores 101
+
+and NSF-GRT fellowships, and NIH-MIRT, NSF IRCEB-9977072 and DEB-9726425 grants to Thomas B. Smith.
+LITERATURE CITED
+ALATALO, R., AND J. MORENO. 1987. Body size, interspecific interactions, and use of foraging sites in tits (Paridae). Ecology 68: 1773­1777.
+APPLEBY, M. C. 1983. The probability of linearity in hierarchies. Anim. Behav. 31: 600­608.
+BODMER, R. E., J. F. EISENBERG, AND K. H. REDFORD. 1997. Hunting and the likelihood of extinction of Amazonian mammals. Conserv. Biol. 11: 460­466.
+BROWN, L. H., E. K. URBAN, AND K. NEWMAN. 1982. The birds of Africa, vol. 1. Academic Press, London, England.
+CHAPMAN, C. 1987. Flexibility in diets of three species of Costa Rican primates. Folia Primatol 49: 90­105.
+CLUTTON-BROCK, T. H., S. D. ALBON, AND F. E. GUINNESS. 1984. Maternal dominance, breeding success and birth sex ratios in red deer. Nature 308: 358­360.
+DAILY, G. C., AND P. R. EHRLICH. 1994. Influence of social status on individual foraging and community structure in a bird guild. Oecologia (Berlin). 100: 153­1650.
+DE VRIES, H., W. J. NETTO, AND P. L. H. HANEGRAAF. 1993. MatMan: A program for the analysis of sociometric matrices and behavioural transition matrices. Behaviour 125: 157­175.
+DREWS, C. 1993. The concept and definition of dominance in animal behaviour. Behaviour 125: 283­313.
+EMMONS, L. H., A. GAUTIER-HION, AND G. DUBOST. 1983. Community structure of the frugivorous-folivorous forest mammals of Gabon. J. Zool. 49: 237­269.
+FELLERS, J. H. 1987. Interference and exploitation in a guild of woodland ants. Ecology 68: 1466­1478.
+GAUTIER-HION, A., J. M. DUPLANTER, R. QURIS, F. FEER, C. SOURD, J. P. DECOUX, G. DUBOST, L. EMMONS, C. ERARD, P. HECKETSWEILER, A. MOUNGAZI, C. ROUSSILHON, AND J. M. THIOLLAY. 1985. Fruit characters as a basis of fruit choice and seed dispersal in a tropical forest vertebrate community. Oecologia 65: 324­337.
+GRAHAM, C. H., T. C. MOERMOND, K. A. KRISTENSEN, AND J. MVUKIYUMWAMI. 1995. Seed dispersal effectiveness by two bulbuls on Maesa lanceolata, an African montane forest tree. Biotropica 27: 479­486.
+HAMANN, A., AND E. CURIO. 1999. Interactions among frugivores and fleshy fruit trees in a Philippine submontane rainforest. Conserv. Biol. 13: 766­773.
+HANNAH, L., D. LOHSE, C. HUTCHINSON, J. L. CARR, AND A. LANKERA. 1994. A preliminary inventory of human disturbance of world ecosystems. Ambio 23: 246­250.
+HOWE, H. F. 1980. Monkey dispersal and waste of a neotropical fruit. Ecology 61: 944­959.
+------. 1982. Fruit production and animal activity in two tropical trees. In E. G. Leigh, Jr. (Ed.). The ecology of a tropical forest: Seasonal rhythms and long-term changes, pp. 211­227. Smithsonian Press, Washington, District of Columbia.
+------. 1993. Aspects of variation in a neotropical seed dispersal system. Vegetatio 107/108: 149­162.
+HUBBELL, S. P., R. B. FOSTER, S. T. O'BRIEN, K. E. HARMS, R. CONDIT, B. WECHSLER, S. J. WRIGHT, AND S. L. DE LAO. 1999. Light-gap disturbances,
+
+recruitment limitation, and tree diversity in a neotropical forest. Science 283: 554­557. HUNTINGFORD, F., AND N. GILES. 1987. Individual variation in antipredator responses in the 3-Spined Stickleback (Gasterosteus aculeatus). Ethology 74: 205­210. JANSON, C. H. 1990. Social correlates of individual spatial choice in foraging groups of Brown Capuchin monkeys, Cebus apella. Anim. Behav. 40: 910­921. JORDANO, P. 1992. Fruits and frugivory. In M. Fenner (Ed.). Seeds: The ecology of regeneration in plant communities, pp. 105­156. CAB International, Wallingford, United Kingdom. KINGDON, J. 1997. The Kingdon field guide to African mammals. Academic Press, San Diego. LACLAVE`RE, G. (Ed). 1980. Atlas of the United Republic of Cameroon. Editions Jeune Afrique, Paris. LETOUZEY, R. 1968. E´ tudes phytoge´ographiques au Cameroun. Editions Paul Lechevalier, Paris. LEVEY, D. J. 1987. Seed size and fruit-handling techniques of avian frugivores. Am. Nat. 129: 471­485. MOERMOND, T. C., K. KAJONDO, C. SUN, K. KRISTENSEN, V. MUNYALIGOGA, B. A. KAPLIN, C. GRAHAM, AND J. MVUKIYUMWAMI. 1993. Avian frugivory in a montane rain forest: Tree visitation patterns. In T. R. Wilson (Ed.). Birds and the African environment. Proceedings of the Eighth Pan-African Ornithological Congress, vol. 268, pp. 421­439. Annales Muse´e Royal de L'Afrique Centrale (Zoologie). MUCHAAL, P. K., AND G. NGANDJUI. 1999. Impact of village hunting on wildlife populations in the western Dja Reserve, Cameroon. Cons. Biol. 13: 385­396. NOLDUS INFORMATION TECHNOLOGY. 1998. MatMan, reference manual, Version 1.0. Wageningen, The Netherlands. POPP, J., M. FICKEN, AND C. WEISE. 1990. How are agnostic encounters among black-capped chickadees resolved? Anim. Behav. 39: 980­986. PUSEY, A., J. WILLIAMS, AND J. GOODALL. 1997. The influence of dominance rank on the reproductive success of female chimpanzees. Science 277: 828­831. SAVOLAINEN, R., AND K. VEPSALAINEN. 1989. Niche differentiation of ant species within territories of the wood ant Formica polyctena. Oikos 56: 3­16. SCHUPP, E. W. 1993. Quantity, quality and the effectiveness of seed dispersal by animals. Vegetatio 107/108: 15­29. SOKAL, R. R., AND F. J. ROHLF. 1981. Biometry, 2nd ed. Freeman, San Francisco, California. SONKE, B. 1998. E´ tudes floristiques et structurales des fore^ts de la Re´serve de Faune du Dja (Cameroun). PhD dissertation. Universite´ Libre de Bruxelles, Brussels, Belgium. VAN HOOF, J. A. R. A. M., AND J. A. B. WENSING. 1987. Dominance and its behavioral measures in a captive wolf pack. In H. Frank (Ed.). Man and wolf, pp. 219­ 252. Junk Publishers, Dordrecht, The Netherlands. WHEELWRIGHT, N. T., AND G. H. ORIANS. 1982. Seed dispersal by animals: Contrasts with pollen dispersal, problems of terminology, and constraints on coevolution. Am. Nat. 119: 402­413. WHITNEY, K. D., M. K. FOGIEL, A. M. LAMPERTI, K. M. HOLBROOK, D. J. STAUFFER, B. D. HARDESTY, V. T. PARKER, AND T. B. SMITH.1998. Seed dispersal by Ceratogymna hornbills in the Dja Reserve, Cameroon. J. Trop. Ecol. 14: 351­ 371. ------, AND T. B. SMITH. 1998. Habitat use and resource tracking by African Ceratogymna hornbills: Implications for seed dispersal and forest conservation. Anim. Con. 1: 107­117.
+
+

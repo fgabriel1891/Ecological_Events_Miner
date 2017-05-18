@@ -1,0 +1,442 @@
+Available online at www.sciencedirect.com
+
+Forest Ecology and Management 255 (2008) 1595­1603
+
+www.elsevier.com/locate/foreco
+
+Frugivory and seed dispersal by a small carnivore, the Chinese
+ferret-badger, Melogale moschata, in a fragmented
+subtropical forest of central China
+You-Bing Zhou a,b, Liang Zhang c, Yayoi Kaneko d, Chris Newman e, Xiao-Ming Wang f,*
+a Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Mengla, Yunnan, 666303, China b Graduate School of the Chinese Academy of Sciences, Beijing 100039, China
+c School of Life Science, Zhejiang University, Hangzhou, Zhejiang, 310027, China d Wildlife Conservation, Department of Animal Health Technology, Yamazaki College of Animal Health Technology
+e Wildlife Conservation Research Unit, University of Oxford, South Parks Road, Oxford, UK, OX1 3PS f School of Life Science, East China Normal University, No.3663, ZhongShanBei Road, Shanghai, 200062, China
+Received 5 September 2007; received in revised form 15 November 2007; accepted 17 November 2007
+
+Abstract
+The capacity for the Chinese ferret-badger (Melogale moschata), a small carnivorous mustelid mammal, as a frugivore and endozoochorous seed disperser was evaluated over the main fruiting period during 2 years of study in a fragmented subtropical forest of central China. Seeds of eight plant species were dispersed by M. moschata, based on the analysis of the 163 faecal samples. Three forest types were sampled; one subject to commercial clear-cut logging, the second a selectively logged site and the third a natural primary forest habitat. The proportion of seed-bearing faecal samples was greatest amongst those collected from the primary forest, with the selectively logged and clear-cut habitats having a lower frequency of seed-bearing faeces, respectively. Ferret-badgers mainly defecated in open habitats, however the proportion of seed-bearing faeces did not differ according to the type of cover present at the deposition sites. Ferret-badgers selected fleshy-fruited and seed-pulp rich species. Significantly, selection was found for the large-seeded species, Diospyros lotus, however, they chose to consume the smaller seeds from this plant. Seed passage time through the gut ranged between 0.8 and 5.9 h. No significant individual-specific differences were detected in the passage time for the different fleshy fruits. Five out of six dominant species had seeds germinate successfully from faecal samples. Only the germination of D. lotus seeds were lower than expected by comparison to the control seeds. By contrast, ingested seeds of Hovenia dulcis had higher germination rates than in control samples, but no statistical differences were detected. These findings indicated that ferret-badgers were legitimate (they defecated viable seeds), but inefficient dispersers (seeds in faeces were mainly deposited on open sites which were regarded as ``unsafe microsites'' for seed germination and seedling establishment). In order to fully understand the role of M. moschata in forest recruitment and regeneration, quantitative research on their efficiency as endozoochorous seed dispersers and the effects of their digging activities on the seed bank and seedling survival should be undertaken, focusing on sites degraded by forestry operations, especially in badly affected sites. # 2007 Elsevier B.V. All rights reserved.
+Keywords: Carnivore; Melogale moschata; Forest recruitment; Endozoochorus; Fruit selection; Germination; Seed dispersal; Seed passage time
+
+1. Introduction
+That many mammalian carnivores ingest large quantities and varieties of fruits is well established (Herrera, 1989; Willson, 1993). With larger foraging ranges, longer seed passage times in
+* Corresponding author. Tel.: +86 21 62232123. E-mail addresses: zhouyb@xtbg.org.cn (Y.-B. Zhou), zjurobert@163.com
+(L. Zhang), ykaneko7946@gmail.com (Y. Kaneko), chris.newman@zoo.ox.ac.uk (C. Newman), xmwang@ecnu.edu.cn (X.-M. Wang).
+0378-1127/$ ­ see front matter # 2007 Elsevier B.V. All rights reserved. doi:10.1016/j.foreco.2007.11.018
+
+their gut, and selection for particular defecation microsites (e.g. faecal marking behaviour, see a review by Hutchings and White, 2000), their role as seed-disperser is significant and important for maintaining and establishing the floristic diversity and species composition of forested habitats. However, quantitative studies of the role frugivores play in forest ecosystems are limited (Aronne and Russo, 1997; Campos and Ojeda, 1997; Motta-Junior and Martins, 2002). Here we consider the role of M. moschata, a small carnivore weighting 1.07 Æ 0.30 kg (n = 14), as a frugivore and seed disperser in a subtropical forest of central China. Ferret-badger are very
+
+1596
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+important for forest conservation, due to their multi-faceted role in forest recruitment (Gao and Sun, 2005).
+Successful seed dispersal consists of removal from a parent plant and deposition into suitable microsites for germination, such as a recently opened clearing in a forested area (termed a ``seed shadow'') (Howe and Smallwood, 1982; Fowler, 1988; Willson and Traveset, 2000). Fruit morphology and the behaviours of disperser are important factors for contributing to this successful seed dispersal process (Janson, 1983; Herrera, 1989; Debussche and Isenmann, 1989; Corlett, 1996; Westcott et al., 2005; Russo et al., 2006). The morphological characteristics of fruits and seeds chosen by frugivores limit the number of animal species which can disperse seeds effectively (Jordano, 1995). Disperser feeding behaviour (e.g. mastication, regurgitation), fruit processing (e.g. gut passage effects), post-feeding movements, as well as deposition site characteristics affect seed dispersal pattern, germination and seedling establishment (Hickey et al., 1999; Willson and Traveset, 2000; Traveset and Verdu´, 2002; Westcott et al., 2005; Russo et al., 2006; Weir and Corlett, 2007). These mechanisms have been well documented for birds (e.g. Westcott et al., 2005; Weir and Corlett, 2007), bats (e.g. Janzen et al., 1976) and monkeys (e.g. see a review by Chapman and Russo, 2006).
+The Chinese ferret-badger inhabits a wide variety of habitats including tropical and subtropical forests, secondary habitats, cultivated habitats and the rural outskirts of villages over a large range stretching from Assam to central China and northern Indochina (Zheng, 1987; Seefeldt, 2003; Nowak, 2004). Ferretbadgers are nocturnal and live in pre-dug holes (e.g. rodent dens) rather than digging new ones themselves (Wang, 1999). Ferret-badgers have an omnivorous diet that includes a significant fruit component (Seefeldt, 2003). Although it is a widespread species, little is known about its natural history and ecology, especially about its ecosystem role. Only a few studies have been conducted on its diet and feeding behaviour (Qian et al., 1976; Chuang and Lee, 1997; Wu, 1999), ranging behaviour (Wang, 1999; Wang and Fuller, 2003), activity patterns (Sheng, 1982; Pei, 1998, 2001; Wang, 1999; Wang and Fuller, 2003) and reproductive biology (Pei and Wang, 1995). A recent study has indicated that M. moschata is more closely related to a musteline-lutrine clade than to the badger clade, Melinae (Sato et al., 2004).
+We studied the dispersal of seeds by M. moschata in a fragmented subtropical forest of central China. Data were collected during the main period of fleshy fruit dispersal in 2004 and 2005. Additionally, we tested the legitimacy of M. moschata as seed disperser, that is the occurrence of apparently undamaged seeds in the faeces (cf. Herrera, 1989; Reid, 1989). We also tested the effects of ingestion on seed germination by comparing the germination proportion in defecated versus control seeds. The focus of this study was to establish: (1) How many seeds and species are transported? (2) Do ferret-badgers contribute to the dispersal of forest plants? (3) Does fruit morphology affect the fruit choice made by M. moschata? (4) How long is the gut passage time, once ingested, of seeds through the digestive tract of the Chinese ferret-badger? (5) What effects does gut passage time have on germination?
+
+2. Study site
+The study was conducted in Hubei Houhe National Nature Reserve (NNR) (308204500­804000N, and 11082902500­4004500 E), central China (Fig. 1). The reserve covers 10,340 ha and lies at the transitional belt between the middle subtropical zone and north subtropical zone, with four distinct seasons, a cold winter and a hot, humid summer (Song and Liu, 1999). Mean annual rainfall was in the region of 1814 mm with mean air temperature around 11.5 8C. The main fruiting plants are members of the families Rosaceae, Lauraceae, Actinidiaceae and Cornaceae, which mature between August and November; outside these months, fruits are scarce (Song and Liu, 1999; Wang et al., 1997), although there are some fruits which are mature such as Elaeagnus henryi, Cerasus dielsiana, Fragaria orientalis and Hovenia dulcis. The reserve consists of primary forest, selectively logged forest, logged forest, forest plantation (primary species: Davidia involucrata, Aesculus wilsonii, Cunninghamia lanceolata, Pinus massoniana and Cunninghamia lanceolata) and farmland. Most logging occurred before 1998. In the logged forest all commercially valuable trees with a diameter at breast height (dbh) >20 cm were harvested for construction while trees with a dbh of 10­20 cm were harvested for firewood. Approximate one tree (with a dbh >20 cm) per 100 m2 was taken for the construction of local residences in the selectively logged forest from 1996 to 1998. After logging, a mosaic of vegetation types persisted, dominated by pioneer tree species, shrubs, vines, climbers and herbs.
+3. Methods
+3.1. Faecal analysis and morphological characteristics of fruits
+Ferret-badgers faeces were collected every two weeks along twenty chosen transects between August and November 2004, and August 2005 and January 2006 in conjunction with a study on the Chinese ferret-badger and the masked palm civet (Paguma larvata) behavioural ecology. Ferret-badger faeces
+Fig. 1. Map of the study area, location of the five habitat types and twenty transects in Houhe National Nature Reserve, China. PF, primary forest; SLF, selectively logged forest; LF, logged forest; FP, forest plantation; FL, farmland.
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+1597
+
+encountered during the radio-tracking of P. larvata were also collected and included in the analysis. Location and the date were recorded for each faecal sample. The faeces were identified as M. moschata by size/diameter, shape, texture, nearby tracks and feeding signs, presence of hair and by characteristic odour. Seeds were extracted from the faeces by sieving through a nylon mesh (0.5 mm) and counted according to species. A reference collection was used to identify seeds recovered from the samples, and identification of these plants was conducted with the help of specialists.
+Nine morphological characteristics of the ripe fruits of 18 species were measured (Table 1). Another 31 fleshy fruited species were found during the study periods, but these were excluded from analyses because they had very few fruits and the mature fruits of these plants were found very rarely in the study site. Mature fruits (n > 200) were collected from each fruit-bearing plant species (n = 40), and 100 fruits and 100 seeds (except for Actinidiaceae) for each fruit species were measured. For species belonging to Actinidiaceae, due to its very small seed, five replicates with 50 seeds were measured as a unit to determine seed weight. To estimate selection of individual seeds within the same plant species, we compared the length and weight of dispersed seeds with seeds collected from ripe fruits on the parental tree.
+3.2. Establishing gut passage time
+In 2005, the ripe fruit of the five plant species, known to be in the diet of the M. moschata, were collected from the study area and used in feeding trials to measure gut passage times; these included Dendrobenthamia japonica, Dendrobenthamia capitata, Clematoclethra scandens and Diospyros lotus. To evaluate
+
+the intraspecific differences of seed passage time, the fruits of H. dulcis were collected from ten trees as marking site by M. moschata in 2006.
+Three and five ferret-badgers were live-trapped by using box-traps in 2005 and 2006, respectively. The experimental design varied with the availability of captive ferret-badgers, prior to the start of the experiments. Ferret-badgers were held in appropriate housing, and fed with a diet of cultivated fruits (persimmons, apples and bananas) supplemented with earthworms and chicken, to facilitate a good acclimatization to the experimental conditions. Drinking water was provided ad libitum (as much as they wanted). The experimental design and conditions of husbandry carefully followed the Association for the Study of Animal Behaviour (2003) guidelines for the treatment of animals in behavioural research and teaching. The Chinese ferret-badger is nocturnal and does not actively forage in the daytime (Sheng, 1982; Pei, 1998, 2001; Wang, 1999; Wang and Fuller, 2003; and our unpublished radio-tracking data). Thus, for 12 h in daytime prior to the start of each feeding trial, ferret-badgers were deprived of food and re-provisioned food at dusk. During the pre-trial deprivation period, the ferretbadgers were carefully observed to confirm that they exhibited no undue signs of behavioural or physiological stress. Ferretbadgers were fed the fruit of a single species during each seedtype trial which lasted until they were satiated or for a maximum of 15 min of feeding (Westcott et al., 2005). They readily consumed all the fruits offered. After each trial all of fruit remains were removed, and familiar foods were reprovisioned. This was an important step in the trial procedure to ensure that ferret-badgers were not deprived of food at this stage, which might otherwise accelerate seed passage time (French, 1996). For 12 h after each trial scats deposited in
+
+Table 1 Morphological characteristics of fleshy fruits that were foraged and not foraged by Melogale moschata at Houhe National Nature Reserve, central China
+
+Foraged Species
+
+Life Fruit characteristics form
+Weight (g) Length (cm)
+
+Percent of
+
+Seeds per fruit
+
+fruit-pulp (%)
+
+Seed characteristics
+
+Colour Weight (mg)
+
+Length (mm)
+
++
+
+Dendrobenthamia japonica SH 4.97 Æ 4.01 2.42 Æ 0.64 69.48 Æ 2.39
+
+9.25 Æ 2.22 Red
+
+80.53 Æ 26.11 6.47 Æ 0.63
+
++
+
+Dendrobenthamia capitata ST 4.35 Æ 0.96 1.77 Æ 0.15 62.19 Æ 9.02
+
+8.92 Æ 2.90 Red
+
+39.52 Æ 8.70
+
+5.37 Æ 0.54
+
++
+
+Clematoclethra scandens LI
+
+1.76 Æ 0.45 1.67 Æ 0.18 63.83 Æ 7.41 174.20 Æ 27.97 Khaki
+
+0.27 Æ 0.01
+
+1.40 Æ 0.12
+
++ Actinidia chinensis
+
+LI 20.88 Æ 2.17 4.11 Æ 0.42 85.44 Æ 3.04 184.00 Æ 100.02 Khaki
+
+1.17 Æ 0.26
+
+2.13 Æ 0.14
+
++ Diospyros lotus
+
+CT 3.12 Æ 1.03 1.62 Æ 1.29 67.83 Æ 5.67
+
+4.67 Æ 1.45 Yellow 113.08 Æ 14.30 10.88 Æ 0.76
+
++ Hovenia dulcisa
+
+CT
+
+57.58 Æ 6.45 45.67 Æ 9.63 Brown 28.75 Æ 5.11
+
+4.95 Æ 0.38
+
++ Prunus salicinab
+
+ST 10.23 Æ 1.95 2.37 Æ 0.26 84.05 Æ 0.80
+
+1
+
+Yellow 660.56 Æ 234.35 15.41 Æ 1.72
+
++ Prunus salicinab
+
+ST 8.45 Æ 2.67 2.50 Æ 0.29 81.95 Æ 2.83
+
+1
+
+Red 649.98 Æ 205.57 15.41 Æ 1.75
+
+À Actinidia kolomikta
+
+LI 1.85 Æ 0.50 2.43 Æ 0.40 54.16 Æ 10.84 55.27 Æ 17.03 Red
+
+1.00 Æ 0.19
+
+2.41 Æ 0.15
+
+À Decaisnea insignis
+
+SH 26.93 Æ 4.86 93.09 Æ 14.20 56.67 Æ 2.85 40.09 Æ 9.23 Purple 99.63 Æ 22.13 9.59 Æ 0.45
+
+À Sorbus hemsleyi
+
+ST 1.43 Æ 0.28 1.17 Æ 0.07 84.97 Æ 2.84
+
+7.47 Æ 1.74 Yellow 5.54 Æ 1.58
+
+4.19 Æ 1.63
+
+À Rosa sp.
+
+SH 0.33 Æ 0.09 1.09 Æ 0.10 53.25 Æ 3.29
+
+7.00 Æ 1.41 Red
+
+12.53 Æ 5.16
+
+5.33 Æ 0.68
+
+À
+
+Crataegus hupehensis
+
+ST 1.49 Æ 0.32 1.16 Æ 0.10 68.92 Æ 7.62
+
+3.11 Æ 1.81 Red
+
+5.34 Æ 3.61
+
+4.47 Æ 0.46
+
+À Ilex macrocarpa
+
+CT 2.04 Æ 0.25 1.39 Æ 0.07 13.00 Æ 2.48
+
+6.07 Æ 0.26 Black 19.72 Æ 2.29
+
+6.32 Æ 0.24
+
+À Celtis biondii
+
+CT 0.16 Æ 0.02 0.60 Æ 0.04 50.09 Æ 4.91
+
+1
+
+Yellow 42.17 Æ 6.01
+
+4.10 Æ 0.24
+
+À Actinidia callosa
+
+LI 1.64 Æ 0.30 2.48 Æ 0.30 80.07 Æ 4.24 141 Æ 31.99
+
+Green
+
+0.46 Æ 0.02
+
+1.59 Æ 0.18
+
+À
+
+Holboellia grandiflora
+
+LI 37.82 Æ 8.69 8.14 Æ 1.32 58.06 Æ 5.83 106.50 Æ 22.39 Red
+
+41.77 Æ 11.85 6.48 Æ 0.85
+
+À Holboellia coriacea
+
+LI 24.86 Æ 5.43 5.30 Æ 0.42 40.84 Æ 8.09 55.14 Æ 14.02 Red
+
+50.84 Æ 12.02 7.19 Æ 1.03
+
+À
+
+Kalopanax septemlobus
+
+ST 0.08 Æ 0.01 0.44 Æ 0.03 75.80 Æ 4.06
+
+5
+
+Purple 1.75 Æ 0.22
+
+2.67 Æ 0.24
+
+a H. dulcis bear fruits and seeds with fleshy fruit stalk. So weight and length of fruits were not measured. b The color-dimorphic fruits (the former is yellow and the latter is red). CT canopy tree, ST subcanopy tree, SH shrub, LI liana.
+
+1598
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+holding cages were checked for seed presence at 15 min intervals. When each the feeding trial concluded, we established that all subjects looked remained in good health and had not suffered any significant weight variation (Wilcoxon signed ranks test: P > 0.5). All animals were released at the site of capture. In order to estimate the longer-term impacts of captivity during the feeding trials, a ferret-badger was radio-tracked in 2005 and continued to thrive in the wild for at least the next year, at which time our radio-transmitter battery was spent. The minimal (time elapsed until the first seed was defecated), maximal (time elapsed until the first seed was defecated) and average (the mean time elapsed when all seeds were recovered) seed passage time were calculated.
+3.3. Seed germination study
+To assess the efficiency of endozoochorous dispersal by M. moschata, we carried out a study of seeds germination for the six main plant species detected in faeces in comparison to seeds obtained directly from wild plants. The experimental design varied with the availability of ingested seeds. All seeds of C. scandens, Actinidia chinensis, H. dulcis and D. japonica in faeces were pooled. For the first two species, five samples of 100 seeds were randomly chosen for germination trials; and for the two latter species, all seeds were randomly averaged to five samples. In the cases of D. capitata and D. lotus, due to very few seeds in faeces, the ingested seeds were obtained based on a feeding trial conducted with three captive individuals and five samples of 50 and 30 seeds were randomly chosen. Five samples of control seeds were also collected directly from wild plants. All seeds were placed in Petri dishes containing moist filter paper. No fungicide was used to protect seeds against mould. The five replicate sets of each species were placed in five different incubators. The Petri dishes were inspected and watered daily and germinated seeds were counted and removed when the radicle reached 2 mm long and had a normal appearance to reduce possible interactive effect on un-germinated seeds. After two weeks all the seeds infected with fungi were removed from the dishes. The germination process was monitored for approximately 6 months. Checking was terminated when no seeds with visible live radicles were observed for two consecutive weeks, except for two seeds of H. dulcis.
+3.4. Data analysis
+Data are presented as means Æ standard error, unless otherwise stated; and all data were tested for normality prior to analysis. SPSS 13.0 was used for all statistical tests. Variations in frequency of occurrence of seed-bearing faeces were analyzed using Univariate Analysis of Variance of General Linear Models (GLM) and the level of significance of multiple comparisons was assessed using Bonferroni corrections.
+In order to estimate preferential fruit and seed selection by M. moschata, three tests were performed. First, Spearman rank correlation coefficient was used to estimate the relationship between frequencies of faecal samples with seeds for each species and their morphological characteristics. For all foraged
+
+vs. not foraged fruits, Mann­Whitney tests were used for testing for morphological differences. As a consequence of seasonal variation in fruit ripening dates in our study site (Song and Liu, 1999), ferret-badgers forage for fruits according to a seasonal pattern. Therefore, we also employed the Wilcoxon Signed Ranks test to examine for morphological differences with month as a sample unit for foraged vs. not foraged fruits. In order to estimate preferential selection of individual seeds within the same plant species, we compared the dispersed seeds with seeds collected from fruits using T-tests. Plant inter-specific and individual-specific animal differences in passage time were analyzed with Univariate Analysis of Variance of general linear models (GLM). To estimate the intra-specific difference in seed passage time, one-way ANOVA was employed. Differences between germination percentage in scats and controls were analyzed using a nonparametric two related samples test.
+4. Results
+4.1. Faecal analysis
+A total of 163 faecal samples were collected during the study periods: 71 in 2004 and 92 in 2005/2006. 58.28% of the fecal samples were collected in the logged forest habitat, 25.77% at the primary forest, and 15.95% in the selectively logged forest. No faeces were collected in forest plantation and farmland. Faeces were primarily deposited on rock outcrops (38.04%), rocky soils (22.70%), gravel mounds (22.09%), fertile soils (14.11%) and fallen deadwood (3.07%).
+Seeds representing at least eight plant species (five woody, two lianas and one unidentified species) were found in 54 (33.13%) of the faecal samples. The variety of seed species was 1.26 Æ 0.44 per faeces. Frequencies of seed-bearing faecal samples differed monthly: the lowest (66.67%) in August 2004 and the highest (5.56%) in October 2005. Seeds were defecated mainly from September to December (96%), and two species' seeds predominated in each month. For example, D. japonica and C. scandens seeds frequently occurred in September (Table 2). One seed of Prunus salicina was found, despite its fruits and seeds being very large and apparently beyond the `gape limitation' for ferret-badgers (Wheelwright, 1985; Jordano, 2000; Lord, 2004). An unidentified species was also detected in one faece (Table 2).
+The general linear model for the frequency of seed-bearing faecal samples, with forest type and deposition site as independent variables, was significant (F = 5.853, P = 0.013, d.f. = 6, 14). Principal effects of forest type were significant (F = 12.014, P = 0.001, d.f. = 2) with the highest frequency of seedbearing faeces in primary forest habitats compared to the selectively logged forest (P = 0.010) and logged forest (P = 0.007) (Table 2). By contrast, interactions with deposition site were not statistical significant (F = 2.772, P = 0.103, d.f. = 4).
+4.2. Morphological variations between fruits
+Morphological characteristics of fruits and seeds from 18 plants, consisting of twelve woody and six liana species, were
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+1599
+
+Table 2 Variation in the occurrence of fecal samples with seeds for each species in different habitats and months in Houhe National Nature Reserve, central China
+
+N, number of faeces with seeds. FO, frequency of occurrence.
+
+measured. Fruit weight and length ranged from 0.08 to 37.82 (8.41 Æ 11.63, n = 17) g and 0.44 to 93.09 (7.72 Æ 22.08, n = 17) mm, respectively. Mean percentages of fruit-pulp were high (62.51 Æ 17.76, n = 18). Seeds per fruit averaged 47.52 Æ 61.80 (ranged from 1 to 184). These fruits were frequently red and/or yellow in colour. Mean weight and length of seeds were 66.63 mg and 5.61 mm, respectively. The seed of P. salicina was the largest among the 18 species (Table 1).
+Fruits of seven species selected in the Chinese ferretbadger's diet had a high proportion of fresh pulp (>50%) and the number of seeds within a fruit (except P. salicina, with only one seed per fruit). Spearman correlation tests showed that the percentage of fruit-pulp for species selected during foraging was greater than those that were not foraged. However, Mann­ Whitney's U-tests did not exhibit similar results: seeds per fruit differed significantly while the percentage of fruit-pulp did not. Considering the characteristics of foraged species vs. not foraged species in one month as a sampling unit, the proportion of fresh pulp and the number of seeds in a fruit of foraged species was greater than those that were not foraged (Wilcoxon signed ranks test) (Table 3).
+In the analysis of seed size, which included six species for which we measured the length and weight of dispersed and undispersed seeds, we found evidence of seed selection in only
+
+instance. Of interest, selection was not observed for the small and medium seeded (<10 mm) species analyzed (P > 0.05 in all species). Seed selection was found for the large-seeded species, D. lotus, where ferret-badgers preferred to ingest smaller seeds (Fig. 2). For P. salicina, since only one seed was detected in all faecal samples, generalization about seed selection by M. moschata was not possible; yet this seed length (15.02 mm) and weight (540 mg) was smaller than the mean (Table 1), indicating that ferret-badgers probably also selected for small seeds of P. salicina.
+4.3. Seed passage time
+The mean passage time of the seeds was 3.53 (Æ1.06) h with the longest time (8.78 h) recorded for C. scandens and shortest time for H. dulcis (40 min). The range of average gut passage rate for seeds varied between 3.02 and 3.86 h by plant species and from 2.52 to 3.82 h by individual ferret-badger, however the standard deviation was quite high, indicating a considerable variation in passage time by plant species and for individual animals. Gut passage times were not statistically different (F = 1.38, P > 0.1, d.f. = 16, 112) among the fleshy-fruited species and for individual animals (F = 0.68, P > 0.1, d.f. = 3, and F = 1.44, P > 0.1, d.f. = 6, respectively). For H. dulcis, the
+
+Table 3 Morphological difference in fleshy fruit characteristics between species foraged and not foraged by Melogale moschata at Houhe National Nature Reserve, central China
+
+Foraged (n = 6 or 7)
+
+Not foraged (n = 11)
+
+Spearman correlation tests
+
+Mann­Whitney's tests
+
+Wilcoxon signed ranks tests
+
+RP
+
+ZP
+
+ZP
+
+Fruit Weight (g) Length (cm) Percent of fruit-pulp (%) Seeds per fruit
+
+7.40 Æ 7.08 2.33 Æ 0.94 69.91 Æ 10.53 61.10 Æ 82.00
+
+8.97 Æ 13.80 10.66 Æ 27.44 57.80 Æ 20.18 38.88 Æ 47.41
+
+0.058 0.058 0.236 0.709
+
+0.913
+0.913
+0.610 0.074*
+
+1.404 0.679 1.817 0.000
+
+0.160
+0.497 0.069*
+1.000
+
+0.000 0.730 2.023 2.023
+
+1.000
+0.465 0.043* 0.043*
+
+Seed Weight (mg) Length (mm)
+* P < 0.1.
+
+131.23 Æ 234.70 6.66 Æ 4.95
+
+25.52 Æ 30.79 4.94 Æ 2.35
+
+0.600 0.600
+
+0.154 0.154
+
+1.239 0.868
+
+0.215 0.364
+
+1.483 0.944
+
+0.138 0.345
+
+1600
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+Fig. 2. Contrast between the sizes of ingested seeds by M. moschata and of seeds directly collected from the adult trees of D. lotus. Solid and hollow draft represented ingested and control seeds.
+
+passage time of seeds was also not significantly different (ANOVA: F = 0.91, P > 0.1, d.f. = 9, 77), revealing a nonstatistical intraspecific variation.
+
+4.4. Germination potential of dispersed seeds
+Except for C. scandens, the other five endozoochorously dispersed seed species all germinated after defecation. However, seeds of three species rarely germinated in both control and gut-passage samples (only one seed for D. japonica, three seeds in two samples for one A. chinensis, eight seeds in three samples for D. capitata), thus we were unable to calculate their germination percentage. For D. lotus, ingested seeds had a lower germination percentage than control seeds (Wilcoxon Signed Ranks Test: Z = À2.203, P = 0.043, Fig. 3a). By contrast, although seeds of H. dulcis seemed to germinate better than seeds from wild parental trees after ingestion (Fig. 3 b), no statistical difference was detected (Wilcoxon Signed Ranks Test: Z = À1.483, P > 0.05).
+5. Discussion
+5.1. Fruit consumption and selection
+Faecal analysis revealed that ferret-badgers consume fruits during the whole study period from September to December. Previous investigations indicate that fruits are not the primary component of the diet of M. moschata; earthworms, insects and amphibians were the most common food items (Qian et al., 1976; Chuang and Lee, 1997; Wu, 1999). In our focal study areas, seed contents in the faeces were found mainly in autumn (>50% of occurrences), coinciding with fruit availability (Song and Liu, 1999). These results are similar to studies of the European badger (Meles meles) by Pigozzi (1991, 1992) who reported that fruits were the major component of the diet of European badgers in a Mediterranean region of central Italy, and consumption reflected the seasonal patterns of fruit availability.
+A comparison of fruit morphology and fruit choice suggests that the Chinese ferret-badger tends to prefer fleshier fruits.
+
+Fig. 3. Germination rate curves for D. lotus (a) and H. dulcis (b) seeds in Houhe NNR, China. Cumulative germination percentages are given on the y-axis. Square, rhombus and round were under 23, 25 and 27 8C. Solid and hollow draft represented ingested and control seeds.
+Similar results have also been reported for other frugivorous carnivore species in Spain (Herrera, 1989; Bermejo and Guitian, 2000), Hong Kong (Corlett, 1996), Thailand (Kitamura et al., 2002) and Japan (Otani, 2002). However in North America, Willson (1993) found the opposite result.
+Fruit colour and size was found not to influence the fruit choices made by M. moschata (Table 1; Table 3). Ferretbadgers have poor vision and potentially cannot detect and distinguish fruit colour. More probably they locate food by olfaction (Zheng, 1987). During captivity, ferret-badgers readily consumed larger cultivated fruits (persimmons, apples and bananas), eating them in several mouthfuls, suggesting that fruit size is not a limiting factor.
+Although there were no differences in the morphological characteristics of defecated seeds compared to the control (Table 3), the preference for multi-seeded fruit species and the occurrence of small seeds of two large-seed species in the Chinese ferret-badger's diet might be indicate a limitation to their capacity to disperse seeds. This might be explained by the relatively small bite-gape of M. moschata, termed gape limitation, which prevents the consumption of large seeds.
+5.2. Legitimacy of the Chinese ferret-badger as a seeddisperser
+The absence of broken-down seed and seed coat material in all faecal samples analysed indicates that ferret-badgers do not damage seeds during the mastication process or the passage through the gut. This might be explained by the structure of the sectorial teeth of carnivores which are not evolved to crush and
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+1601
+
+grind seeds (Otani, 2002). Seed germination occurred in five of the six plant species tested. These results supported the proposition that the Chinese ferret-badger is a legitimate seed-disperser (i.e. they defecated viable seeds), using the terminology of Herrera (1989), Reid (1989) and Bustamante et al. (1992).
+Variation in seed germination success as a product of digestion is related to the animal species that consumes the seed (Traveset and Verdu´, 2002). Carnivore gut processes usually enhance or is benign to seed germination, i.e. it generally does not compromise seed viability (Traveset, 1998; Auger et al., 2002; Schaumann and Heinken, 2002; Juan et al., 2006; Varela and Bucher, 2006). The results for H. dulcis are similar to those observed in the other studies, listed above, i.e. more successful germination rates resulting from digestion when compared to the control. This is more likely due to abrasion and chemical decomposition of the seed coat increasing seed permeability to water and possibly oxygen (cf. a review by Traveset, 1998 and the list of literature). Conversely, some recent articles report that carnivore gut processes have been noted to inhibit seed germination (Cypher and Cypher, 1999; Motta-Junior and Martins, 2002; Graae et al., 2004; Silva et al., 2005); the results on D. lotus support these studies. This may be explained by the ferret-badgers' preference for the small seeds of D. lotus (Fig. 2), and by the very thin seed coat of D. lotus. Cordazzo (2002) and Alca´ntara and Rey (2003) report that small seeds have low germination percentages when compared to larger seeds within a plant species. Schaumann and Heinken (2002) additionally report that the thin seed coats of some species might be heavily impacted by abrasion and chemical decomposition during gut transit making them more susceptible to fungal infection.
+5.3. Effectiveness of seed dispersal
+Seed disperser effectiveness does not only depend on the quantity of dispersed viable seeds, but also on the quality of faecal deposition, i.e. microsite selection and dispersal distance (Bustamante et al., 1992; Schupp, 1993). In our study area, scats were frequently deposited in open habitat (rock outcroppings, gravel mounds and rocky soils), probably as a territory demarcation behaviour (Hutchings and White, 2000). This suggests that ferret-badgers take the seeds to non-random, rocky, dry, nutrient poor sites that are not well-suited to seed establishment and growth. Seeds were also deposited in open habitats. These habitats were ``unsafe sites'' for seed establishment, since seed germination and seedling survival rates were reduced by desiccation and seed predators (Bustamante et al., 1992). However, several animal-dispersed woody plant species require sites with direct sunlight exposure for successful germination and subsequent seedling establishment (e.g. Somarriba, 1986; Brown and Archer, 1987; Grice, 1996; Schiferaw et al., 2004; Varela and Bucher, 2006). Some scats and seeds were defecated in fertile soils and ``nursery logs'' (fallen deadwood), which were nutrient rich and well-suited to seed establishment and growth.
+The most important role of vertebrate seed dispersal is the transport of viable seeds away from parent plants to particular
+
+microsites and/or recently opened patches where the conditions may be favorable for seedling growth and establishment (Howe and Miriti, 2000; Varela and Bucher, 2006). In general, carnivores have relatively long daily foraging routes with large home ranges (Harestad and Bunnell, 1979; Lindstedt et al., 1986; Nowak, 2004) and relatively long seed retention times in their digestive tracts (Hickey et al., 1999; Graae et al., 2004; Varela and Bucher, 2006). These factors combine to facilitate seed dispersal over larger areas. Ferret-badgers in China were specifically found to have relatively long retention times (0.8­5.9 h) and large home ranges with long daily travel distances (Wang, 1999; Wang and Fuller, 2003), and thus disperse seeds over long distances.
+A study by Moore and Swihart (2007) showed that habitat fragmentation might not disrupt the dispersal of certain plant species if losing fragmentation-sensitive animal from disturbed landscapes is compensated for by fragmentation-tolerant plant species. The Chinese ferret-badger is a fragmentation-sensitive species and prefers disturbed habitats, especially around human settlements and farmland (Wang, 1999; Wang and Fuller, 2003). Ferret-badger faeces were commonly found in degraded habitats in our study area (Table 2) and were frequently associated with human settlements, especially in winter (Unpublished data). Consequently, ferret-badgers might be effective at transporting the seeds of several species into forest stands. However, frequencies of faecal samples bearing seeds in the primary forests were higher than in disturbed forest (Table 2). This is potentially due to the abundance of fruits available in primary forests compared to disturbed forest (Unpublished data).
+5.4. Role in forest recruitment and regeneration: implications for conservation
+Mustelids such as the Eurasian badger (M. meles), the hog badger (Arctonyx collaris) and Sibirican weasel (Mustela sibirica) demonstrate the behaviour of digging for prey, especially in autumn when insects and amphibians hibernate underground and fruits are also ripe. After obtaining prey, they dig funnel-like pits on the forest floor (Nowak, 2004). A study by Gao and Sun (2005) showed that these pits dug by Mustelids could enhance the recruitment and survival of Liaodong oak (Quercus wutaishanica) seedlings by acting as ``seed traps''. Small pits (diameter < 15 cm) had a greater capacity to trap seeds than large ones (diameter > 15 cm) (Gao and Sun, 2005). Similarly, the Chinese ferret-badger may also enhance seedling survival and recruitment due to its behaviour of digging for food (Zheng, 1987) and the relatively small pits they dig.
+The Chinese ferret-badger is not well protected by either local forest managers or the local residents living in the forest areas of China (Wang et al., 2004). Ferret-badgers are often hunted for their skins and meat (Sheng, 1993). As this study revealed, the endozoochorous seed dispersal and foraging activities of M. moschata can directly benefit forest recruitment and regeneration, thus action should be taken to protect the Chinese ferret-badger and increase their populations in forest ecosystems. Due to the important of forest conservation, future studies on the Chinese ferret-badger's role in forest recruitment
+
+1602
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+and regeneration should focus on: (i) the quantitative efficiency of the Chinese ferret-badger as an endozoochorous seed disperser; (ii) the effects of its digging behaviour while foraging on enhancing the seed bank and on seedling survival; (iii) its contribution as fragmentation-tolerant species on the regeneration of degraded forests.
+This study is the first systematic report of the frugivory and seed dispersal by the Chinese ferret-badger in a subtropical forest, where fruits are abundant in summer and autumn and very scarce during other seasons (Song and Liu, 1999). Although classed as a carnivore, fruits were their primary food source from September to December and intact seeds were frequently defecated. In tropical areas, where M. moschata is also common (Rabinowitz and Walker, 1991; Wozencraft, 2005), fruits are available throughout the year, but so far no systematic dietary studies examining their potential as seed dispersers have been conducted in this habitat. Therefore, complementary studies in tropical areas are called for, in an effort to gain a more complete understanding of frugivory and seed dispersal by the Chinese ferret-badger.
+Acknowledgements
+This study was financially supported by the Kadoorie Farm and Botanic Garden, Hong Kong Special Administrative Region, China to YB Zhou, and Trans-century training program foundation for the talents by the state education commission, China to XM Wang. We are grateful to the State Forestry Administration, China and the Houhe Nature Reserve Administration Bureau, for granting us permission to conduct this study. We thank the personnel of Houhe Nature Reserve, and Prof. Shu-Yi Zhang, Prof. Han-Zhong Wang, Dr. Xu-Sheng Liu, Mr. Jian Wang, Mr Jin-Shuo Zhang, Mr. Guan-Jun Yu and Mr. Feng Luo for their assistance during the fieldwork. We thank Prof. Jin Chen, Prof. Min Cao, Dr. Zhan-Hui Tang, Miss. Wei-Xiu Li and Mrs. Bing Liang for their help during the lab work. We thank Prof Jian­Zhong Song for assistance in identification of prey in fecal samples. We also thank Prof. JaiChyic Pei, Dr. Tom Dahmer, Dr. Haibing Wang, Dr. Phil Myers and Dr. Bev Dole for helping us with literature reviews and Mr. Jeremy Rappleye for his linguistic assistance.
+References
+Alca´ntara, J.M., Rey, P., 2003. Conflicting selection pressures on seed size: evolutionary ecology of fruit size in a bird­dispersed tree, Olea europea. J. Evol. Biol. 16, 1168­1176.
+Aronne, G., Russo, D., 1997. Carnivorous mammals as seed dispersers of Myrtus communis (Myrtaceae) in the Mediterranean shrublands. Plant Biosyst. 131, 189­195.
+Association for the Study of Animal Behaviour, 2003. Guidelines for the treatment of animals in behavioural research and teaching. Anim. Behav. 65, 249­255.
+Auger, J., Meyer, S.E., Black, H.L., 2002. Are American black bears (Ursus americanus) legitimate seed dispersers for fleshy­fruited shrubs? Am. Midl. Nat. 147, 352­367.
+Bermejo, T., Guitian, J., 2000. Fruit consumption by foxes and martens in NW Spain in autumn: a comparison of natural and agricultural areas. Folia Zool. 49, 89­92.
+
+Brown, J.R., Archer, S., 1987. Woody plant seed dispersal and gap formation in a North subtropical savanna woodland: the role of domestic herbivores. Vegetatio 73, 73­80.
+Bustamante, R.O., Simonetti, J., Mella, J.E., 1992. Are foxes legitimate and efficient seed dispersers? A field test. Acta Oecol. 13, 203­208.
+Campos, C.M., Ojeda, R.A., 1997. Dispersal and germination of Prosopis flexuosa (Fabaceae) seeds by desert mammals in Argentina. J. Arid Environ. 35, 707­714.
+Chapman, C.A., Russo, S.E., 2006. Primate seed dispersal: linking behavioural ecology and forest community structure. In: Bearder, S., Campbell, C.J., Fuentes, A., MacKinnon, K.C., Panger, M. (Eds.), Primates in Perspective. Oxford University Press, Oxford, pp. 510­525.
+Chuang, S., Lee, L., 1997. Food habits of three carnivore species (Viverricula indica, Herpestes urva, and Melogale moschata) in Fushan Forest, Northern Taiwan. J. Zool. Lond. 243, 71­79.
+Cordazzo, C.V., 2002. Effect of seed mass on germination and growth in three dominant species in Southern Brazilian coastal dunes. Braz. J. Biol. 62, 427­435.
+Corlett, R.T., 1996. Characteristics of vertebrate-dispersed fruits in Hong-Kong. J. Trop. Ecol. 12, 819­833.
+Cypher, B.L., Cypher, E.A., 1999. Germination rates of tree seeds ingested by coyotes and raccoons. Am. Midl. Nat. 142, 71­76.
+Debussche, M., Isenmann, P., 1989. Fleshy fruit characters and the choices of bird and mammal seed dispersers in a Mediterranean region. Oikos 56, 327­ 338.
+Fowler, N.L., 1988. What is a safe site? Neighbour, litter, germination date and patch effects. Ecology 69, 947­961.
+French, K., 1996. The gut passage rate of silvereyes and its effect on seed viability. Corella 20, 16­19.
+Gao, X., Sun, S., 2005. Effects of the small forest carnivores on the recruitment and on survival of Liaodong oak (Quercus wutaishanica) seedlings. For. Ecol. Manage. 206, 283­292.
+Graae, B.J., Pagh, S., Bruun, H.H., 2004. An experimental evaluation of the Arctic Fox (Alopex lagopus) as a seed disperser. Arct. Antarct. Alp. Res. 36, 468­473.
+Grice, A.C., 1996. Seed production, dispersal and germination in Cryptostegia grandiflora and Ziziphus mauritiana, two invasive shrubs in tropical woodlands of northern Australia. Aust. J. Ecol. 21, 324­331.
+Howe, H.F., Smallwood, J., 1982. Ecology of seed dispersal. Ann. Rev. Ecol. Syst. 13, 201­228.
+Harestad, A.S., Bunnell, F.L., 1979. Home range and body weight: a reevaluation. Ecology 60, 389­402.
+Herrera, C.M., 1989. Frugivory and seed dispersal by carnivorous mammals, and associated fruit characteristics, in undisturbed mediterranean habitats. Oikos 55, 250­262.
+Hickey, J.R., Flynn, R.W., Buskirk, S.W., Gerow, K.G., Willson, M.F., 1999. An evaluation of a mammalian predator, Martes americana, as a disperser of seeds. Oikos 87, 499­508.
+Howe, H.F., Miriti, M.N., 2000. No question: seed dispersal matters. Trends Ecol. Evol. 15, 434­436.
+Hutchings, M.R., White, P.C.L., 2000. Mustelid scent-marking in managed ecosystems: implications for population management. Mammal Rev. 30, 157­169.
+Janson, C.H., 1983. Adaptation of fruit morphology to dispersal agents in a Neotropical forest. Science 219, 187­189.
+Janzen, D.H., Miller, G.A., Hackforth­Jones, J., Pond, C.M., Hooper, K., Janos, D.P., 1976. Two Costa-Rican bat-generated seed shadows of Andira inermis (Leguminosae). Ecology 57, 1068­1075.
+Jordano, P., 1995. Frugivore-mediated selection on fruit and seed size: birds and St. Lucie's cherry, Prunus mahaleb. Ecology 76, 2627­2639.
+Jordano, P., 2000. Fruits and frugivory. In: Fenner, M. (Ed.), Seed ­ The Ecology of Regeneration in Plant Communities. CAB International, Wallingford, pp. 125­165.
+Juan, T., Sagrario, A., Jesu´s, H., Cristina, C.M., 2006. Red fox (Vulpes vulpes L.) favour seed dispersal, germination and seedling survival of Mediterranean Hackberry (Celtis australis L.). Acta Oecol. 30, 39­45.
+Kitamura, S., Yumoto, T., Poonswad, P., Chuailua, P., Plongmai, K., Maruhashi, T., Noma, N., 2002. Interactions between fleshy fruits and
+
+Y.-B. Zhou et al. / Forest Ecology and Management 255 (2008) 1595­1603
+
+1603
+
+frugivores in a tropical seasonal forest in Thailand. Oecologia 133, 559­ 572. Lindstedt, S.L., Miller, B.J., Buskirk, S.W., 1986. Home range, time, and body size in mammals. Ecology 67, 413­418. Lord, J.M., 2004. Frugivore gape size and the evolution of fruit size and shape in southern hemisphere floras. Aust. Ecol. 29, 430­436. Moore, J.E., Swihart, R.K., 2007. Importance of fragmentation-tolerant species as seed dispersers in disturbed landscapes. Oecologia 151, 663­674. Motta-Junior, J.C., Martins, K., 2002. Frugivorous diet of the maned wolf, Chrysocyon brachyurus, in Brazil: ecology and conservation. In: Levey, D.J., Silva, W.R., Galetti, M. (Eds.), Seed Dispersal and Frugivory: Ecology, Evolution and Conservation. CAB International, Wallingford, pp. 291­303. Nowak, R.M., 2004. Walker's Carnivores of the World. The Johns Hopkins University Press, Washington. Otani, T., 2002. Seed dispersal by Japanese marten Martes melampus in the subalpine shrubland of northern Japan. Ecol. Res. 17, 29­38. Pei, K., 1998. An evaluation of using auto-trigger cameras to record activity patterns of wild animals. Taiwan J. For. Sci. 13 (4), 317­324. Pei, K., 2001. Daily activity budgets of the Taiwan ferret badger (Melogale moschata subaurantiaca) in captivity. End. Sp. Res. 3, 1­11. Pei, K., Wang, Y., 1995. Some obervations on the reproduction of the Taiwan ferret badger (Melogale moschata subaurantiaca) in southern Taiwan. Zool. Stud. 34 (2), 88­95. Pigozzi, G., 1991. The diet of the European badger in a Mediterranean coastal area. Acta Theriol. 36, 293­306. Pigozzi, G., 1992. Frugivory and seed dispersal by the European badger in a Mediterranean habitat. J. Mamm. 73, 630­639. Qian, G., Sheng, H., Wang, P., 1976. The winter diet of ferret badger. Chinese J. Zool. 20 (1), 37. Rabinowitz, A., Walker, S., 1991. The Carnivore Community in a Dry Tropical Forest, Mosaic in Huai Kha Khaeng Sanctuary, Thailand. J. Trop. Ecol. 7, 37­47. Russo, S.E., Portnoy, S., Augspurger, C.K., 2006. Incorporating animal behavior into seed dispersal models: implications for seed shadows. Ecology 87, 3160­3174. Reid, N., 1989. Dispersal of mistletoes by honeyeaters and flowerpeckers: components of seed dispersal quality. Ecology 70, 137­145. Sato, J.J., Hosoda, T., Wolsan, M., Suzuki, H., 2004. Molecular phylogeny of arctoids (Mammalia: Carnivora) with emphasis on phylogenetic and taxonomic positions of the ferret-badgers and skunks. Zool. Sci. 21, 111­118. Schaumann, F., Heinken, T., 2002. Endozoochorous seed dispersal by martens (Martes foina, M. martes) in two woodland habitats. Flora 197, 370­378. Schiferaw, H., Teketay, D., Nemomissa, S., Assefa, F., 2004. Some biological characteristics that foster the invasion of Prosopis juliflora (Sw.) DC at Middle Awash Rift Valley Area, north-eastern Ethiopia. J. Arid Environ. 58, 135­154. Schupp, E.W., 1993. Quantity, quality and the effectiveness of seed dispersal by animals. Vegetatio (107/108), 15­29. Seefeldt, R., 2003. Melogale moschata (On-line), Animal Diversity Web. Available at http://animaldiversity.ummz.umich.edu/site/accounts/information/Melogale_moschata.html.
+
+Sheng, H., 1982. Daily rhythmic behavior of the ferret badger. Acta Theriol. Sinica 28 (2), 132.
+Sheng, H., 1993. Human impact on carnivore populations. In: Xia, W.P., Zhang, J. (Eds.), The Successional Changes of Mammals in China Under the Influence of Human Activities. China Science and Technology Press, Beijing, pp. 32­39.
+Silva, S.I., Bozinovic, F., Jaksic, F.M., 2005. Frugivory and seed dispersal by foxes in relation to mammalian prey abundance in a semiarid thornscrub. Aust. Ecol. 30, 379­746.
+Somarriba, E., 1986. Effects of livestock on seed germination of guava (Psidium guajava L.). Agroforest Syst. 4, 233­238.
+Song, C.S., Liu, S.X., 1999. Scientific Survey of Houhe Nature Reserve Hubei. China Forestry Publishing House, Beijing.
+Traveset, A., 1998. Effect of seed passage through vertebrate frugivores' guts on germination: a review. Perspect. Plant Ecol. Evol. Systemat. 1/2, 151­190.
+Traveset, A., Verdu´, M., 2002. A meta-analysis of the effect of gut treatment on seed germination. In: Levey, D.J., Silva, W.R., Galetti, M. (Eds.), Seed Dispersal and Frugivory: Ecology, Evolution and Conservation. CAB International, Wallingford, pp. 339­350.
+Wang, H.B., 1999. Wildlife conservation in rural southeastern china: wildlife harvest and the ecology of sympatric carnivores. Ph.D. thesis, University of Massachusetts, Amherst.
+Wu, H.Y., 1999. Is there current competition between sympatric Siberian weasels (Mustela sibirica) and ferret badgers (Melogale moschata) in a subtropical forest ecosystem of Taiwan? Zool. Stud. 38 (4), 443­451.
+Wang, H., Fuller, T.K., 2003. Ferret badger Melogale moschata activity, movements, and den site use in southeastern. Acta Theriol. 48 (1), 73­78.
+Wang, S., Zhou, J., Xie, Y., 2004. Ferret badger. In: Wang, S., Xie, Y. (Eds.), China Species Red List. Higher Education Press, Beijing, p. 295.
+Wang, W.X., Fu, Y.S., Yang, Y., Cheng, J., Li, X.Y., 1997. Floral characteristics of the Houhe Nature Reserve in the southwest Huibei. J. Wuhan Bot. Res. 15, 353­362.
+Westcott, D.A., Bentrupperbaumer, J., Bradford, M.G., McKeown, A., 2005. Incorporating patterns of disperser behaviour into models of seed dispersal and its effects on estimated dispersal curves. Oecologia 146, 57­67.
+Weir, J.E.S., Corlett, R.T., 2007. How far do birds disperse seeds in the degraded tropical landscape of Hong Kong, China? Landscape Ecol. 22, 131­140.
+Wheelwright, N.T., 1985. Fruit size, gape width, and the diets of fruit­eating birds. Ecology 66, 808­818.
+Willson, M.F., 1993. Mammals as seed-dispersal mutualists in North America. Oikos 57, 159­176.
+Willson, M.F., Traveset, A., 2000. The Ecology of Seed Dispersal. In: Fenner, M. (Ed.), Seed ­ The Ecology of Regeneration in Plant Communities. CAB International, Wallingford, pp. 85­110.
+Wozencraft, W.C., 2005. Genus Melogale. In: Wilson, D., Reeder, D.M. (Eds.), Mammal Species of the World. Johns Hopkins University Press, pp. 612­613.
+Varela, O., Bucher, E.H., 2006. Passage time, viability, and germination of seeds ingested by foxes. J. Arid Environ. 67, 566­578.
+Zheng, Y., 1987. Ferret badger. In: Gao, Y. (Ed.), Fauna Sinica Mammalia, vol. 8. Carnivora. Science Press, Beijing, pp. 206­213.
+
+

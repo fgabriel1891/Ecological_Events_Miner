@@ -10,8 +10,7 @@
 
 shinyServer(function(input, output, session) {
   
-  if (!require("pacman")) install.packages("pacman")
-  pacman::p_load(taxize, stringr, fulltext, wordcloud)
+
   
   # Define functions: 
   #
@@ -57,7 +56,7 @@ shinyServer(function(input, output, session) {
               
               return(df)
             }
-  
+ 
 #
 # Custom function to scrapenames, OCR the pdf and return a list of taxonomic entities found (including its identification at family and class) 
   # along with a list of "snippets" of the text of ~600 long that matches both the dictionary terms and the target species of the search. 
@@ -108,16 +107,6 @@ read <- eventReactive(input$GoButton,{
 
 })
 
-read2 <- eventReactive(input$selector2,{
-  fulltext::ft_extract(input$selector2)
-  
-})
-
-
-  
-  
-scinames2 <- eventReactive(input$selector2,{
-  taxize::scrapenames(text = read2()$data, all_data_sources = TRUE)})
 
 
 # Tab with Scientific Names found and count
@@ -155,10 +144,10 @@ scinames2 <- eventReactive(input$selector2,{
 
     output$Indexed.version <- DT::renderDataTable(
       
-      matrix(read()$text), server = TRUE)
+      matrix(read()$text), server = FALSE)
 
     output$plot <- renderPlot({
-      e = input$Indexed.version_rows_selected
+      #e = input$Indexed.version_rows_selected
 
     plot(read()$where,
            xlab = "String match rank", ylab = "Article lenght",
@@ -167,7 +156,7 @@ scinames2 <- eventReactive(input$selector2,{
            main = "position on the text")
            legend("topright", "Position of record \n along the text",pch = 16, 
           col = "#5ba966", bty = "y" )
-           if(length(e)) points(read()$where[e , drop = FALSE], pch = 19, cex = 2)
+           #if(length(e)) points(read()$where[e , drop = FALSE], pch = 19, cex = 2)
     })
 
 })
