@@ -59,8 +59,8 @@ shinyServer(function(input, output, session) {
  
 #
 # Custom function to scrapenames, OCR the pdf and return a list of taxonomic entities found (including its identification at family and class) 
-  # along with a list of "snippets" of the text of ~600 long that matches both the dictionary terms and the target species of the search. 
-  # Requires: a dictionary, a filter and the path where the article (pdf) is stored. This function calls the "Index" function and passes the arguments
+  # along with a list of "snippets" of the text of ~600 long that matches both the dictionary terms. 
+  # Requires: a dictionary and the path where the article (pdf) is stored. This function calls the "Index" function and passes the arguments
   # dictionary and verbatim = list of scientific names found with the taxize::scrapenames function.  
   
   readtext <- function(completePath2, dictionary){
