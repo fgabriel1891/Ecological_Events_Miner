@@ -1,0 +1,1902 @@
+Seediscussions,stats,andauthorprofilesforthispublicationat:https://www.researchgate.net/publication/236183178
+Frugivoryandseeddispersalbytapirs:An insightontheirecologicalrole
+ArticleinIntegrativeZoology·March2013
+DOI:10.1111/j.1749-4877.2012.00316.x·Source:PubMed
+
+CITATIONS
+32
+
+READS
+553
+
+3authors:
+GeorginaO'Farrill UniversityofToronto 12PUBLICATIONS65CITATIONS
+SEEPROFILE
+AhimsaCampos-Arceiz UniversityofNottingham,MalaysiaCampus 72PUBLICATIONS536CITATIONS
+SEEPROFILE
+
+MauroGaletti SãoPauloStateUniversity 221PUBLICATIONS4,525CITATIONS
+SEEPROFILE
+
+Someoftheauthorsofthispublicationarealsoworkingontheserelatedprojects:
+FrugivoryandSeedDispersalbyred-footedtortoiseChelonoidiscarbonariaViewproject
+IsotopicEcologyofMammalsinBrazilianBiomes:atoolimprovingmammalconservationView
+project
+
+AllcontentfollowingthispagewasuploadedbyMauroGalettion25December2013.
+Theuserhasrequestedenhancementofthedownloadedfile.Allin-textreferencesunderlinedinblueareaddedtotheoriginaldocument andarelinkedtopublicationsonResearchGate,lettingyouaccessandreadthemimmediately.
+
+Integrative Zoology 2013; 8: 4­17
+
+doi: 10.1111/j.1749-4877.2012.00316.x
+
+1 REVIEW
+2
+
+1 2
+
+33
+
+44
+
+5 6
+
+Frugivory
+
+and
+
+seed
+
+dispersal
+
+by
+
+tapirs:
+
+an
+
+insight
+
+on
+
+their
+
+5 6
+
+7 8
+
+ecological
+
+role
+
+7 8
+
+99
+
+10 
+
+10
+
+11 12
+
+Georgina O'FARRILL,1 Mauro GALETTI2 and Ahimsa CAMPOS-ARCEIZ3,*
+
+11 12
+
+13 1Department of Ecology and Evolutionary Biology, University of Toronto, Toronto, Ontario, Canada, 2Department of Ecology,
+
+13
+
+14 Paulista State University, Rio Claro, Brazil and 3Department of Biological Sciences, National University of Singapore, Singapore 15
+
+14 15
+
+16 16
+
+17
+18 Abstract
+
+17 18
+
+19 Tapirs are one of the last extant megafauna species that survived the Pleistocene extinctions. Given their size 19
+
+20 and digestive system characteristics, tapirs might be the last potential seed disperser of plant species that were 20
+
+21 previously dispersed by other large mammal species that are now extinct. We compiled evidence from 39 pub- 21
+
+22 lished scientific studies showing that tapirs have a key role as seed dispersers and seed predators. Tapirs play 22
+
+23 an important role either through seed predation or by facilitating the recruitment of seeds over long distances, 23
+
+24 therefore influencing the diversity of plant species in the ecosystem. Neotropical tapirs might have a unique role 24
+
+25 as long-distance seed dispersers of large seeds (<20 mm) because they are capable of depositing viable large 25
+
+26 seeds in favorable places for germination that even large-bodied primates cannot disperse. Given the high diver- 26
+
+27 sity of seed species found in tapir diet, more information is needed on the identification of seed traits that allow 27
+
+28 the survival of seeds in the tapir's gut. Moreover, further studies are necessary on the role of tapirs as seed dis- 28
+
+29 persers and predators; in particular considering spatial patterns of dispersed seeds, seed viability, effect of dung, 29
+
+30 and seed density in tapir latrines, and the effect of deposition sites on germination and seedling survival. Be- 30
+
+31 cause all tapir species are highly threatened, it is paramount to identify gaps in our knowledge on the ecological 31
+
+32 role of tapirs and, in particular, on critical and endangered plant­tapir interactions to avoid possible trophic cas- 32
+
+33 cading effects on ecosystem function.
+
+33
+
+34 34
+
+35 Key words: defaunation, ecological function, long-distance dispersal, megafaunal dispersal syndrome, trophic 35
+
+36 cascades
+
+36
+
+37 37
+
+38 38
+
+39 39
+
+40 41
+
+INTRODUCTION
+
+42 Seed dispersal is a key stage in the life cycle of plants 43 with profound implications for the succession, regener-
+44
+
+45
+
+46 47 Correspondence: Georgina O'Farrill, 3456 Joseph N. Drapeau 48 202, Montreal, Quebec H1X 3J1, Canada.
+49 Email: georgina.ofarrill@utoronto.ca 50 *Present address: School of Geography, University of
+
+51 Nottingham Malaysia Campus, Semenyih, Malaysia.
+
+ation and conservation of ecosystems (Wang & Smith
+
+40 41
+
+2002). Large-bodied frugivores play an important role 42
+
+shaping the structure of plant communities at differ- 43
+
+ent scales and maintaining plant diversity, because they 44
+
+are able to ingest more fruits, eat larger seeds and dis- 45
+
+perse them to larger distances than small bodied frugi- 46
+
+vores (Jordano et al. 2007; Guimãraes et al. 2008). One 47
+
+of these megafrugivores is the tapir (Tapirus spp., Peris- 48
+
+sodactyla).
+
+49
+
+Tapirs are one of the few species that survived the 50
+
+vast megafaunal extinctions of the Late Pleistocene, be- 51
+
+4 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+tween 50 000 and 10 000 years ago (Koch & Barnosky 2006). Tapirs (Tapiridae) are among the most primitive extant large mammals (Feldhamer et al. 2007). At least 22 species of tapirs were known between the Oligocene and the Pleistocene and were distributed worldwide (Janis 1984). Today, there are only 4 extant tapir species, all of them included in the genus Tapirus. Of these, 3 species are distributed in the American continent, Baird's tapir [Tapirus bairdii (Gill, 1865)], the lowland tapir [Tapirus terrestris (Linnaeus, 1758)] and the mountain tapir [Tapirus pinchaque (Roulin, 1829)], and 1 in Asia, the Malayan tapir (Tapirus indicus Desmarest, 1819). All tapir species are considered threatened by poaching, fragmentation and habitat loss (see www.redlist.org), so it is paramount to understand their role in forest succession and regeneration.
+In the present study, we review the role of tapirs in the seed dispersal process. In particular, we look for broad scale patterns and particularities that could explain their frugivorous habits in different environments, the effects of tapir gut passage on seed viability and the spatial seed deposition patterns provided by tapirs. Ultimately, we show that the fruit diet of tapirs varies among ecosystems and populations with no clear pattern. We identify gaps in our knowledge that are key for the understanding of the importance of the ecological role of tapirs and the potential consequences of their extinction.
+
+and, therefore, are potential seed dispersers and preda- 1
+
+tors (Bodmer 1990; Rodrigues et al. 1993; Fragoso & 2
+
+Huffman 2000; Tobler et al. 2010). The relative occur- 3
+
+rence of fruits in the tapir's diet ranges from 3% in Gua- 4
+
+temala for the Baird's tapir (García-Vettorazzi 2006) to 5
+
+33% in the Amazonian Peru for the lowland tapir (Bod- 6
+
+mer 1991; Fig. 1). The low relative occurrence of fruits 7
+
+in the tapir diet might be associated with the availabili- 8
+
+ty of fallen fruits, season, productivity, competition with 9
+
+other ungulates (e.g. peccaries) and fruit selection; how- 10
+
+ever, further studies are necessary to identify the factors 11
+
+that influence the degree of frugivory of tapirs along 12
+
+their distribution range.
+
+13
+
+14
+
+PLANT DIVERSITY
+
+15 16
+
+The diversity of plant species dispersed is an impor- 17
+
+tant component of the community-level effectiveness 18
+
+of a seed disperser (Bascompte et al. 2003; Dennis & 19
+
+Westcott 2006). Tapirs consume a wide variety of plant 20
+
+species (Schupp et al. 2010), which might be determin- 21
+
+ing their variable role as seed dispersers and predators 22
+
+among habitats and populations (Table 1). For instance, 23
+
+lowland tapirs have been reported to eat more than 460 24
+
+plant species in the Neotropical region, with fruits from 25
+
+194 plant species (Hibert et al. 2011), many of which 26
+
+are not dispersed by Ateline primates. For Baird's tapir, 27
+
+seeds of as many as 81 species (33 families) have been 28
+
+reported in tapir dung, with 67 species reported with vi- 29
+
+FRUGIVORY
+
+able or intact seeds (Table S1). In French Guiana, Hi- 30 bert et al. (2011) found 42 identified and 16 unidenti- 31
+
+The relative occurrence of fruits versus plant vegetative parts in tapir diet varies among habitats, biomes and populations; however, all tapir species eat fruits,
+
+fied fruit species as part of the lowland tapir; however, 32 the fate of the seeds in the dung is not reported. In the 33 most comprehensive study to date, Downer (2001) stud- 34
+35
+
+36
+
+37
+
+38
+
+39
+
+Lira Torres et al. 2004 (Mexico)
+
+40
+
+Baird's
+
+Foerster 1998 (Costa Rica) Naranjo and Cruz 1998 (Mexico)
+
+41 42 43
+
+García-Vettorazzi 2006 (Guatemala)
+
+44
+
+Naranjo 1995 (Costa Rica) Bodmer 1990 (Peru)
+
+45 46 47
+
+Lowland
+
+Henry et al. 2000 (French Guiana*)
+
+48
+
+Figure 1 Percentage occurrence of fruits in lowland and Baird's tapir diets. *Percentage occurrence in stomachs.
+
+49
+
+0 5 10 15 20 25 30 35 40 50
+
+Percentage occurence of fruits
+
+51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+5
+
+G. O'Farrill et al.
+
+1 Table 1 Fruit species richness in the diet of the lowland tapir (Tapir terrestris) in South America
+
+2 Site 3 4 RE Ilha de Maracá, RR, Brazil
+
+Habitat Amazon forest
+
+5 Rio Tahuayo and Quebrada Blanco, Peru Amazon forest
+
+Sample size 356 44 (25 scats)
+
+Fruit species richness Reference
+
+25 Fragoso and Huffman (2000)
+
+at least 16
+
+Bodmer (1991)
+
+6 Tabaro Valley, Venezuela
+
+Amazon forest
+
+206
+
+33
+
+Salas and Fuller (1996)
+
+7 French Guiana
+
+8 9
+
+Bacia Solimões, AM, Brazil
+
+10 Madre de Deus, Peru
+
+11 Viruá National Park, AM, Brazil
+
+Amazon forest Amazon forest Amazon forest Amazon forest
+
+27 stomachs 113 135 111
+
+42 48 122 75
+
+Henry et al. (2000) Morais (2006) Tobler (2008) Barcelos et al. (2013)
+
+12 PE Carlos Botelho, SP, Brazil
+
+Atlantic forest
+
+49
+
+6
+
+Bueno et al. (unpubl. data)
+
+13 PE Serra do Mar, SP, Brazil
+
+14 15
+
+Usina Serra Grande, Alagoas, Brazil
+
+16 PE Serra do Tabuleiro, SC, Brazil*
+
+Atlantic forest
+
+38
+
+7
+
+Atlantic forest
+
+10
+
+19
+
+Atlantic forest (restinga) 81 observations 33
+
+Oliveira (2011) Bachand et al. (2009) Santos et al. (2005)
+
+17 Faz. Barra do Moeda, MS, Brazil
+
+Cerrado
+
+39 53
+
+Prado (2012)
+
+18 PE Serra Azul, MT, Brazil
+
+19 Serra do Caraça, MG, Brazil
+
+20 21
+
+Faz. Rio Negro, MS, Brazil
+
+22 Nhecolândia, MS, Brazil
+
+Cerrado Cerrado/Atlantic forest Pantanal Pantanal
+
+105 147 285 263
+
+13 9 (families) 11 54
+
+Fraias et al. (2011) Talamoni and Assis (2009) Donatti et al. (2007) Zorzi (2009)
+
+23 EE Caetetus, SP, Brazil
+
+Semideciduous forest 46
+
+9
+
+Galetti et al. (2001)
+
+24 PE Morro do Diabo, SP, Brazil 25 Sierra de San Javier, Argentina* 26 27 El Rey National Park, Argentina
+
+Semideciduous forest Yungas Yungas
+
+172 not mentioned 88
+
+58 12 57
+
+Tófoli (2006) Richard and Juliá (2000) Chalukian et al. (2012)
+
+28 *semi-captive animals
+
+29
+
+30
+
+31
+
+32 ied mountain tapirs in Sanguay National Park, Ecuador
+
+33 and found that they consumed as many as 205 plant spe-
+
+34 cies and seeds from 86 species (or 32.6% of the vascu-
+
+35 lar plants recorded in the study area) germinated from
+
+36 tapirs' dung (Table 2).
+
+37 38 39 40 41 42 43 44 45 46 47
+
+The high variation in fruit consumption by tapirs might be explained by forest productivity. Nevertheless, Oliveira (2011) did not find any relation between number of species eaten by lowland tapirs and forest productivity, or any abiotic variable (rainfall and temperature; Table 1). However, further studies are necessary with other tapir species. In particular, studies on the relationship between species diversity in the field and diversity of seeds dispersed by tapirs are necessary to identify possible patterns of fruit choice and preference.
+
+48 Despite the high diversity of seeds reported in tapirs'
+
+49 dung or as dispersed by tapirs, only a few studies eval-
+
+50 uate the germination probabilities of the seeds found in
+
+51 the dung (i.e. Janzen 1982a; O'Farrill et al. 2012). We
+
+focus the present study on all the reports on tapir diet and assume that tapirs potentially disperse the seeds found in tapir dung (meaning seeds can germinate in their deposition sites). However, further conclusions on the seed dispersal role of tapirs should consider the fate of the seeds dispersed.
+Future studies should focus on the distribution of the most commonly represented families of the seeds found in tapir dung to evaluate whether the variability of seeds in dung represents the variability of family species along the distribution range of tapirs. We established that the species found in dung and reported as dispersed in the literature corresponded to 46 families for the lowland tapir, 34 families for the Baird's tapir and 14 families for the mountain tapir (Fig. S1). The family Rubiaceae was the most common family represented in the species reported as dispersed by the Baird's tapir (10 species). This family also represented one of the most common families in the lowland tapir dispersed species (29 spe-
+
+6 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+Table 2 Number of plant species reported to be found in tapir dung and from stomach analyses and likely to be dispersed by tapirs 1
+
+Tapirus spp. T. terrestris
+
+Country Peru Peru
+
+N spp 122 15
+
+Habitat Old growth lowland Amazonian moist forest
+
+Reference Tobler et al. (2010) Bodmer (1991)
+
+2 3 4 5
+
+Brazil
+
+58
+
+Atlantic forest
+
+Tófoli et al. (2007)
+
+6
+
+Brazil
+
+9
+
+Semi-deciduous tropical forest
+
+Galetti et al. (2001)
+
+7
+
+French Guiana 34
+
+French Guiana 42
+
+Brazil
+
+39
+
+Evergreen primary forest
+Tropical rain forest
+Old growth tropical evergreen lowland rain forest
+
+Hibert et al. (2011) Henry et al. (2000) Fragoso and Huffman (2000)
+
+8 9 10 11 12
+
+Venezuela
+
+33
+
+Seasonal swamp forest in upland valleys Salas and Fuller (1996)
+
+13
+
+T. pinchaque Ecuador
+
+86
+
+Cloud forest and wet paramo
+
+Downer (2001)
+
+14
+
+T. bairdii
+
+Costa Rica Costa Rica Costa Rica
+
+14 10 23
+
+Deciduous tropical forest Montane cloud forest Tropical forest
+
+Janzen (1982a) Tobler (2002) Naranjo (1995)
+
+15 16 17 18
+
+Guatemala 5
+
+Tropical forest
+
+García-Vettorazi (2006)
+
+19
+
+Mexico
+
+21 (genera) Tropical forest
+
+Naranjo and Cruz (1998); Cruz (2001); 20
+
+Lira Torres et al. (2004)
+
+21
+
+T. indicus Malaysia
+
+>6
+
+Tropical rain forest
+
+William and Petrides (1980)
+
+22
+
+Plants found during stomach analyses, included because stomach contents is potentially found in dung as well. Plants found to
+
+23 24
+
+germinate in tapir feces, showing that tapirs are effective seed dispersers.
+
+25
+
+26
+
+27
+
+28
+
+cies). Moraceae was the most common family represent- (2001) found up to 2103 seeds (>3 mm) in a single tapir 29
+
+ed in the species dispersed by the lowland tapir (36 spe- dung in a semi deciduous forest. In the Yucatan Penin- 30
+
+cies). For the mountain tapir, the Asteraceae family was the most represented (4 species), followed by Poaceae (3 species).
+Even though tapirs have been documented to have mutualistic interactions with the large-seeded plant species they disperse, further study is required on plant species with potential tapir syndromes (e.g. with large seeds, falling to the ground at maturity and using smell to attract dispersers) to evaluate their dependency on tapirs for recruitment (Janzen & Martin 1982; Guimãraes et al. 2008; Donatti et al. 2011).
+SEED SIZE CONSUMPTION
+Tapirs can ingest small seeds (e.g. those of Ficus spp. approximately 1 mm) and large seeds, varying in size from 20­30 mm (Spondias mombim and Manilkara zapota) up to mango seeds (Mangifera spp. >50 mm; Fragoso & Huffman 2000). Tapirs can ingest and defecate a large number of even large seeds (Janzen 1982b; Williams 1984). For example, in Brazil, Galetti et al.
+
+sula in Mexico, a single dung pile of a Baird's tapir con- 31
+
+tained up to forty 20 mm long M. zapota seeds (O'Farrill 32
+
+et al. 2012), while in Brazil, Rodrigues et al. (1993) 33
+
+found 300 seeds of Euterpe edulis, each measuring 8­14 34
+
+mm. In a study in Taman Negara National Park, Malay- 35
+
+sia, fruit parts and seeds were present in all but one of 36
+
+the Malayan tapir dung piles inspected (the number of 37
+
+piles is unknown). These included many species, with 38
+
+a fruit diameter ranging from 10 to 60 mm (Williams & 39
+
+Petrides 1980). Unfortunately, most of these species re- 40
+
+mained unidentified.
+
+41
+
+We compiled the information available on the seed 42
+
+sizes of species found in tapir dung (N = 156). In most 43
+
+studies, seeds found in tapir dung are reported as dis- 44
+
+persed despite that no germination or viability tests con- 45
+
+firmed the status of the seeds. In addition, only the spe- 46
+
+cies names are reported and no data is presented on the 47
+
+number of seeds per plant species in most studies. We 48
+
+found that most of the seeds that had been reported as dispersed by tapirs are small: 66% of the species corresponded to seeds 10 mm, 21% to seeds between 10 and
+
+49 50 51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+7
+
+G. O'Farrill et al.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11
+
+Figure 2 Distribution of seed sizes of seeds reported as `dispersed' by tapirs, for Baird's and lowland tapirs. Seed
+
+12 sizes (length) 5 mm where recorded as
+
+13 5 mm for graphical purposes. Seeds were
+
+14 found in dung and in stomachs; however,
+
+15 in most cases no germination or viabili-
+
+16 ty analyses were carried out to verify the
+
+17 status of the seed.
+
+18
+
+19
+
+20
+
+21 20 mm, 9% to seeds from 20 to 30 mm and only 4% to
+
+22 23 24 25 26 27
+
+seeds larger than 30 mm (Fig. 2). This high percentage of small seeds remains when observing seed sizes by tapir species: 61% of the seeds where 10 mm for Baird's tapir and 66% for the lowland tapir. In French Guiana, Henry et al. (2000) found a similar pattern for the low-
+
+28 land tapir, where 67% of 40 seed species were <10 mm
+
+29 in diameter. Even though tapirs might not be dispers-
+
+30 ing a high diversity of large-seeded plant species, their
+
+31 unique role as dispersers of large seeds should not be
+
+32 underestimated, especially in those habitats where there
+
+33 are no redundant species.
+
+34
+
+35 SEED PREDATORS VERSUS SEED
+
+36 37
+
+DISPERSERS
+
+38 Tapirs can spit or accidentally drop many seeds from
+
+39 the fruits they eat (Janzen 1982b; Bodmer 1991; Campos-
+
+40 Arceiz et al. 2012); however, the fate of those seeds
+
+41 is commonly ignored. Of those seeds that are actually
+
+42 swallowed, many do not survive the passage through the
+
+43 guts; some are crushed during mastication or destroyed
+
+44 45 46
+
+by gastric acids and excessive hydration in tapirs' guts (Janzen 1981; Campos-Arceiz et al. 2012).
+
+47 There is controversy regarding the role of tapirs as ei-
+
+48 ther disperser or predator for certain plant species. For
+
+49 example, in a feeding trial with a captive Baird's tapir,
+
+50 Janzen (1981) found that the tapir's digestive process
+
+51 killed 78 and 100% of guanacaste (Enterolobium cyclo-
+
+carpum) and carao (Cassia grandis) seeds, respectively. In contrast, Williams (1984) found live carao seeds in tapir dung in Santa Rosa National Park in Costa Rica. Also in Costa Rica, Baird's tapir predated M. zapota seeds (Janzen 1982a; Williams 1984), while in Mexico viable M. zapota seeds were observed in several Baird's tapir dung piles (O'Farrill et al. 2012). Campos-Arceiz et al. (2012) found that seeds ingested by captive Malayan tapirs showed survival rates ranging from 0 to 50% for different species. Although tapirs can act both as seed predators or seed dispersers, even within plant species, further study is necessary to understand what seed traits determine the survival of seeds in the tapir gut.
+TAPIR EFFECTIVENESS IN THE
+DISPERSAL OF LARGE SEEDS
+Effective seed dispersal includes the movement of viable seeds to favorable places for germination and the successful survival of the seeds and establishment of adult individuals (Harper 1977). Tapirs have been reported as effective seed dispersers of large seeds: for example, Mauritia flexuosa and Maximiliana maripa palms in Costa Rica (Bodmer 1991; Fragoso & Huffman 2000), M. zapota in Mexico (O'Farrill et al. 2012) and Syagrus romanzoffiana in Argentina (Giombini et al. 2009; Table 3). However, the role of tapirs as seed dispersers needs to be compared with their role as seed
+
+8 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+predators for a particular plant species and the effects of seed presence in tapir dung might overestimate the seed 1
+
+the location where seeds are deposited should be con- dispersal role of these species. In Kerinci Seblat, Suma- 2
+
+sidered. For example, in the Calakmul region in Mexico, only 53% of 345 dung piles collected between 2005 and 2008 contained intact M. zapota seeds (large seeds length >20 mm) or seedlings (G. O'Farrill, unpubl. data). In addition, the same authors found that in 164 dung piles analyzed, 54% of the seeds were intact while 46% were predated (O'Farrill et al. 2006), suggesting that tapirs play a significant role both in the seed dispersal and seed predation of M. zapota seeds. However, O'Farrill et al. (2012) found that of 512 M. zapota seeds collected from tapir dung, only 30% germinated, suggesting that reports on seed dispersal by tapirs based only on
+
+tra, Malayan tapirs consumed large fruits, such as jack- 3
+
+fruits (Artocarpus sp.) and durians (Durio sp.), and duri- 4
+
+an seedlings were often found sprouting from tapir dung 5
+
+(Holden et al. 2003). In contrast, a study with captive 6
+
+tapirs showed that although Malayan tapirs readily con- 7
+
+sume large fruits, such as Artocarpus integer, very few 8
+
+large seeds survive to passage through their guts (Campos-Arceiz et al. 2012). Even though tapirs might predate a vast amount of large seeds, the dispersal of just a few large seeds to favorable places for germination and
+
+9 10 11 12 13
+
+survival might enhance the recruitment of large-seeded 14
+
+plant species not dispersed by other animal species.
+
+15
+
+16
+
+17
+
+18
+
+Table 3 Species with large seeds >20 mm reported as potentially dispersed by tapirs
+
+19 20
+
+Species
+
+Seed size (mm) Tapir species Reference
+
+21
+
+Manilkara sp. Pouteria sp. Virola sp. Enterolobium cyclocarpum Manilkara zapota Hymenaea courbaril Brosimum alicastrum Astrocaryum standleyanum Spondias mombim Bactris gasipaes Calatola sp.
+
+20 20 20 23 23 25 27 30 38 60 20
+
+B Naranjo and Cruz (1998)
+
+22
+
+B Brooks et al. (1997)
+
+23
+
+B Williams (1984) B Janzen (1981); Williams (1984) B O'Farrill et al. (2006) B Janzen (1982a) B Janzen (1982a); Olmos (1997) B Brooks et al. (1997)
+
+24 25 26 27 28 29 30
+
+B
+
+Williams (1984); Naranjo (1995); Cruz (2001)
+
+31
+
+B Naranjo (1995)
+
+32
+
+L Tobler et al. (2010)
+
+33
+
+Mimosa sp. 1
+
+20 L Tobler et al. (2010)
+
+34
+
+Sarcaulus sp. 2
+
+24.3 L Tobler et al. (2010)
+
+35
+
+Oenocarpus batua
+
+26 L Tobler et al. (2010)
+
+36
+
+Mauritia flexuosa
+
+26.5 L Tobler et al. (2010)
+
+37
+
+Sarcaulus sp. 1
+
+27.2 L Tobler et al. (2010)
+
+Oenocarpus mapora
+
+28 L Tobler et al. (2010)
+
+Fussaea longifolia cf.
+
+29 L Tobler et al. (2010)
+
+Mutisia cordata
+
+29 L Tobler et al. (2010)
+
+Spondias mombin
+
+30 L Tobler et al. (2010)
+
+Syagrus romanzoffiana 30 L Giombini et al. (2009)
+
+Anomospermum cf. reticulatum
+
+31.4
+
+L
+
+Tobler et al. (2010)
+
+Hymenaea oblongifolia 32 L Tobler et al. (2010)
+
+Pouteria putamen­ovii
+
+33.5 L Tobler et al. (2010)
+
+Astrocaryum murumuru
+
+43.3 L Tobler et al. (2010)
+
+38 39 40 41 42 43 44 45 46 47 48
+
+Elephantomene eburnea
+
+47
+
+L Henry et al. (2000)
+
+49
+
+The species are reported as dispersed by the references (found intact in tapir dung); however, in most cases, no germination 50
+
+probabilities were reported. B = Baird's tapir; L = lowland tapir.
+
+51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+9
+
+G. O'Farrill et al.
+
+1 TAPIR EFFECTS ON SEED
+
+2 3
+
+RECRUITMENT
+
+4 Tapirs defecate seeds in a large amount of dung that
+
+5 can act as fertilizer in the early stages of seedling devel-
+
+6 opment. In Mexico, germination of M. zapota seeds col-
+
+7 lected from tapir dung was significantly higher when
+
+8 planted in tapir dung than when planted in soil near wa-
+
+9 ter ponds commonly frequented by tapirs, suggesting a
+
+10 positive effect of tapir dung on germination (O'Farrill et
+
+11 al. 2012).
+
+12 Dung can also act as a physical protection against
+
+13 predation by bruchid beetles, as reported by Fragoso et
+
+14 al. (2003), and can attract other seed predators, such as
+
+15 hyacinth macaws in Pantanal (M. Galetti, unpubl. data).
+
+16 17
+
+In addition, secondary seed dispersal from tapir dung can influence the fate of the dispersed seeds. In Bolivia,
+
+18 predation of Attalea phalerata seeds by bruchid beetles
+
+19 was significantly lower when seeds were planted in ta-
+
+20 pir dung than when seeds were left exposed or partially
+
+21 covered (Rios & Pacheco 2006).
+
+22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+
+In addition, tapirs have been described to defecate repeatedly in latrines (Acosta et al. 1996; Fragoso & Huffman 2000; Holden et al. 2003), but this behavior does not seem to be universal. Based on molecular analysis, researchers have found that several individuals can use the same latrine (A. Sanches, unpubl. data). Therefore, defecation in latrines can increase the concentration of seeds and result in higher density-dependent mortality. In the Pantanal, tapirs are known to defecate in saltwater lakes (salinas), where seeds are unable to recruit. However, many seeds are also dispersed in latrines in the forests and cerrado vegetation (M. Galetti, unpubl. data). In conclusion, the advantages and disadvantages of the creation of latrines by tapirs and their seed dispersal role remain unclear.
+
+38 It has been documented that tapirs have a tendency to
+
+39 defecate in water, a hostile environment for the surviv-
+
+40 al and establishment of most seeds. However, it is un-
+
+41 clear how widespread this behavior is. For example, in
+
+42 Costa Rica, Janzen (1981) concluded that Baird's tapirs
+
+43 defecated exclusively in water or in dry areas that flood
+
+44 seasonally, while in Mexico, dung piles of this same
+
+45 species were found both in inundated areas and in sites
+
+46 never reached by water (G. O'Farrill, pers. observ.). In
+
+47 Venezuela, lowland tapirs were observed to defecate ex-
+
+48 clusively in flooded or seasonally flooded areas (Salas
+
+49 & Fuller 1996). In contrast, Fragoso (1997) found low-
+
+50 land tapir latrines at upland forest sites in Brazil. Also in
+
+51 Brazil, Talamoni and Assis (2009) found tapir dung in
+
+water, suggesting the deposition of seeds in hostile environments.
+TAPIRS' EFFECTS AT A LANDSCAPE
+LEVEL
+The spatial distribution of dispersed seeds by tapirs is determined by the time the seeds are retained in the animal guts (i.e. time from consumption to defecation) and by the animal's movement in that time (Jordano et al. 2007; Morales & Carlo 2006). Janzen (1981) found that bigger seeds are retained longer than small seeds in tapir guts, with retention times varying from 48 to 52 h. A recent study with captive lowland and Malayan tapirs showed mean fluid and particle retention times ranging from 25 to 81 h (Clauss et al. 2010). Feeding trials with Malayan tapirs using seeds of 9 different plant species showed mean retention times of up to 13 days for some large seeds (Campos-Arceiz et al. 2012). This shows that tapirs have relatively long retention times for their body size. For instance, the seeds of Tamarindus indica eaten by Malayan tapirs are retained 4 times longer than by Asian elephants (Elephas maximus Linnaeus, 1758) (Campos-Arceiz et al. 2008).
+Having long gut retention times can have a positive and negative effect on seed survival. This can cause more seeds to be predated by the gut fluids but can favor the dispersal of seeds farther away from parent trees, therefore reducing density-dependent mortality and promoting large-scale processes such as fragment connectivity, re-colonization of disturbed patches and plant migration (e.g. as a result to climate change).
+In addition to long gut retention times, tapir movement patterns determine the spatial pattern of seed dispersal. Tapirs have large home ranges, although smaller than expected by their body size. For example, in Peru, Tobler et al. (2009) reported lowland tapir individuals moving up to 13 km in 24 h periods, with a mean daily movement of 5.2 km (range 3.6­6.7 km). These movements over long distances or through large home ranges allow tapirs to move seeds over many kilometers, spacing the seeds in the tapir's dung (Janzen 1981), and, therefore maximizing seed dispersal effectiveness and increasing the probability of the deposition of seeds in favorable places for germination (far from parent trees where density-dependent competition occurs). Hence, tapirs can facilitate the regeneration of several plant species and the maintenance of their populations on a large scale, as reported by Fragoso (1997) in Brazil, where the large-scale aggregation of Ma. maripa palms might
+
+10 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+result from the defecation characteristics of tapirs. Talamoni and Assis (2009) found several dense clumps of Psidium myrtoides (a tapir-dispersed seed) located next to rivers, which suggests that tapirs, among other dispersers, might be influencing the distribution of this particular plant species. Bueno (2010) showed that lowland tapirs move across open or highly degraded areas not suitable for primates or other arboreal frugivores, therefore ensuring the dispersal of seeds across the landscape.
+UNIQUENESS OF TAPIRS
+All species of tapirs are locally threatened, due to overexploitation, habitat loss and road kill (Castellanos et al. 2008; Diaz et al. 2008; Lynam et al. 2008; Naveda et al. 2008). Today, tapirs represent the largest mammal of a once highly diverse megafauna in the Neotropical region. Although some regions still support large abundances of tapirs, most of their populations are declining.
+Tapirs are seed dispersers and seed predators of a wide variety of plant species, therefore influencing the dynamics of plant populations. Given their frugivorous habits, tapirs consume small and large seeds, which are moved over long distances. However, given their size, long gut retention times, large home ranges and defecation patterns, tapirs might be the only species capable of dispersing large-seeded plants over long distances and to favorable places for germination. Therefore, tapirs might have a unique role as long-distance seed dispersers of large-seeded plants. The deposition of seeds in favorable places helps to maintain plant populations in both the short term and on a large scale. For example, Giombini et al. (2009) found that S. romanzoffiana seeds were present in 98% of dung piles observed in Argentina, and that dung piles showed a clumped deposition pattern, reflecting the use of latrines and influencing the distribution of seedlings. Fragoso et al. (2003) found that the aggregated pattern of Ma. maripa palms in Brazil was associated with tapir latrine sites, suggesting that tapirs might be shaping the distribution patterns of the species they disperse.
+Even though most of the large-seeded plant species reported as dispersed by tapirs are consumed by other frugivore species (e.g. peccaries, spider and howler monkeys; Donatti et al. 2011; Table 4); it remains unclear whether other potential dispersers are capable of transporting viable seeds over long distances, as most studies do not test for viability or germination probabilities. For example, M. zapota seeds are reported as
+
+uniquely dispersed by tapirs in the Yucatan Peninsu- 1
+
+la in Mexico (O'Farrill et al. 2012). Other potential dis- 2
+
+persers in the area are howler monkeys (Alouatta pig- 3
+
+ra Lawrence, 1933), but this species has been observed 4
+
+to spit out M. zapota seeds (S. Calmé, pers. comm.). In 5
+
+a study in French Guiana, Ratiarison and Forget (2011) 6
+
+report that even though Alouatta seniculus (Linnaeus, 7
+
+1766) and Ateles paniscus (Linnaeus, 1758) swallowed 8
+
+M. huberi seeds, their sedentary behavior causes the dis- 9
+
+persal of seeds only over short distances. Cebus apel- 10
+
+la Linnaeus, 1758 and Saguinus midas Linnaeus, 1758 11
+
+were often observed in Man. bidentata crowns; howev- 12
+
+er, these species spit out the seeds. This suggests that for 13
+
+Manilkara spp. seeds, tapirs might act as the sole long- 14
+
+distance seed dispersers. Further comparative studies 15
+
+are necessary to evaluate the role of tapirs as long-dis- 16
+
+tance seed dispersers of other large-seeded species in 17
+
+comparison with other potential seed dispersers in the 18
+
+Neotropics. In Asia, tapirs might not play a unique role 19
+
+as long-distance seed dispersers as other larger mammals 20
+
+disperse large-seeded plants. For example, Campos- 21
+
+Arceiz et al. (2012) found that Malayan tapirs effective- 22
+
+ly dispersed small-seeded plants but acted as seed pred- 23
+
+ators for large-seeded plants (e.g. Artocarpus integer, 24
+
+seed length >20 mm).
+
+25
+
+Perhaps the main difference between the role of 26 Asian tapirs and their North, Central and South Ameri- 27 can counterparts in seed dispersal effectiveness is a mat- 28 ter of context (Hansen & Galetti 2009). In Southeast 29 Asia, Malayan tapirs are one order of magnitude small- 30 er than the largest seed dispersers (i.e. Asian elephants). 31 In the Neotropics, in contrast, tapirs are the largest liv- 32 ing seed dispersers. This confers American tapirs a more 33 unique role in the dispersal of large-seeded plants and 34 long-distance dispersal events. In Southeast Asia, how- 35 ever, if the loss of very large mammals continues un- 36 abated, Malayan tapirs are expected to acquire in the fu- 37 ture a relatively more important role as seed dispersers. 38
+39
+
+CASCADING EFFECTS IN TAPIR
+
+40 41
+
+DEFAUNATED SITES
+
+42
+
+Through their seed dispersal role, tapir might pro-
+
+43 44
+
+mote gene flow via seeds of the plant species they dis- 45
+
+perse. The extinction of tapirs, due to overexploitation 46
+
+or habitat loss, would have demographic and genetic 47
+
+consequences for some plants they disperse, particular- 48
+
+ly as some large-seeded plant species have not been re- 49
+
+ported as dispersed over long distances by any other 50
+
+species other than tapirs. Tapirs consume high quantities 51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+11
+
+G. O'Farrill et al.
+
+1 Table 4 Potential dispersers of large seeds
+
+2 Manilkara Pouteria Hymenaea Brosimum Astrocaryum Bactris
+
+3
+
+sp. sp. sp.
+
+sp. sp.
+
+sp.
+
+4 Agouti paca
+
+X
+
+Gutierrez-Granados (2011)
+
+5 Alouatta palliata 6
+
+X
+
+7 Alouatta seniculus 8
+
+9 Ateles chamek
+
+10 Ateles geoffroyi
+
+11 12
+
+Ateles paniscus
+
+X X
+
+X X
+
+13 14
+
+Bassaricyon gabbii
+
+15 Cebus apella
+
+X
+
+16 Cebus capucinus
+
+17 Cebus olivaceus
+
+X
+
+18 Dasyprocta leporina
+
+XX
+
+19 Dasyprocta punctata
+
+X
+
+20
+
+21 Dasyprocta spp.
+
+X
+
+X
+X X
+X X XX X X
+
+Anzures-Dadda et al. (2011) Wright et al. (2000) Ratiarison and Forget (2011) Julliot (1997) Felton et al. (2010) Wright et al. (2000) Ratiarison and Forget (2011) Andresen (1999) Wright et al. (2000) Ratiarison and Forget (2011) Wright et al. (2000) Ratiarison and Forget (2011) Silvius and Fragoso (2003) Gutierrez-Granados (2011) X Silva and Tabarelli (2001) Donatti et al. (2009)
+
+22 X Galetti et al. (2006)
+
+23 Eira barbara
+
+X Wright et al. (2000)
+
+24 Nasua narica
+
+X Wright et al. (2000)
+
+25 Pecari tajacu
+
+X Wright et al. (2000)
+
+26 Pteropus tonganus
+
+X
+
+McConkey and Drake (2006)
+
+27 Potos flavus
+28 Sanguinus midas 29
+
+X
+
+30 Virola sp.
+
+31 32 Agouti paca
+
+33 34 Alouatta palliata 35 Alouatta seniculus X 36 Ateles geoffroyi
+
+X Wright et al. (2000) Ratiarison and Forget (2011)
+
+Spondias Calatola Enterolobium Syagrus Oenocarpus
+
+sp. sp.
+
+sp.
+
+sp. sp.
+
+X Keuroghlian and Eaton (2009)
+
+X Silva and Tabarelli (2001)
+
+X Beckmand and Muller-Landau (2007)
+
+Julliot (1997)
+
+X Beckman and Muller-Landau (2007)
+
+37 Ateles paniscus X
+
+Russo (2003)
+
+38 Cebus capucinis
+
+X Beckman and Muller-Landau (2007)
+
+39 Cerdocyon thous
+
+X Silva and Tabarelli (2001)
+
+40 Dasyprocta azarae
+
+X Silva and Tabarelli (2001)
+
+41 Elephas maximus
+
+X
+
+Kitamura et al. (2007)
+
+42 Nasua narica
+
+X Beckman and Muller-Landau (2007)
+
+43 X Silva and Tabarelli (2001)
+
+44 Odocoileus
+
+45 virginianus
+
+46 47 48
+
+Pecari tajacu Potos flavus
+
+49 Sanguinus geoffroyi
+
+X
+
+X X X
+
+Mandujano et al. (1994)
+Keuroghlian and Eaton (2009) Beckman and Muller-Landau (2007) Beckman and Muller-Landau (2007)
+
+50 Tayassu pecari
+
+X Keuroghlian and Eaton (2009)
+
+51 Animal species are reported as dispersers despite the lack of germination and viability analysis in most of the studies.
+
+12 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+of seeds, many of which are predated, causing the depletion of seedling abundance or promoting seed dispersal of those seeds that survive the digestive system (Gill 2006); hence, their loss can cause a cascade of ecological effects on other species interacting with the plant species tapirs consume (Giombini et al. 2009). In the Sangay National Park in Ecuador, Downer (2001) found a positive correlation between tapirs' feeding preferences for plant species and their germination frequency in dung, suggesting that mountain tapirs might be exerting a positive influence in their habitat by helping to regenerate their preferred food items. In the Brazilian Pantanal, a long-term community study found that plants dispersed by large mammals (particularly tapirs) form a distinct subset in the community, suggesting the irreplaceable role of these mammals on seed dispersal processes (Donatti et al. 2011). Therefore, the extinction of tapirs or changes in their movement patterns due to human-driven changes would result in a reduction of the quality and quantity of dispersal for many plants. For example, according to Galetti et al. (2001), the removal of lowland tapir from its habitat would have deleterious consequences for 50 out of 1380 Atlantic forest plant species, especially those with large seeds. Further studies on the potential consequences of tapir-defaunated or low tapir population sites are necessary to prevent a cascade of ecological effects. The decline of animal-mediated seed dispersal results in an increased dominance of winddispersed species (Muller-Landau & Hardesty 2005). Therefore, it is of great relevance to understand the ecological role of tapirs and to guarantee their conservation as functional elements of the very ecosystems they inhabit. In addition, future decisions on the conservation of tapir populations and their habitat areas require actions based on the information gathered in field studies.
+Tapirs are important given their unique evolution and their role in promoting the coexistence of species by controlling recruitment (eating seedlings or seeds) and by promoting the seed dispersal of many species. Despite their endangered status all along their distribution range, the information available on their ecology, populations and the interactions with other species is limited. Further studies on tapirs are necessary, especially those focused on the ecological cascade effects on tapir defaunated sites and on the ecological consequences of the disruption of their movement patterns.
+
+ACKNOWLEDGMENTS
+
+1
+
+2
+
+M. Galetti received a fellowship from Conselho Na- 3
+
+cional de Desenvolvimento Científico e Tecnológico 4
+
+(CNPq) and Fundação de Amparoà Pesquisa do Esta- 5
+
+do de São Paulo (FAPESP). G.O'Farrillreceivedafel- 6
+
+lowship from Fonds de recherche du Québec­Nature et 7
+
+Technologies (FQRNT). A. Campos-Arceiz thanks C. 8
+
+Traeholt, B. Simpson and M. Sanusi for their kind intro- 9
+
+duction to the ecology of Malayan tapirs.
+
+10
+
+11
+
+REFERENCES
+
+12
+
+Acosta H, Cavelier J, Londono S (1996). Life cycle of the mountain tapir (Tapirus pinchaque) in the central Colombian Andes. Biotropica 28, 258­66.
+
+13 14 15 16
+
+Andresen E (1999). Seed dispersal by monkeys and the 17
+
+fate of dispersed seeds in a Peruvian rainforest. Bio- 18
+
+tropica 31, 145­58.
+
+19
+
+Anzures-Dadda A, Andresen E, Martínez ML, Man- 20
+
+son RH (2011). Absence of howlers (Alouatta palli- 21
+
+ata) influences tree seedling densities in tropical rain 22
+
+forest fragments in southern Mexico. International 23
+
+Journal of Primatology 32, 634­51.
+
+24
+
+Bachand M, Trudel OC, Ansseau C, Almeida-Cortez J 25
+
+(2009). Dieta de Tapirus terrestris Linnaeus em um 26
+
+fragmento de Mata Atlântica do Nordeste do Brasil. 27
+
+Revista Brasileira de Biociências 7,188­94.
+
+28
+
+Barcelos AR, Bobrowiec PED, Sanalotti TM, Gribel R 29
+
+(2013). Seed germination from lowland tapir (Tapi- 30
+
+rus terrestris) fecal samples collected during the dry 31
+
+season in the northern Brazilian Amazon. Integrative 32
+
+Zoology 8, 62­71.
+
+33
+
+Bascompte J, Jordano P, Melian CJ, Olesen JM (2003). The nested assembly of plant­animal mutualistic networks. PNAS 100, 9383­7.
+
+34 35 36 37
+
+Beckman NG, Muller-Landau HC (2007). Differential 38
+
+effects of hunting on pre-dispersal seed predation and 39
+
+primary and secondary seed removal of 2 neotropical 40
+
+tree species. Biotropica 39, 328­39.
+
+41
+
+Bodmer RE (1990). Fruit patch size and frugivory in the 42
+
+lowland tapir (Tapirus terrestris). Journal of Zoology 43
+
+222, 121­8.
+
+44
+
+Bodmer RE (1991). Strategies of seed dispersal and 45
+
+seed predation in Amazonian ungulates. Biotropica 46
+
+23, 255­61.
+
+47
+
+Brooks DM, Bodmer RE, Matola S (1997). Tapirs status 48 survey and conservation action plan. In: Brooks DM, 49 Bodmer RE, Matola S, eds. Tapirs: Status Survey and 50
+51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+13
+
+G. O'Farrill et al.
+
+1 Conservation Action Plan. IUCN, Gland, Switzer-
+
+2 land.
+
+3 Bueno RS (2010). Frugivoria e efetividade de dispersão
+
+4 de sementes dos últimos grandes frugívoros da Mata
+
+5 Atlântica: a anta (Tapirus terrestris) e o muriqui
+
+6 (Brachyteles arachnoides) (MA thesis). Universidade
+
+7 Estadual Paulista (UNESP), Rio Claro.
+
+8 Campos-Arceiz A, Larrinaga AR, Weerasingue UR et 9 al. (2008). Behavior rather than diet mediates season10 al differences in seed dispersal by Asian elephants.
+
+11 Ecology 89, 2684­91.
+
+12 13 14 15
+
+Campos-Arceiz A, Traeholt C, Jaffar R, Santamaria L, Corlett RT (2012). Asian tapirs are no elephants when it comes to seed dispersal. Biotropica 44, 220­27.
+
+16 Castellanos A, Foerster CR, Lizcano DJ et al. (2008).
+
+17 Tapirus bairdii. In: The IUCN Red List of Threatened
+
+18 Species. Version 2009.2. [Cited 18 Jan 2011.] Avail-
+
+19 able from URL: http://www.iucnredlist.org
+
+20 Chalukian S, Cristiana S, de Bustos MS, Lizárraga RL
+
+21 (2012). Diet of lowland tapir (Tapirus terrestris) in El
+
+22 Rey National Park, Salta, Argentina. Integrative Zo-
+
+23 ology 8, 47­55.
+
+24 Clauss M, Lang-Deuerling S, Müller DWH, Kienzle E,
+
+25 Steuer P, Hummel J (2010). Retention of fluid and
+
+26 particles in captive tapirs (Tapirus sp.). Comparative
+
+27 Biochemistry and Physiology Part A: Molecular and
+
+28 Integrative Physiology 157, 95­101
+
+29 Cruz E (2001). Hábitos de alimentación e impacto de
+
+30 la actividad humana sobre el tapir (Tapirus bairdii)
+
+31 en la Reserva de la Biosfera La Sepultura, Chiapas,
+
+32 México (MA thesis). El Colegio de la Frontera Sur,
+
+33 San Cristóbal de las Casas, Chiapas, México.
+
+34 Dennis AJ, Westcot DA (2006). Reducing complexity
+
+35 when studying seed dispersal at community scales: a
+
+36 functional classification of vertebrate seed dispersers
+
+37 in tropical forests. Oecologia 149, 620­34.
+
+38 Diaz AG, Castellanos A, Piñeda C et al. (2008). Tapir39 us pinchaque. In: The IUCN Red List of Threatened
+
+40 Species. Version 2010.4. [Cited 18 Jan 2011.] Avail-
+
+41 able from URL: http://www.iucnredlist.org
+
+42 43 44 45 46 47
+
+Donatti CI, Guimãraes PR, Galetti M (2009). Seed dispersal and predation in the endemic Atlantic rainforest palm Astrocaryum aculeatissimum across a gradient of seed disperser abundance. Ecological Research 24, 1187­95.
+
+48 Donatti CI, Guimãraes PR, Galetti M, Pizo MA, Mar-
+
+49 quitti FMD, Dirzo R (2011). Analysis of a hyper-
+
+50 diverse seed dispersal network: modularity and 51 underlying mechanisms. Ecology Letters 14, 773­81.
+
+Downer CC (2001). Observations on the diet and habitat of the mountain tapir (Tapirus pinchaque). Journal of Zoology 254, 279­91.
+Feldhamer GA, Drickamer LC, Vessey SH, Merritt JF, Krajewski C (2007). Mammalogy: Adaptation, Diversity and Ecology, 3rd edn. The Johns Hopkins University Press, Baltimore.
+Felton AM, Felton A, Fole WJ, Lindenmayer DB (2010). The role of timber tree species in the nutritional ecology of spider monkeys in a certified logging concession, Bolivia. Forest Ecology and Management 259, 1642­9.
+Foerster CR (1998). Ecología de la danta Centroamericana Tapirus bairdii en un bosque húmedo tropical de Costa Rica (MA thesis). Universidad Nacional, Heredia, Costa Rica.
+Fragoso JMV (1997). Tapir-generated seed shadows: scale-dependent patchiness in the Amazon rain forest. Journal of Ecology 85, 519­29.
+Fragoso JMV, Huffman JM (2000). Seed-dispersal and seedling recruitment patterns by the last Neotropical megafaunal element in Amazonia, the tapir. Journal of Tropical Ecology 16, 369­85.
+Fragoso JMV, Silviu KM, Correa JA (2003). Longdistance seed dispersal by tapirs increases seed survival and aggregates tropical trees. Ecology 84, 1998­2006.
+Fraias J, Abreu MF, Sanchez MC, Pedroni F (2011). Dispersão de sementes por antas (Tapirus terrestris) em cerrado sentido restrito do Parque Estadual da Serra Azul, Barra do Garças, MT. X Congresso de Ecologia do Brasil; 18­22 Sep 2011. CEB, São Lourenço, MG, pp. 1­3.
+Galetti M, Keuroghlian A, Hanada L, Morato MI (2001). Frugivory and seed dispersal by the lowland tapir (Tapirus terrestris) in southeast Brazil. Biotropica 33, 723­6.
+Galetti M, Donatti CI, Pires AS, Guimãraes PR, Jordano P (2006). Seed survival and dispersal of an endemic Atlantic forest palm: the combined effects of defaunation and forest fragmentation. Botanical Journal of the Linnean Society 151, 141­9.
+García-Vettorazzi MJ (2006). Caracterización de la dieta y el habitat del tapir (Tapirus bairdii Gill, 1865) en ecosistemas riberenos del Parque Nacional Laguna Lachua, Coban, Alta Verapaz, Guatemala (MA thesis). Universidad de San Carlos de Guatemala, Guatemala.
+
+14 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+Frugivory by tapirs
+
+Gill R (2006). The influence of large herbivores on tree recruitment and forest dynamics. In: Kjell K, Bergstrom R, Duncan P, Pastor J, eds. Large Herbivore Ecology, Ecosystem Dynamics and Conservation. Cambridge University Press, Cambridge, pp. 170­ 202.
+Giombini MI, Bravo SP, Martínez MF (2009). Seed dispersal of the palm Syagrus romanzoffiana by tapirs in the semi-deciduous Atlantic forest of Argentina. Biotropica 41, 408­13.
+Guimãraes PR, Galetti M, Jordan P (2008). Seed dispersal anachronisms: rethinking the fruits extinct megafauna ate. PLOS ONE 3, e1745.
+Gutierrez-Granados G (2011). Effect of logging on rodent scatter-hoarding dynamics in tropical forests: implications for plant recruitment. Integrative Zoology 6, 74­80.
+Hansen DM, Galetti M (2009). The forgotten megafauna. Science 324, 42­3.
+Harper JL (1977). Population Biology of Plants. London, UK.
+Henry O, Feer F, Sabatier D (2000). Diet of the lowland tapir (Tapirus terrestris L.) in French Guiana. Biotropica 32, 364­8.
+Hibert F, Sabatier D, Andrivot J et al. (2011). Botany, genetics and ethnobotany: a crossed investigation on the elusive tapir's diet in French Guiana. PLOS ONE 6, e25850.
+Holden J, Yanuar A, Martyr DJ (2003). The Asian tapir in Kerinci Seblat National Park, Sumatra: evidence collected through photo-trapping. Oryx 37, 34­40.
+Janis C (1984). Tapirs as living fossils. In: Eldredge N, Stanley S, eds. Living Fossils. Springer­Verlag, New York, New York, pp. 80­86.
+Janzen DH (1981). Digestive seed predation by a Costa Rican Baird's Tapir (Tapirus bairdii). Biotropica 13, 59­63.
+Janzen DH (1982a). Seeds in tapir dung in Santa Rosa National Park, Costa Rica. Brenesia 19, 129­35.
+Janzen DH (1982b). Variation in average seed size and fruit seediness in a fruit crop of a guanacaste tree leguminosae Enterolobium cyclocarpum. American Journal of Botany 69, 1169­78.
+Janzen DH, Martin PS (1982). Neotropical anachronisms: the fruits the Gomphotheres ate. Science 215, 19­27.
+Jordano P, García C, Godoy JA, Garcia-Castano JL (2007). Differential contribution of frugivores to
+
+complex seed dispersal patterns. PNAS 104, 3278­ 1
+
+82. 2
+
+Julliot C (1997). Impact of seed dispersal of red howler 3
+
+monkeys Alouatta seniculus on the seedling popula- 4
+
+tion in the understorey of tropical rain forest. Journal 5
+
+of Ecology 85, 431­40.
+
+6
+
+Keuroghlian A, Eaton DP (2009). Removal of palm fruits and ecosystem engineering in palm stands by white-lipped peccaries (Tayassu pecari) and oth-
+
+7 8 9 10
+
+er frugivores in an isolated Atlantic forest fragment. 11
+
+Biodiversity and Conservation 18, 1733­50.
+
+12
+
+Kitamura S, Yumoto T, Poonswad P, Wohandee P (2007). 13
+
+Frugivory and seed dispersal by Asian elephants, El- 14
+
+ephas maximus, in a moist evergreen forest of Thai- 15
+
+land. Journal of Tropical Ecology 23, 373­6.
+
+16
+
+Koch PL, Barnosky AD (2006). Late quaternary extinc- 17
+
+tions: state of the debate. Annual Review Ecology, 18
+
+Evolution and Systematics 37, 215­50.
+
+19
+
+Lira Torres I, Naranjo Piñera EJ, Güiris Andrade DM, 20
+
+Cruz Aldán EC (2004). Ecologia de Tapirus bairdii (Perissodactyla: Tapiridae) en la Reserva de la Biosfera El Triunfo (Poligono I), Chiapas, México. Acta Zoologica Mexicana 20, 1­21.
+
+21 22 23 24 25
+
+Lynam A, Traeholt C, Martyr D et al. (2008). Tapirus 26
+
+indicus. In: The IUCN Red List of Threatened Spe- 27
+
+cies. Version 2010.4. [Cited 18 Jan 2011.] Available 28
+
+from URL: http://www.iucnredlist.org
+
+29
+
+Mandujano S, Gallina S, Bullock SH (1994). Frugivo- 30
+
+ry and dispersal of Spondias purpurea (Anacardiace- 31
+
+ae) in tropical deciduous forest in Mexico Revista De 32
+
+Biologia Tropical 42, 107­14.
+
+33
+
+McConkey KR, Drake DR (2006). Flying foxes cease to 34
+
+function as seed dispersers long before they become 35
+
+rare. Ecology 87, 271­6.
+
+36
+
+Morais AA (2006). Dieta frugivora de Tapirus terrestris e deposição de fezes: contribuição para a dispersão de sementes e regeneração de florestas, Amazônia central, AM (BA thesis). UFAM, Campo Grande.
+
+37 38 39 40 41
+
+Morales JM, Carlo TA (2006). The effects of plant dis- 42
+
+tribution and frugivore density on the scale and shape 43
+
+of dispersal kernels. Ecology 87, 1489­96.
+
+44
+
+Muller-Landau HC, Hardesty BD (2005). Seed disper- 45
+
+sal of woody plant in tropical forests: concepts, ex- 46
+
+amples and future directions. In: Burslem D, Pinard 47
+
+M, Hartley S, eds. Biotic Interactions in the Tropics. 48
+
+Cambridge University Press, Cambridge. pp. 267­ 49 309. 50
+51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+15
+
+G. O'Farrill et al.
+
+1 Naranjo E (1995). Hábitos de alimentación del tapir (Ta-
+
+2 pirus bairdii) en un Bosque tropical húmedo de Cos-
+
+3 ta Rica. Vida Silvestre Neotropical 4, 32­7.
+
+4 Naranjo E, Cruz E (1998). Ecology of tapirs (Tapirus
+
+5 bairdii) in the Sepultura Biosphere Reserve Chiapas,
+
+6 Mexico. Acta Zoologica Mexicana 73, 111­25.
+
+7 Naveda A, de Thoisy B, Richard-Hansen C et al. (2008).
+
+8 Tapirus terrestris. In: The IUCN Red List of Threat-
+
+9 ened Species. Version 2010.4. [Cited 19 Jan 2011.]
+
+10 Available from URL: http://www.iucnredlist.org
+
+11 12 13
+
+O'Farrill G, Calmé S, Gonzalez A (2006). Manilkara zapota: a new record of a species dispersed by tapirs. Tapir Conservation 15, 32­5.
+
+14 15 16 17 18
+
+O'Farrill G, Calmé S, Sengupta R, Gonzalez A (2012). Effective dispersal of large seeds by Baird's tapir: a large-scale field experiment. Journal of Tropical Ecology 28, 119­22.
+
+19 Oliveira, JE (2011). Dispersão de sementes e distri20 buição espacial de antas (Tapirus terrestris) em uma 21 floresta atlântica contínua. Bachelo Monograph, UN22 ESP, Rio Claro.
+
+23 Olmos F (1997). Tapirs as seed dispersers and predators.
+
+24 In: Brooks DM, Bodmer RE, Matola S, eds. Tapirs:
+
+25 Status Survey and Conservation Action Plan. IUCN,
+
+26 Gland, Switzerland, pp. 3­9.
+
+27 Prado HA (2012). Frugivoria e dispersão de sementes por
+
+28 anta (Tapirus terrestris) em uma área de plantio flo-
+
+29 restal no cerrado, MS (BA thesis). UNESP, Rio Claro.
+
+30 Richard E, Juliá JP (2000). El tapir (Tapirus terres-
+
+31 tris): dieta y manejo en un Bosque secudenario de la
+
+32 ecoregión de selvas pdemontanas. Estatus en Argen-
+
+33 tina. In: Manejo de Fauna Silvestre en Amazonia y
+
+34 Latinoamérica. Fundacion Moisés Bertoni and Uni-
+
+35 versity of Florida, pp. 433­44.
+
+36 Ratiarison S, Forget PM (2011). Fruit availability, frugi37 vore satiation and seed removal in 2 primate-dispersed
+38 tree species. Integrative Zoology 6, 178­94.
+
+39 Rios RS, Pacheco LF (2006). The effect of dung and
+
+40 dispersal on postdispersal seed predation of Attalea
+
+41 phalerata (Arecaceae) by bruchid beetles. Biotropica
+
+42 38, 778­81.
+
+43 Rodrigues M, Olmos F, Galetti M (1993). Seed dispersal
+
+44 by tapir in southeastern Brazil. Mammalia 57, 460­ 45 61.
+
+46 47 48 49
+
+Russo SE (2003). Responses of dispersal agents to tree and fruit traits in Virola calophylla (Myristicaceae): implications for selection. Oecologia 136, 80­87.
+
+50 Salas LA, Fuller TK (1996). Diet of the lowland ta-
+
+51 pir (Tapirus terrestris L.) in the Tabaro River valley,
+
+southern Venezuela. Canadian Journal of Zoology 74, 1444­51.
+Santos LGRO, Machado Filho LCP, Tortato MA, Falkemberg DDB, Hoetzel MJ (2005). Diet of tapirs (Tapirus terrestris) introduced in a salt marsh area of the Baixada do Massiambu, State Park of the Serra do Tabuleiro­Santa Catarina, south of Brazil. Tapir Conservation 14, 22­7.
+Schupp EW, Jordano P, Gomez JM (2010). Seed dispersal effectiveness revisited: a conceptual review. New Phytologist 188, 333­53.
+Silva MG, Tabarelli M (2001). Seed dispersal, plant recruitment and spatial distribution of Bactris acanthocarpa Martius (Arecaceae) in a remnant of Atlantic forest in northeast Brazil. Acta Oecologica-International Journal of Ecology 22, 259­68.
+Silvius KM, Fragoso JMV (2003). Red-rumped agouti (Dasyprocta leporina) home range use in an Amazonian forest: implications for the aggregated distribution of forest trees. Biotropica 35, 74­83.
+Talamoni SA, Assis MAC (2009). Feeding habit of the Brazilian tapir, Tapirus terrestris (Perissodactyla: Tapiridae) in a vegetation transition zone in south eastern Brazil. Zoologia Curitiba Impresso 26, 251­4.
+Tobler MW (2002). Habitat use and diet of Baird's tapirs (Tapirus bairdii) in a montane cloud forest of the Cordillera de Talamanca, Costa Rica. Biotropica 34, 468­74.
+Tobler MW (2008). The ecology of the lowland tapir in Madre de Dios, Peru: using new technologies to study large rainforest mammals (PhD dissertation). Texas A&M University, College Station, TX.
+Tobler MW, Carrillo-Percastegui SE, Powell G (2009). Habitat use, activity patterns and use of mineral licks by 5 species of ungulate in south eastern Peru. Journal of Tropical Ecology 25, 261­70.
+Tobler MW, Janovec JP, Cornejo F (2010). Frugivory and seed dispersal by the lowland tapir Tapirus terrestris in the Peruvian Amazon. Biotropica 42, 215­22.
+Tófoli CF (2006). Frugivoria e dispersão de sementes por Tapirus terrestris (Linnaeus, 1758) na paisagem fragmentada do Pontal do Paranapanema, São Paulo (MSc thesis). Universidade de São Paulo, São Paulo, Brazil.
+Tófoli C, Medici P, Valladares-Padua C (2007). Frugivoria e dispersão de sementes por Tapirus terrestris (Linnaeus, 1758) na paisagem fragmentada do Pontal do Paranapanema, Sao Paulo. In: Anais do VIII Con-
+
+16 © 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+1 gresso de Ecologia do Brasil; 23­28 Sep 2007, Cax-
+
+2 ambu, pp. 1­3.
+
+3 Wang BC, Smith TB (2002). Closing the seed dispersal
+
+4 loop. Trends in Ecology and Evolution 17, 379­85.
+
+5 6
+
+Williams KD (1984). The Central American tapir (Ta-
+
+7 pirus bairdii) in northwestern Costa Rica (PhD dis-
+
+8 sertation). Michigan State University, East Lansing,
+
+9 Michigan.
+
+10 Williams KD, Petrides GA (1980). Browse use, feed-
+
+11 ing-behavior, and management of the Malayan tapir.
+
+12 Journal of Wildlife Management 44, 489­94.
+
+13 Wright SJ, Zeballos H, Domingue I, Gallardo MM, 14 Moreno MC, Ibanez R (2000). Poachers alter mam15 mal abundance, seed dispersal, and seed predation in a 16 neotropical forest. Conservation Biology 14, 227­39.
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+SUPPORTING INFORMATION
+
+1
+
+Additional supporting information may be found in the online version of this article.
+
+2 3 4
+
+Table S1 List of fruit species reported in tapir dung 5
+
+of Baird's tapir.
+
+6
+
+Figure S1 Families and number of species per family represented in the species potentially dispersed by low-
+
+7 8 9
+
+land, Baird's and mountain tapirs.
+
+10
+
+Please note: Wiley-Blackwell is not responsible for 11
+
+the content or functionality of any supporting informa- 12
+
+tion supplied by the authors. Any queries (other than 13
+
+missing content) should be directed to the correspond-
+
+14 15
+
+ing author for the article.
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+© 2012 Wiley Publishing Asia Pty Ltd, ISZS and IOZ/CAS
+
+17
+
+View publication stats
+
+

@@ -56,11 +56,60 @@ shinyServer(function(input, output, session) {
               
               return(df)
             }
- 
+  # Custom helper function to "correct" the Identificatons based on the first letters
+  list = fam
+  famcorrector <- function(list) {
+    
+    t <- replicate(100,sort(sample(1:length(list[,1]),2)))
+    w = c()
+    for(i in 1:length(t[1,])){
+      w[[i]] <- seq(from = t[,i][1], to = t[,i][2])
+    }
+    
+    f <- c()
+    for(i in 1:length(w)) {
+      f[[i]] <- list[w[[i]],]
+    }
+    
+    
+    e <-c()
+    for(i in 1:length(list[,1])){
+      e[[i]] <-  substr(f[[i]][,1],1,1)
+    }
+    
+    g <-c()
+    for(i in 1:length(list[,1])){
+      g[[i]] <- e[[i]] %stri==% e[[i]][1]
+    }
+  
+    
+    for(i in 1:length(list[,1])){
+      f[[i]][,2][g[[i]]] <- f[[i]][,2][i]
+      f[[i]][,3][g[[i]]] <- f[[i]][,3][i]
+    }
+    
+    df = dplyr::bind_rows(f)
+    
+    getmode <- function(v) {
+      uniqv <- unique(v)
+      uniqv[which.max(tabulate(match(v, uniqv)))]
+    }
+    
+    
+    ff <- df[!is.na(df[,2]),]
+    ff <- aggregate(ff, getmode, by = list(ff[,1]))
+    
+    
+    newlist <- ff[,c(3:4)][match(list[,1], ff[,1]),]
+    newlist$sp <- list[,1]
+    rownames(newlist) <- NULL
+    newlist <- newlist[,c(3,1,2)]
+    names(newlist) <- c("species", "family", "class")
+    return(newlist)}
 #
 # Custom function to scrapenames, OCR the pdf and return a list of taxonomic entities found (including its identification at family and class) 
-  # along with a list of "snippets" of the text of ~600 long that matches both the dictionary terms. 
-  # Requires: a dictionary and the path where the article (pdf) is stored. This function calls the "Index" function and passes the arguments
+  # along with a list of "snippets" of the text of ~600 long that matches both the dictionary terms and the target species of the search. 
+  # Requires: a dictionary, a filter and the path where the article (pdf) is stored. This function calls the "Index" function and passes the arguments
   # dictionary and verbatim = list of scientific names found with the taxize::scrapenames function.  
   
   readtext <- function(completePath2, dictionary){
@@ -68,6 +117,7 @@ shinyServer(function(input, output, session) {
                     texto <- fulltext::ft_extract(completePath2)
                     
                     verbatim12 <- taxize::scrapenames(text = texto$data, all_data_sources = T) # Scrape scientific names
+                    
                     
                     namew <- unique(verbatim12$data$scientificname) # Get unique scientific names detected
                    
@@ -80,7 +130,8 @@ shinyServer(function(input, output, session) {
                     fam$class <- reshape2::melt(families[4,])[,1] # Add class
                     
                     names(fam) = c("family", "species", "class") # Rename
-                    
+                    fam <- fam[,c(2,1,3)] # reorder to match helper function
+                    fam <- famcorrector(fam) # apply helper "corrector" function
                     #filter = filter # Apply a filter
                     #custom.filter = c("Calamus","Palmae") # If a custom filter is necessary
                    # palms1 <- na.omit(fam$sp[fam$family == filter])
@@ -98,7 +149,9 @@ shinyServer(function(input, output, session) {
                     readed$dic <- dictionary
                     readed$art <- texto$data
                     return(readed)
-                  }
+  }
+  
+
 ####### ----- ######
   
 read <- eventReactive(input$GoButton,{
