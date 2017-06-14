@@ -8,6 +8,7 @@
 # library(shiny)
 # library(monkeylearn)
 
+library(stringi)
 shinyServer(function(input, output, session) {
   
 
@@ -55,9 +56,13 @@ shinyServer(function(input, output, session) {
               
               
               return(df)
-            }
+  }
+  
+  # Function to split text based on positions                    
+  splitAt <- function(x, pos) unname(split(x, cumsum(seq_along(x) %in% pos))) # from:https://stackoverflow.com/questions/16357962/r-split-numeric-vector-at-position
+
   # Custom helper function to "correct" the Identificatons based on the first letters
-  list = fam
+
   famcorrector <- function(list) {
     
     t <- replicate(100,sort(sample(1:length(list[,1]),2)))
@@ -114,41 +119,47 @@ shinyServer(function(input, output, session) {
   
   readtext <- function(completePath2, dictionary){
     
-                    texto <- fulltext::ft_extract(completePath2)
-                    
+                    texto <- fulltext::ft_extract(completePath2) # OCR PDF
                     verbatim12 <- taxize::scrapenames(text = texto$data, all_data_sources = T) # Scrape scientific names
-                    
-                    
                     namew <- unique(verbatim12$data$scientificname) # Get unique scientific names detected
-                   
                     families <- sapply(namew, FUN = function(x) 
                                                           taxize::tax_name(x, get = c("family","class"), 
                                                            db = "ncbi", verbose = F,ask = F)) # Look for families
-                    
                     fam <- reshape2::melt(families[3,]) # Create dataframe with families
-                    
                     fam$class <- reshape2::melt(families[4,])[,1] # Add class
-                    
                     names(fam) = c("family", "species", "class") # Rename
-                    fam <- fam[,c(2,1,3)] # reorder to match helper function
-                    fam <- famcorrector(fam) # apply helper "corrector" function
+                    #fam <- fam[,c(2,1,3)] # reorder to match helper function
+                    #fam <- famcorrector(fam) # apply helper "corrector" function
                     #filter = filter # Apply a filter
                     #custom.filter = c("Calamus","Palmae") # If a custom filter is necessary
-                   # palms1 <- na.omit(fam$sp[fam$family == filter])
+                    #palms1 <- na.omit(fam$sp[fam$family == filter])
                     #palms2 <- na.omit(fam$sp[fam$sp == custom.filter])# Filter if necessary with custom.filter
                     #match <- match( palms1,verbatim12$data$scientificname) # Match to arecaceae 
                     #texto <- sapply(pdftools::pdf_text(completePath2[i]), function(x) paste0(x,collapse="")) # If the first option does not work
-                    
-                    # Create a return object
-                    readed <- list()
                     readed <- Index(texto$data, verbatim12$data, dictionary)
+                    # Create chunks to summarize text output
+                    nam <- readed$where
+                    ww <- lapply(data.frame(nam), diff) # Calculate differences between matches
+                    bp <- as.numeric(which(unlist(ww) > 600)) # Select breakpoints based on a difference threshold (large of snippets)
+                    # create chunks 
+                    lmis <- splitAt(nam,bp+1)
+                    # Set limits
+                    lims <- lapply(lmis, function(x) c(min(x)-200, max(x)+420))
+                    # retrieve text
+                    chunks <- lapply(lims, function(x) stringr::str_sub(texto$data, x[1],x[2]))
                     #readed <- Index(texto$data, verbatim12$data[match,], dictionary)
-                    readed$dir <- completePath2
-                    readed$names <- fam
-                    readed$verb <- verbatim12$data
-                    readed$dic <- dictionary
-                    readed$art <- texto$data
-                    return(readed)
+                    # create a return object 
+                    retorne <- list()
+                    retorne$dic <- dictionary
+                    retorne$where <- nam
+                    retorne$path <- completePath2
+                    retorne$names <- fam
+                    retorne$found <- verbatim12$data
+                    retorne$article <- texto$data
+                    retorne$chunks <- unlist(chunks)
+      
+                    return(retorne)
+                      
   }
   
 
@@ -165,7 +176,7 @@ read <- eventReactive(input$GoButton,{
 # Tab with Scientific Names found and count
 
   output$data_table <- DT::renderDataTable({
-    sciname <- read()$verb$scientificname 
+    sciname <- read()$found$scientificname 
     splist <- table(sciname,dnn = "Species")[order(table(sciname), decreasing = T)]
     splist <- data.frame(splist)
     names(splist) <- c("species", "count")
@@ -182,11 +193,10 @@ read <- eventReactive(input$GoButton,{
 
 
 
- 
 # Tab to show the dictionary
     output$dictionary <- renderPlot({
       # Read the dictionary
-      c <- termcount(read()$dic, read()$art )
+      c <- termcount(read()$dic, read()$article )
       wordcloud::wordcloud(freq = c$count, words = c$term, 
                            max.words = 5, main = "Common terms from dictionary" )
 
@@ -195,16 +205,16 @@ read <- eventReactive(input$GoButton,{
     # Tab to show the indexed results
 
 
-    output$Indexed.version <- DT::renderDataTable(
-      
-      matrix(read()$text), server = FALSE)
+    output$Indexed.version <- DT::renderDataTable({
+      dat <- data.frame(read()$chunks)
+      DT::datatable(dat, rownames = F) })
 
     output$plot <- renderPlot({
       #e = input$Indexed.version_rows_selected
 
     plot(read()$where,
            xlab = "String match rank", ylab = "Article lenght",
-           ylim = c(0,nchar(iconv(enc2utf8(read()$art),sub="byte"))),
+           ylim = c(0,nchar(iconv(enc2utf8(read()$article),sub="byte"))),
            col = "#5ba966",pch = 16,
            main = "position on the text")
            legend("topright", "Position of record \n along the text",pch = 16, 
