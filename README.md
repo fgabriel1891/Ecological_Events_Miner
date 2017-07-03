@@ -10,6 +10,10 @@ Currently,  the PDF versions of published articles is the most common way to sto
 
 # Instructions of Use 
 
+## Running at the shiny server 
+- Go to: https://fgabriel1891.shinyapps.io/ecologicaleventminer/
+
+## Running the app locally
 - Clone or download the repository
 - Run the app 
 - If any package is missing, install them with ´install.packages("package name")´ (Check "How does it work section")
