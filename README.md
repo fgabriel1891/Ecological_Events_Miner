@@ -1,21 +1,64 @@
 
-# Welcome to Ecological Event Miner! 
-This is a work in progress to mine ecological events from published literature
+# Welcome to Ecological Events Miner! 
+
 
 To better understand large scale process in Ecology it is necessary to develop of new hypothesis based on our current knowledge. A good portion of primary biodiversity knowledge (e.g. species interactions / species occurrences ) can be found in literature. Global biodiversity research depends on [high - level](https://en.wikipedia.org/wiki/Biological_organisation) concepts abstracted and put together to synthesize a variety of information independently produced by local observers, teams and institutions  working differently all over the world (Bisby 2000). This array of sources creates an intrinsic difficulty on "knowing what is where" and "comparing like with like" (Bisby 2000), fueling the need for integration of different ecological data and information over various geographical and environmental scales (Thuiller et al. 2013; Kissling and Schleuning 2015; Poissot et al. 2016).
 
-Currently,  the PDF versions of published articles is the most common way to store and share literature. PDF's, as they are "basically" a digital representation of a printed version, making it difficult to scale up the process of compiling published information on a determined topic. In this sence, this app have been developed with the idea to optimize the extraction of key information from published literature in ecological sciences, focusing on the extraction of multi-species interactions.
+Currently,  the PDF versions of published articles is the most common way to store and share literature. PDF's, as they are "basically" a digital representation of a printed version, make it diffucult to scalate the process of compiling published information on a determined topic. In this sence, this app have been developed with the idea to optimize the extraction of key information from published literature in ecological sciences, focusing on the extraction of multi-species interactions.
 
 ----------
 
 # Instructions of Use 
 
 - Clone or download the repository
-- Replace the files from the '/articles/' folder with the collection of files you want to mine. Be sure to name the files appropiately so you do not loose track of which article are you mining from. 
-- Provide a custom dictionary in the '/dic/' folder or use one of the thesaurus provided (Currently only the frugivory - thesaurus is available)
-- Open the RContainer Folder and Run the App. 
-- Under the "Species Names" tab, you will find at the right side of the page a list of the species names recognized in the article, ordered by number of occurrences. In the left side, a wordcloud represents the 10 most frequent thesaurus terms found in the article. 
-- Under the “Taxonomic Summary” tab, you will various things. The first two plots will shown at the left side, a wordcloud represents the 5 most frequent thesaurus terms found in the article. To the right side the position of the indexed text snippets. More below, at the left you will find list of the species names recognized in the article, ordered by number of occurrences and with their family and class. In the right side are found the text snippets where both the species and the dictionary terms. In both cases you can filter results by using the “search” tab.
+- Run the app 
+- If any package is missing, install them with ´install.packages("package name")´ (Check "How does it work section")
+- Browse and upload the files you want to mine (There is a file size limitation for uploading large and/or many files).
+- Select one of the available dictionaries to mine contents (Currently frugivory & pollination available)
+- If you desire, you can provide a custom dictionary in the '/dic/' folder.
+- Under the "Taxonomic Summary" tab, you will various things. The first two plots will shown at the left side, a wordcloud represents the 5 most frequent thesaurus terms found in the article. To the right side the position of the indexed text snippets. More below, at the left you will find list of the species names recognized in the article, ordered by number of occurrences and with their family and class. In the right side are found the text snippets where both the species and the dictionary terms. In both cases you can filter results by using the "search" tab. 
+
+----------
+
+# Where to harvest articles? 
+
+There is many ways to get articles. If you have the access to Academic Databases ( e.g. [Web of Science](https://login.webofknowledge.com/)) you can just download as many articles you want and feed them to the app. However, there a known publication bias on harvesting references from only one database. Therefore, below you can find a list of sources to search for academic publications. Ideally, to avoid such biases, specially if your focusing your research on tropical regions or zones where english is not the main lenguage, a good literature search should involves queries in as many databases possible.
+
++ [arXiv](arxiv.org) (Free) 
++ [Redalyc](www.redalyc.org) (Free) 
++ [FreeFullPDF](www.freefullpdf.com) (Free) 
++ [Wiley](www.wiley.com) (Subscription needed) 
++ [CORE](core.ac.uk) (Free) 
++ [Microsoft Academic](academic.microsoft.com) (Free for 10K queries per month) 
++ [Springer](www.springer.com) (Subscription needed) 
++ [Web of Science](webofknowledge.com) (Subscription needed) 
++ [Russian Science Citation Index](elibrary.ru) (Free) 
++ [SciELO](www.scielo.org) (Free) 
++ [Directory of Open Access Journals](www.doaj.org) (Free) 
++ [BioOne](www.bioonepublishing.org) (Subscription needed) 
++ [Google Scholar](scholar.google.com)
++ [ScienceOpen](scienceopen.com) (Free) 
++ [Scopus](www.scopus.com) (Free) 
++ [Socolar](www.socolar.com) (Free) 
++ [Public Library of Science](www.plos.org)
++ [EuropePMC](europepmc.org) (Free) 
++ [Crossref](www.crosref.org) (Free) 
++ [Biblat](biblat.unam.mx) (Free)  
++ [Sci-Hub](sci-hub.cc) (Free) 
+
+----------
+
+## Programatic query and download 
+
+It is possible to (semi)- automatize the process of downloading articles. If a researcher is interested into programatically query Google Scholar, there is an unofficial API [sci-hub.py](https://github.com/zaytoun/scihub.py). This API search for articles in Google Scholar and download them from Sci-hub when there is not a free version available. This API only works for python and currently the automatic download from Sci - Hub is blocked by captchas.  However, the list of urls directing to the articles from a particular query in Google scholar can be retrieved fairly easy. After doing some preprocessing on this list the urls can be passed to the `download.file` implemented in base R for download the PDFs. 
+
+If you are not so familiar with programming, another very good option to shorten the process of downloading articles is described in [Haddaway et al. 2017](https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-016-0079-2). 
+
+----------
+
+# How to create a thesaurus? 
+
+To identify custom relevant ecological information you can create your own dictionary or thesaurus. A thesaurus is a list of common "standard" terms that researchers use to describe a particular process in ecology.  For example, to describe frugivory events the words `diet`, `frugivore`, `seed dispersal` are used frequently. To build the thesaurus you could simply list your common terms of interest. Although the pool of terms used to describe a particular ecological event is finite, it can become difficult (even for an specialist) to recall all terms, therefore it is a better option to extract those terms directly from small collection of "key" articles ( articles you know that contain the desired information). Building a thesaurus of terms becomes easier if you have some "key" articles already identified. Web tools, such as  (add references to TERMMMINE, etc...), exist to extract the main terms of a document or a collection of documents. If your familiar with R, packages like `tm` to extract terms from [corpus](reference to corpus) of articles, calculate term frequencies, etc. 
 
 ----------
 
@@ -24,13 +67,36 @@ Currently,  the PDF versions of published articles is the most common way to sto
 Ecological Events Miner makes use of R packages designed for text mining and base R functions. 
 Functions from `fulltext` are used to perform the OCR. The `taxize` package is used to establish the API connection to the [Global Names Recognition and Discovery (GNRF)](rdrr.io) tool. The `stringr`is used for string manipulation and `wordcloud` to create the wordcloud of terms. 
 
+## Required packages to fuction
+
+- shinythemes
+- DT
+- stringi
+- stringr
+- wordcloud
+- taxize
+- fulltext
+
+----------
+
+# I have mined my data, now what? 
+
+
+Well, once you have mined your data, test your new hyphotesis and discover new trends. Please share the data and make it available to others. [Zenodo](https://zenodo.org/) is a good free repository for any kind of data. More specific repositories also exist for: 
+  
+  + Species traits data:  TRY
+  + Species interaction data: GLOBI
+  + Species occurrence data: GBIF
+  
+By minding the gap between the availability of data from published literature to digitally accesible you will contribute to increase the general global understanding of key ecological processes and to identify specific and geographical gaps in our shared ecological knowledge. 
+
 ----------
 
 # Room for improvement? lets get in touch. 
 
-There is always room for improvement. I'll be happy to discuss ideas and tools for improvement. I have some ideas in mind but their are not completely cooked yet... 
+There is always room for improvement, for now (Because of time and knowledge limitations) I still haven't implemented all my possible ideas for this app. Ecolgical Event Miner is still a work in progress so if you have recomendations, suggestions or are experiencing any issues send me a message I'll be happy to discuss new ideas and tools for improvement!
 
-Still interested to get in touch? then send me an [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
+Contact: [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
 
 ----------
 
@@ -44,10 +110,22 @@ Haddaway, N. R., Collins, A. M., Coughlin, D., & Kirk, S. (2017). A rapid method
 
 Kissling, W. D., & Schleuning, M. (2015). Multispecies interactions across trophic levels at macroscales: retrospective and future directions. Ecography, 38(4), 346-357.
 
-
 Poisot, T., Stouffer, D. B., & Gravel, D. (2015). Beyond species: why ecological interaction networks vary through space and time. Oikos, 124(3), 243-251.
 
 Thuiller, W., Münkemüller, T., Lavergne, S., Mouillot, D., Mouquet, N., Schiffers, K., & Gravel, D. (2013). A road map for integrating eco‐evolutionary processes into biodiversity models. Ecology letters, 16(s1), 94-105.
+
+----------
+
+# Aknowledgements 
+
+For helpful discussions and commentaries I am grateful to both [Emiel van Loon](https://staff.science.uva.nl/e.e.vanloon/index.html) and [Daniel Kissling](http://www.uva.nl/en/profile/k/i/w.d.kissling/w.d.kissling.html) from the University of Amsterdam. 
+
+Ecological Event Miner uses tools from the [GNA (GlobalNamesArchitecture)](https://github.com/GlobalNamesArchitecture) implemented in the [taxize](https://github.com/ropensci/taxize) package. Thanks to Scott Chamberlain for modifications to ´taxize´ that improves the functionality of this app.
+Credits to the developers of the individual packages Ecological Event Miner is dependent on.  
+
+
+
+
 
 
 
