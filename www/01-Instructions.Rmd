@@ -15,8 +15,11 @@ Currently,  the PDF versions of published articles is the most common way to sto
 # Instructions of Use 
 
 - Clone or download the repository
-- Replace the files from the '/articles/' folder with the collection of files you want to mine. Be sure to name the files appropiately so you do not loose track of which article are you mining from. 
-- Provide a custom dictionary in the '/dic/' folder or use one of the thesaurus provided (Currently only the frugivory - thesaurus is available)
+- Run the app 
+- If any package is missing, install them with ´install.packages("package name")´ (Check "How does it work section")
+- Browse and upload the files you want to mine (There is a file size limitation for uploading large and/or many files).
+- Select one of the available dictionaries to mine contents (Currently frugivory & pollination available)
+- If you desire, you can provide a custom dictionary in the '/dic/' folder.
 - Under the "Taxonomic Summary" tab, you will various things. The first two plots will shown at the left side, a wordcloud represents the 5 most frequent thesaurus terms found in the article. To the right side the position of the indexed text snippets. More below, at the left you will find list of the species names recognized in the article, ordered by number of occurrences and with their family and class. In the right side are found the text snippets where both the species and the dictionary terms. In both cases you can filter results by using the "search" tab. 
 
 ----------
@@ -59,7 +62,7 @@ If you are not so familiar with programming, another very good option to shorten
 
 # How to create a thesaurus? 
 
-To identify the relevant ecological information, we must provide a thesaurus to the app. A thesaurus is a list of common "standard" terms that researchers use to describe a particular process in ecology.  For example, to describe frugivory events the words `diet`, `frugivore`, `seed dispersal` are used frequently. To build the thesaurus you could simply list your common terms of interest. Although the pool of terms used to describe a particular ecological event is finite, it can become difficult (even for an specialist) to recall all terms, therefore it is a better option to extract those terms directly from small collection of "key" articles ( articles you know that contain the desired information). Building a thesaurus of terms becomes easier if you have some "key" articles already identified. Web tools, such as  (add references to TERMMMINE, etc...), exist to extract the main terms of a document or a collection of documents. If your familiar with R, packages like `tm` to extract terms from [corpus](reference to corpus) of articles, calculate term frequencies, etc. 
+To identify custom relevant ecological information you can create your own dictionary or thesaurus. A thesaurus is a list of common "standard" terms that researchers use to describe a particular process in ecology.  For example, to describe frugivory events the words `diet`, `frugivore`, `seed dispersal` are used frequently. To build the thesaurus you could simply list your common terms of interest. Although the pool of terms used to describe a particular ecological event is finite, it can become difficult (even for an specialist) to recall all terms, therefore it is a better option to extract those terms directly from small collection of "key" articles ( articles you know that contain the desired information). Building a thesaurus of terms becomes easier if you have some "key" articles already identified. Web tools, such as  (add references to TERMMMINE, etc...), exist to extract the main terms of a document or a collection of documents. If your familiar with R, packages like `tm` to extract terms from [corpus](reference to corpus) of articles, calculate term frequencies, etc. 
 
 ----------
 
@@ -67,6 +70,16 @@ To identify the relevant ecological information, we must provide a thesaurus to 
 
 Ecological Events Miner makes use of R packages designed for text mining and base R functions. 
 Functions from `fulltext` are used to perform the OCR. The `taxize` package is used to establish the API connection to the [Global Names Recognition and Discovery (GNRF)](rdrr.io) tool. The `stringr`is used for string manipulation and `wordcloud` to create the wordcloud of terms. 
+
+## Required packages to fuction
+
+- shinythemes
+- DT
+- stringi
+- stringr
+- wordcloud
+- taxize
+- fulltext
 
 ----------
 
@@ -85,9 +98,9 @@ By minding the gap between the availability of data from published literature to
 
 # Room for improvement? lets get in touch. 
 
-There is always room for improvement, for now I have built this app using mostly spare time of my own. I'll be happy to discuss ideas and tools for improvement. 
+There is always room for improvement, for now (Because of time and knowledge limitations) I still haven't implemented all my possible ideas for this app. Ecolgical Event Miner is still a work in progress so if you have recomendations, suggestions or are experiencing any issues send me a message I'll be happy to discuss new ideas and tools for improvement!
 
-Still interested to get in touch? then send me an [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
+Contact: [email](mailto:fgabriel1891@gmail.com), find me on [GitHub](https://github.com/fgabriel1891) or [ResearchGate](https://www.researchgate.net/profile/Gabriel_Munoz2).
 
 ----------
 
@@ -111,7 +124,8 @@ Thuiller, W., Münkemüller, T., Lavergne, S., Mouillot, D., Mouquet, N., Schiff
 
 For helpful discussions and commentaries I am grateful to both [Emiel van Loon](https://staff.science.uva.nl/e.e.vanloon/index.html) and [Daniel Kissling](http://www.uva.nl/en/profile/k/i/w.d.kissling/w.d.kissling.html) from the University of Amsterdam. 
 
-This apps uses tools from the [GNA (GlobalNamesArchitecture)](https://github.com/GlobalNamesArchitecture) implemented in the [taxize](https://github.com/ropensci/taxize) package. Credits to the developers of those initiatives. 
+Ecological Event Miner uses tools from the [GNA (GlobalNamesArchitecture)](https://github.com/GlobalNamesArchitecture) implemented in the [taxize](https://github.com/ropensci/taxize) package. Thanks to Scott Chamberlain for modifications to ´taxize´ that improves the functionality of this app.
+Credits to the developers of the individual packages Ecological Event Miner is dependent on.  
 
 
 

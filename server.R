@@ -5,10 +5,15 @@
 # # http://shiny.rstudio.com
 # #
 # 
-# library(shiny)
+library(shiny)
 # library(monkeylearn)
-
+library(shinythemes)
+library(DT)
 library(stringi)
+library(wordcloud)
+library(taxize)
+library(fulltext)
+
 shinyServer(function(input, output, session) {
   
 
@@ -22,7 +27,7 @@ shinyServer(function(input, output, session) {
                   count <-c()
                   for (i in 1:length(unlist(dictionary))){
                     count$term[i] <- dictionary[i,]
-                    count$count[i] <- length(grep(dictionary[i,], iconv(enc2utf8(text),sub="byte")))
+                    count$count[i] <- length(grep(dictionary[i,], text))
                   }
                   
                   b <- data.frame(count)
@@ -39,7 +44,7 @@ shinyServer(function(input, output, session) {
     
               IndexText <- list()
               for(i in 1:length(verbatim$offsetend)){
-                IndexText[i] <- stringr::str_sub(iconv(enc2utf8(read),sub="byte"),
+                IndexText[i] <- stringr::str_sub(read,
                                                  verbatim$offsetstart[i]-200,
                                                  verbatim$offsetend[i]+400)
                 
@@ -118,10 +123,12 @@ shinyServer(function(input, output, session) {
   # dictionary and verbatim = list of scientific names found with the taxize::scrapenames function.  
   
   readtext <- function(completePath2, dictionary){
-    
-                    texto <- fulltext::ft_extract(completePath2) # OCR PDF
-                    verbatim12 <- taxize::scrapenames(text = texto$data, all_data_sources = T) # Scrape scientific names
+   
+                    print("scraping scientific names")
+                    verbatim12 <- taxize::scrapenames(file = completePath2, all_data_sources = T, return_content = T) # Scrape scientific names
+                    texto <- verbatim12$meta$content # Get the OCR from GoogleTesseract https://github.com/ropensci/taxize/issues/614
                     namew <- unique(verbatim12$data$scientificname) # Get unique scientific names detected
+                    print("identifying family and class of scientific names found")
                     families <- sapply(namew, FUN = function(x) 
                                                           taxize::tax_name(x, get = c("family","class"), 
                                                            db = "ncbi", verbose = F,ask = F)) # Look for families
@@ -130,13 +137,8 @@ shinyServer(function(input, output, session) {
                     names(fam) = c("family", "species", "class") # Rename
                     #fam <- fam[,c(2,1,3)] # reorder to match helper function
                     #fam <- famcorrector(fam) # apply helper "corrector" function
-                    #filter = filter # Apply a filter
-                    #custom.filter = c("Calamus","Palmae") # If a custom filter is necessary
-                    #palms1 <- na.omit(fam$sp[fam$family == filter])
-                    #palms2 <- na.omit(fam$sp[fam$sp == custom.filter])# Filter if necessary with custom.filter
-                    #match <- match( palms1,verbatim12$data$scientificname) # Match to arecaceae 
-                    #texto <- sapply(pdftools::pdf_text(completePath2[i]), function(x) paste0(x,collapse="")) # If the first option does not work
-                    readed <- Index(texto$data, verbatim12$data, dictionary)
+                    print("indexing text")
+                    readed <- Index(texto, verbatim12$data, dictionary)
                     # Create chunks to summarize text output
                     nam <- readed$where
                     ww <- lapply(data.frame(nam), diff) # Calculate differences between matches
@@ -146,8 +148,7 @@ shinyServer(function(input, output, session) {
                     # Set limits
                     lims <- lapply(lmis, function(x) c(min(x)-200, max(x)+420))
                     # retrieve text
-                    chunks <- lapply(lims, function(x) stringr::str_sub(texto$data, x[1],x[2]))
-                    #readed <- Index(texto$data, verbatim12$data[match,], dictionary)
+                    chunks <- lapply(lims, function(x) stringr::str_sub(texto, x[1],x[2]))
                     # create a return object 
                     retorne <- list()
                     retorne$dic <- dictionary
@@ -155,8 +156,9 @@ shinyServer(function(input, output, session) {
                     retorne$path <- completePath2
                     retorne$names <- fam
                     retorne$found <- verbatim12$data
-                    retorne$article <- texto$data
+                    retorne$article <- texto
                     retorne$chunks <- unlist(chunks)
+                    print("Done!")
       
                     return(retorne)
                       
@@ -164,13 +166,17 @@ shinyServer(function(input, output, session) {
   
 
 ####### ----- ######
+# Get the name of files uploaded and display it as a dropping list
+output$names <- renderUI({
+  selectInput('articlePath', 'Select an article to read', input$file1$name)
+})
   
 read <- eventReactive(input$GoButton,{
     dictio <- read.csv(input$dictionary, header = TRUE, stringsAsFactors = F)
-    readtext(input$articlePath, dictio)
+    path <- input$file1$datapath[match( input$articlePath,input$file1$name)]
+    readtext(path, dictio)
 
 })
-
 
 
 # Tab with Scientific Names found and count
@@ -214,7 +220,7 @@ read <- eventReactive(input$GoButton,{
 
     plot(read()$where,
            xlab = "String match rank", ylab = "Article lenght",
-           ylim = c(0,nchar(iconv(enc2utf8(read()$article),sub="byte"))),
+           ylim = c(0,nchar(read()$article)),
            col = "#5ba966",pch = 16,
            main = "position on the text")
            legend("topright", "Position of record \n along the text",pch = 16, 

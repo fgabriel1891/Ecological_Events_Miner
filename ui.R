@@ -33,9 +33,11 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                             fluidPage( theme = shinytheme("yeti"), 
                               sidebarLayout(
                                 sidebarPanel(
+                                fileInput('file1', 'Choose PDF File', accept=c('.pdf'), multiple = T,placeholder = "No file selected"),
                                 selectInput(inputId = "dictionary",
                                           label = "Select the dictionary",
                                           path2),
+                          
                                 
                                 img(src='logo.png', align = "right"),
                                 p("This shiny app is currently in development and under the CreativeCommons CC BY-NC-SA License."),
@@ -51,9 +53,7 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
                             fluidPage(
                               
                               fluidRow(
-                                column(6,selectInput(inputId = "articlePath",
-                                            label = "Select an article to read",
-                                            path1)),
+                                column(6,uiOutput('names')),
                                 column(6,actionButton(inputId = "GoButton",
                                              label = "Read!"))),
                              
