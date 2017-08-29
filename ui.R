@@ -22,58 +22,113 @@ filenames.dic<-list.files(dictionary.path)
 path2 <- paste("dic","/", filenames.dic, sep = "")
 names(path2) <- filenames.dic
 
-
+files <- c("1-s2.0-S037663571500056X-main.pdf","Diet Composition_NEBIO.pdf","02 David, Manakadan & Ganesh.pdf")
 
 
 # key <- "cf0b9da7695ba68256cd61ee7fe04cbf84ae4ede" # To change this for "accept other keys"
 
-shinyUI(navbarPage("Ecological Event Miner", id ="nav",
+shinyUI(
+  fluidPage(  br(),br(),
+    titlePanel("Ecological Events Miner"),br(),br(),
+    navbarPage("", id ="nav",
+                  # First Tab: 
                   
-                   tabPanel("Instructions",
-                            fluidPage( theme = shinytheme("yeti"), 
+                   tabPanel("Upload your Articles",
+                            fluidPage( theme = shinytheme("spacelab"), 
                               sidebarLayout(
                                 sidebarPanel(
-                                fileInput('file1', 'Choose PDF File', accept=c('.pdf'), multiple = T,placeholder = "No file selected"),
-                                selectInput(inputId = "dictionary",
-                                          label = "Select the dictionary",
-                                          path2),
-                          
-                                
-                                img(src='logo.png', align = "right"),
+                                  p("1: Select files to mine"),
+                                fileInput('file1', 'Upload your articles as PDF(s)', accept=c('.pdf'), multiple = T,
+                                          placeholder = "No file(s) selected"),
+                                p("2: Upload a customized dictionary (optional)"),
+                                fileInput('file2', 'Upload a dictionary as .csv or .txt', accept=c('.csv', ".txt"), multiple = F,
+                                          placeholder = "No file selected"),
+                                p("3: Submit your MonkeyLearn API key (optional)"),
+                                textInput("ApiButton", "Give your  API key here", ""),
+                                actionButton("submit","Submit"),
+                                br(),
+                                br(),
+                                p("4: Click Read then continue to the other tabs"),
+                                actionButton(inputId = "GoButton",
+                                             label = "Read!"),
+                                br(),
+                                br(),
+                                img(src='logo.png', align = "left", height = 100),
                                 p("This shiny app is currently in development and under the CreativeCommons CC BY-NC-SA License."),
-                                p("Contact Person: Gabriel Muñoz | fgabriel1891@gmail.com")
+                                p(a(shiny::icon('github fa-2x'),href='https://github.com/fgabriel1891/Ecological_event_miner',target='_blank')),
+                                p(h5("Contact Person: Gabriel Muñoz"))
+                                
                             ),
                             mainPanel(
                               includeMarkdown("www/01-Instructions.Rmd")
+                              
+                            
+                              
                             )
                           )
                         )
                       ),
-                   tabPanel("Taxonomic summary",
-                            fluidPage(
-                              
+                  
+                  # Second Tab: 
+                  
+                   tabPanel("Taxonomic Overview",
+                            
+                            column(6,p("Set context limit"),
+                                   column(2,sliderInput("up", "left:", min = 0, max = 500, value = 100, step= 10)),
+                                   column(2,sliderInput("down", "right:", min = 0, max = 500, value = 100, step= 10)),
+                                   br(),
+                                   p("Select an species name"),
+                                   DT::dataTableOutput("data_table", width = "90%")),
+                            column(6, DT::dataTableOutput("context"))),
+               tabPanel("Ecological Event Overview", 
+                            bootstrapPage(   
+                              fluidRow(column(2,uiOutput("names")),
+                                      column(2,selectInput(inputId = "dictionary",
+                                                           label = "Choose a dictionary",
+                                                           path2)),
+                                      column(2, actionButton(inputId = "GoButton2",
+                                                              label = "Index!"))),
                               fluidRow(
-                                column(6,uiOutput('names')),
-                                column(6,actionButton(inputId = "GoButton",
-                                             label = "Read!"))),
-                             
-                              fluidRow(
-                                column(5,h2("5 most matched topics")),
-                                column(7, h3("Indexed snippets"))),
-                              fluidRow(
-                                column(5,plotOutput("dictionary", height = 300)),
-                                column(7, plotOutput("plot", height = 300))),
-                              
-                              fluidRow(
-                                column(5,h2("Taxonomic Summary")),
-                                column(7, h3("Text snippets"))),
-                              
-                              fluidRow(
-                                column(5, DT::dataTableOutput("data_table", width = "90%")),
-                                column(7, DT::dataTableOutput("Indexed.version", width = "90%")))
-                                
-                   ))
-  ))
+                                  tabsetPanel(
+                                      tabPanel("Text Snippets",
+                                               column(6, DT::dataTableOutput("Indexed.version", width = "90%")),
+                                               column(6,
+                                                      p("Indexed text summary"),
+                                                      plotOutput("dictionary", height = 300))),
+                                      tabPanel("Wordcloud",
+                                               column(6, 
+                                                      p("Indexed positions"),
+                                                      plotOutput("plot", height = 300)), 
+                                        column(6,
+                                               p("Dictionary matches"),
+                                               plotOutput("dictionary2", height = 300))),
+                                      tabPanel("Find Tables", actionButton("renderArticle","Render Article"),
+                                               verbatimTextOutput("article"))
+                                      )
+                                  )
+                              )
+                            ),
+                   
+                  # Third Tab
+                  
+                  tabPanel("Geographical Overview",
+                           fluidPage(
+                           fluidRow(actionButton(inputId = "GoButton3",
+                                                 label = "Get Locations!"),
+                             tabsetPanel(
+                               tabPanel("Map",leafletOutput("map",height = 650)),
+                               tabPanel("Locations Mined", DT::dataTableOutput("LocationsText")))
+                              )
+                           )
+                          ),
+                  # Fifth tab
+                  
+                  tabPanel("About",
+                           fluidPage(
+                             includeMarkdown("www/02-About.Rmd")
+                           ))
+  )))
+
 
 
 
@@ -101,5 +156,5 @@ shinyUI(navbarPage("Ecological Event Miner", id ="nav",
 #   )
 #  )
 # )
-# 
-#     
+
+
