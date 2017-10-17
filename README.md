@@ -1,6 +1,13 @@
 
 # Welcome to Ecological Events Miner! 
 
+This shiny app has been deprecated. A new version of this shiny app with new layout, features and name is available at: 
+
+
+https://github.com/fgabriel1891/BiodiversityObservationsMiner
+
+------------
+
 To better understand large-scale process in Ecology it is necessary to develop new hypothesis based on our current knowledge. A good portion of primary biodiversity knowledge (e.g. species interactions/species occurrences ) can be found in the literature. Global biodiversity research depends on [high - level](https://en.wikipedia.org/wiki/Biological_organisation) concepts abstracted and put together to synthesize a variety of information independently produced by local observers, teams, and institutions working differently all over the world (Bisby 2000). This array of sources creates an intrinsic difficulty on "knowing what is where" and "comparing like with like" (Bisby 2000), fueling the need for integration of different ecological data and information over various geographical and environmental scales (Thuiller et al. 2013; Kissling and Schleuning 2015; Poissot et al. 2016).
 
 Currently,  the PDF versions of published articles are the most common way to store and share literature. PDF's, as they are "basically" a digital representation of a printed version, make it difficult to escalate the process of compiling published information on a determined topic. In this sense, this app has been developed with the idea to optimize the extraction of key information from published literature in ecological sciences, focusing on the extraction of multi-species interactions.
@@ -10,7 +17,7 @@ Currently,  the PDF versions of published articles are the most common way to st
 # Instructions of Use 
 
 ## Running at the shiny server 
-- Go to: https://fgabriel1891.shinyapps.io/ecologicaleventminer/
+- Go to: https://fgabriel1891.shinyapps.io/ecologicaleventminer/ (deprecated)
 
 ## Running the app locally
 - Clone or download the repository
